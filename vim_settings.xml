@@ -69,10 +69,10 @@
         <mark key="[" line="28" column="35" />
         <mark key="]" line="28" column="55" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_homelist.jsp" timestamp="1530890123538">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_homelist.jsp" timestamp="1530943598896">
+        <mark key="[" line="75" column="64" />
+        <mark key="]" line="75" column="64" />
+        <mark key="." line="75" column="64" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/logistics/register_ok.jsp" timestamp="1530368162775">
         <mark key="'" line="57" column="12" />
@@ -244,11 +244,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlLS08bGk+PGEgaHJlZj0iIyI+T25lIG1vcmUgc2VwYXJhdGVkIGxpbms8L2E+PC9saT4tLSU+CiAgICAgICAgICAgICAgICA8JS0tPC91bD4tLSU+CiAgICAgICAgICAgICAgICA8JS0tPC9saT4tLSU+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>查询</text>
