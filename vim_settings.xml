@@ -26,22 +26,18 @@
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/logistics_statistic.jsp" timestamp="1531017514284">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_homelist.jsp" timestamp="1531016949941">
-        <mark key="'" line="171" column="55" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_homelist.jsp" timestamp="1531031155650">
+        <mark key="'" line="54" column="16" />
+        <mark key="[" line="62" column="95" />
+        <mark key="]" line="62" column="95" />
+        <mark key="." line="62" column="95" />
+        <mark key="^" line="62" column="95" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/logistics/register_ok.jsp" timestamp="1530368162775">
-        <mark key="'" line="57" column="12" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="57" column="67" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/admin_add_ok.jsp" timestamp="1531026128424">
-        <mark key="[" line="69" column="40" />
-        <mark key="]" line="69" column="52" />
-        <mark key="." line="69" column="52" />
-        <mark key="^" line="69" column="52" />
+      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/admin_add_ok.jsp" timestamp="1531028140058">
+        <mark key="[" line="49" column="47" />
+        <mark key="]" line="49" column="57" />
+        <mark key="." line="49" column="57" />
+        <mark key="^" line="49" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/homelist.jsp" timestamp="1530370277897">
         <mark key="'" line="177" column="87" />
@@ -53,11 +49,12 @@
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/logistics_statistic_ok.jsp" timestamp="1531017494974">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_myhomelist.jsp" timestamp="1531015218178">
-        <mark key="'" line="158" column="0" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_myhomelist.jsp" timestamp="1531030797740">
+        <mark key="'" line="159" column="0" />
+        <mark key="[" line="153" column="108" />
+        <mark key="]" line="153" column="118" />
+        <mark key="^" line="153" column="118" />
+        <mark key="." line="153" column="118" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_homelist.jsp" timestamp="1531016050771">
         <mark key="[" line="42" column="0" />
@@ -67,6 +64,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_search.jsp" timestamp="1530889263572">
         <mark key="'" line="15" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_delete_ok.jsp" timestamp="1531032718570">
+        <mark key="[" line="56" column="11" />
+        <mark key="]" line="56" column="21" />
+        <mark key="." line="56" column="21" />
+        <mark key="^" line="56" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/js/temp.js" timestamp="1530370664156">
         <mark key="'" line="10" column="45" />
@@ -81,6 +84,13 @@
         <mark key="]" line="80" column="44" />
         <mark key="^" line="80" column="44" />
         <mark key="." line="80" column="44" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_add_ok.jsp" timestamp="1531032636893">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="112" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="73" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/java/project/services/DataAction.java" timestamp="1531017224899">
         <mark key="[" line="116" column="24" />
@@ -100,11 +110,6 @@
         <mark key="." line="158" column="17" />
         <mark key="^" line="158" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/src/java/project/services/admin/ServletAction.java" timestamp="1530201495666">
-        <mark key="'" line="26" column="19" />
-        <mark key="[" line="28" column="35" />
-        <mark key="]" line="28" column="55" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/logistics/register.jsp" timestamp="1530029940049">
         <mark key="[" line="48" column="38" />
         <mark key="]" line="48" column="41" />
@@ -121,6 +126,13 @@
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/java/project/services/customer/CheckPw.java" timestamp="1530287690599">
         <mark key="'" line="77" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_delete.jsp" timestamp="1531032592561">
+        <mark key="'" line="86" column="15" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="33" column="21" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="101" column="103" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/admin_homelist.jsp" timestamp="1531025342537">
         <mark key="'" line="15" column="20" />
         <mark key="[" line="165" column="0" />
@@ -128,16 +140,17 @@
         <mark key="^" line="107" column="28" />
         <mark key="." line="0" column="129" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/logistics/statistic.jsp" timestamp="1530199507369">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="85" column="20" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/admin_add.jsp" timestamp="1531025844711">
         <mark key="[" line="61" column="37" />
         <mark key="]" line="61" column="45" />
         <mark key="." line="61" column="45" />
         <mark key="^" line="61" column="45" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_add.jsp" timestamp="1531031539989">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="^" line="92" column="101" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/statistic_ok.jsp" timestamp="1531025116999">
         <mark key="'" line="15" column="4" />
@@ -162,9 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="20" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/homelist.jsp" />
-      <jump line="203" column="16" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/homelist.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/homelist.jsp" />
       <jump line="24" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/src/java/project/services/ServletAction.java" />
       <jump line="168" column="20" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/homelist.jsp" />
       <jump line="43" column="20" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/homelist.jsp" />
@@ -262,49 +272,52 @@
       <jump line="15" column="20" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/admin_homelist.jsp" />
       <jump line="47" column="24" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/management.jsp" />
       <jump line="69" column="120" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/admin_add_ok.jsp" />
+      <jump line="54" column="16" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_homelist.jsp" />
+      <jump line="95" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_add_ok.jsp" />
+      <jump line="86" column="15" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_delete.jsp" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>查询</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgUEFTU1dPUkQgPSAicWlubG9uZzEiOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3FsID0gInVwZGF0ZSBjaG9uZ2Nhb19maWxlIHNldCBvd25lcl9uYW1lID0gJyIgKyB1bmFtZSArICInIHdoZXJlIGNob25nY2FvX2lkID0gIiArIGNob25nY2FvX2lkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPiMjIyM8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPiMjIyM8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIvdmlld3MvbG9naXN0aWNzL2xvZ2lzdGljc19ob21lbGlzdC5qc3AiPueJqea1geeuoeeQhjwvYT48L2xpPgo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyB1bmFtZSA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iZHJvcGRvd24iPjxhIGhyZWY9IiMiIGNsYXNzPSJkcm9wZG93bi10b2dnbGUiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIgcm9sZT0iYnV0dG9uIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJpYS1oYXNwb3B1cD0idHJ1ZSIgYXJpYS1leHBhbmRlZD0iZmFsc2UiPuajgOa1i+euoeeQhiA8c3BhbiBjbGFzcz0iY2FyZXQiPjwvc3Bhbj48L2E+CiAgICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJkcm9wZG93bi1tZW51Ij4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iZHJvcGRvd24iPjxhIGhyZWY9IiMiIGNsYXNzPSJkcm9wZG93bi10b2dnbGUiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIgcm9sZT0iYnV0dG9uIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXJpYS1oYXNwb3B1cD0idHJ1ZSIgYXJpYS1leHBhbmRlZD0iZmFsc2UiPuWcsOeCueeuoeeQhiA8c3BhbiBjbGFzcz0iY2FyZXQiPjwvc3Bhbj48L2E+CiAgICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJkcm9wZG93bi1tZW51Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPiMjIyM8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPiMjIyM8L2E+PC9saT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyB1c2VyX2lkID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoInVzZXJfaWQiKTsKICAgIFN0cmluZyBqdyA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJqdyIpOwogICAgU3RyaW5nIGt4ID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoImt4Iik7CiAgICBTdHJpbmcgdGltZSA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJ0aW1lIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJidG4tZ3JvdXAiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9ImRyb3Bkb3duIj4KICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIvdmlld3MvYnVzaW5lc3MvYl9ob21lbGlzdC5qc3AiIGNsYXNzPSJkcm9wZG93bi10b2dnbGUiIHJvbGU9ImJ1dHRvbiIgYXJpYS1oYXNwb3B1cD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICBhcmlhLWV4cGFuZGVkPSJmYWxzZSI+6Jmr6I2J5bqTPC9hPgogICAgICAgICAgICAgICAgPC9saT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8JS0tIFRPRE865L+u5pS557uf6K6hIC0tJT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJkcm9wZG93biI+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL3ZpZXdzL2J1c2luZXNzL2JfaG9tZWxpc3QuanNwIiBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiByb2xlPSJidXR0b24iIGFyaWEtaGFzcG9wdXA9InRydWUiCiAgICAgICAgICAgICAgICAgICAgICAgYXJpYS1leHBhbmRlZD0iZmFsc2UiPuiZq+iNieW6kzwvYT4KICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogMjAxOC82LzEyIOaooeaLn+eZu+mZhu+8jOa1i+ivleaJgOeUqO+8jOato+W8j+eJiOacrOW6lOWIoOmZpAovLyAgICAgICAgICAgIHNlc3Npb24uc2V0QXR0cmlidXRlKCJ1c2VyX25hbWUiLCJhc2QiKTsKLy8gICAgICAgICAgICBzZXNzaW9uLnNldEF0dHJpYnV0ZSgicGFzc3dvcmQiLCIxMjM0NTYiKTsK</text>
+        <text encoding="base64">JT4KPCUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogMjAxOC82LzEyIOaooeaLn+eZu+mZhu+8jOa1i+ivleaJgOeUqO+8jOato+W8j+eJiOacrOW6lOWIoOmZpAovLyAgICAgICAgICAgIHNlc3Npb24uc2V0QXR0cmlidXRlKCJ1c2VyX25hbWUiLCAiYXNkIik7Ci8vICAgICAgICAgICAgc2Vzc2lvbi5zZXRBdHRyaWJ1dGUoInBhc3N3b3JkIiwgIjEyMzQ1NiIpOwo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgIDxkaXYgY2xhc3M9Imp1bWJvdHJvbiI+CiAgICAgICAgPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtc3VjY2VzcyI+CiAgICAgICAgICAgIDxoMiBjbGFzcz0idGV4dC1jZW50ZXIiPgogICAgICAgICAgICAgICAg5oGt5Zac5L2g77yB5oiQ5Yqf5re75Yqg5Yiw5oiR55qE5LuT5bqT77yBCiAgICAgICAgICAgIDwvaDI+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCUtLTx0aCBjb2xzcGFuPSI2Ij4tLSU+CiAgICAgICAgICAgICAgICA8JS0tPGRpdiBjbGFzcz0iYnRuLWdyb3VwIGJ0bi1ncm91cC1qdXN0aWZpZWQiIHJvbGU9Imdyb3VwIiBhcmlhLWxhYmVsPSIuLi4iPi0tJT4KICAgICAgICAgICAgICAgICAgICA8JS0tPGRpdiBjbGFzcz0iYnRuLWdyb3VwIiByb2xlPSJncm91cCI+LS0lPgogICAgICAgICAgICAgICAgICAgICAgICA8JS0tPGJ1dHRvbiBpZD0iMSIgdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1pbmZvIj7omavojYnnrqHnkIbvvIwg5aaC5q2k566A5Y2VPC9idXR0b24+LS0lPgogICAgICAgICAgICAgICAgICAgIDwlLS08L2Rpdj4tLSU+CiAgICAgICAgICAgICAgICA8JS0tPC9kaXY+LS0lPgogICAgICAgICAgICA8JS0tPC90aD4tLSU+Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdW5hbWUgPSAoU3RyaW5nKXNlc3Npb24K</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
