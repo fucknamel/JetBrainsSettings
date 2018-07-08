@@ -12,12 +12,12 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl right" />
-    <keyboard-shortcut first-keystroke="shift k" />
+    <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
-    <keyboard-shortcut first-keystroke="shift j" />
+    <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="meta f2" />
