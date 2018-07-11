@@ -116,11 +116,10 @@
         <mark key="^" line="12" column="109" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/java/project/services/customer/Logistics.java" timestamp="1531228484703">
-        <mark key="'" line="184" column="37" />
-        <mark key="[" line="234" column="92" />
-        <mark key="]" line="235" column="66" />
-        <mark key="." line="235" column="66" />
-        <mark key="^" line="235" column="66" />
+        <mark key="[" line="235" column="92" />
+        <mark key="]" line="236" column="66" />
+        <mark key="." line="236" column="66" />
+        <mark key="^" line="236" column="66" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/admin_change_ok.jsp" timestamp="1531150034338">
         <mark key="'" line="30" column="16" />
@@ -249,7 +248,8 @@
         <mark key="." line="104" column="132" />
         <mark key="^" line="104" column="132" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_logistics.jsp" timestamp="1531237860435">
+      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_logistics.jsp" timestamp="1531309224957">
+        <mark key="'" line="146" column="90" />
         <mark key="[" line="146" column="83" />
         <mark key="]" line="146" column="90" />
         <mark key="^" line="146" column="90" />
@@ -333,7 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="4" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_search.jsp" />
       <jump line="86" column="4" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_delete_ok.jsp" />
       <jump line="180" column="37" filename="$USER_HOME$/IdeaProjects/untitled1/src/java/project/services/customer/Logistics.java" />
       <jump line="100" column="24" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_search_ok.jsp" />
@@ -433,6 +432,7 @@
       <jump line="53" column="8" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_export_ok.jsp" />
       <jump line="46" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_export_ok.jsp" />
       <jump line="31" column="12" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_homelist.jsp" />
+      <jump line="146" column="90" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_logistics.jsp" />
     </jumps>
     <registers>
       <register name="a" type="4">
