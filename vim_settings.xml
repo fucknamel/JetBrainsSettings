@@ -55,11 +55,6 @@
         <mark key="." line="42" column="41" />
         <mark key="^" line="42" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/statistic.jsp" timestamp="1531226269426">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="40" column="21" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/homelist.jsp" timestamp="1531150187174">
         <mark key="'" line="45" column="24" />
         <mark key="[" line="57" column="0" />
@@ -144,27 +139,12 @@
         <mark key="." line="87" column="9" />
         <mark key="^" line="87" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/data_homelist.jsp" timestamp="1531150144511">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="55" column="21" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/data_register_ok.jsp" timestamp="1531150273336">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="71" column="21" />
-        <mark key="." line="72" column="16" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/changepw.jsp" timestamp="1530288519131">
         <mark key="'" line="25" column="45" />
         <mark key="[" line="54" column="56" />
         <mark key="]" line="54" column="65" />
         <mark key="." line="54" column="65" />
         <mark key="^" line="54" column="65" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/query.jsp" timestamp="1531150357154">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="58" column="21" />
-        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_chongcao.jsp" timestamp="1531146287365">
         <mark key="'" line="7" column="0" />
@@ -180,17 +160,18 @@
         <mark key="." line="110" column="39" />
         <mark key="^" line="110" column="39" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/register.jsp" timestamp="1531150374160">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="59" column="21" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_homelist.jsp" timestamp="1531228948149">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="42" column="38" />
         <mark key="]" line="42" column="41" />
         <mark key="." line="42" column="41" />
         <mark key="^" line="42" column="41" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/kNN/test.py" timestamp="1531557010184">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_myhomelist.jsp" timestamp="1531226238152">
         <mark key="'" line="164" column="0" />
@@ -293,11 +274,6 @@
         <mark key="." line="70" column="99" />
         <mark key="^" line="70" column="99" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_add.jsp" timestamp="1531226190826">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="38" column="21" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_statistic.jsp" timestamp="1531228882650">
         <mark key="'" line="53" column="30" />
         <mark key="[" line="42" column="38" />
@@ -318,11 +294,6 @@
         <mark key="]" line="58" column="76" />
         <mark key="." line="58" column="76" />
         <mark key="^" line="58" column="76" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/register_ok.jsp" timestamp="1531150394929">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_search_ok.jsp" timestamp="1531228909097">
         <mark key="'" line="126" column="35" />
