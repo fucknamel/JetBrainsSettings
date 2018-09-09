@@ -155,6 +155,13 @@
         <mark key="." line="87" column="9" />
         <mark key="^" line="87" column="9" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/generatorConfig.xml" timestamp="1536489330770">
+        <mark key="'" line="87" column="24" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="87" column="24" />
+        <mark key="^" line="87" column="24" />
+        <mark key="." line="87" column="24" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/changepw.jsp" timestamp="1530288519131">
         <mark key="'" line="25" column="45" />
         <mark key="[" line="54" column="56" />
@@ -327,7 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/admin_add.jsp" />
       <jump line="32" column="16" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/homelist.jsp" />
       <jump line="81" column="6" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_search.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_search.jsp" />
@@ -427,6 +433,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/Test.java" />
       <jump line="207" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/Test.java" />
       <jump line="304" column="4" filename="$USER_HOME$/IdeaProjects/untitled/src/Test.java" />
+      <jump line="87" column="24" filename="$USER_HOME$/IdeaProjects/mmall/src/main/resources/generatorConfig.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
