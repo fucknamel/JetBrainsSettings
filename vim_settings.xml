@@ -119,11 +119,11 @@
         <mark key="." line="10" column="58" />
         <mark key="^" line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/datasource.properties" timestamp="1536490657249">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-        <mark key="^" line="6" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/datasource.properties" timestamp="1536492160792">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="19" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_print.jsp" timestamp="1531228812336">
         <mark key="'" line="642" column="0" />
@@ -446,10 +446,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>dbpassword</text>
+        <text>root</text>
       </register>
       <register name="-" type="4">
-        <text>dbpassword</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYXZcPg==</text>
