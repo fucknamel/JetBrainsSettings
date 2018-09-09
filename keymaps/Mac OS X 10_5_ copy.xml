@@ -3,11 +3,12 @@
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
   <action id="Coverage">
     <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
-  <action id="HideSideWindows">
-    <keyboard-shortcut first-keystroke="meta h" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
