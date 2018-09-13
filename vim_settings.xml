@@ -31,7 +31,6 @@
         <mark key="." line="99" column="80" />
         <mark key="^" line="128" column="107" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/logback.xml" timestamp="1536719790028" />
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/java/project/services/log/ServletAction.java" timestamp="1531149869361">
         <mark key="'" line="220" column="0" />
         <mark key="[" line="161" column="30" />
@@ -177,6 +176,12 @@
         <mark key="]" line="88" column="31" />
         <mark key="." line="87" column="9" />
         <mark key="^" line="87" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/portal/UserController.java" timestamp="1536817635742">
+        <mark key="[" line="18" column="79" />
+        <mark key="]" line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="19" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/generatorConfig.xml" timestamp="1536550163362">
         <mark key="'" line="87" column="24" />
