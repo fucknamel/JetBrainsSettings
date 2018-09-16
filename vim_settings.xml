@@ -161,11 +161,12 @@
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/webapp/WEB-INF/web.xml" timestamp="1536640179114">
         <mark key="'" line="53" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ServerResponse.java" timestamp="1536821821658">
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="31" column="31" />
-        <mark key="." line="31" column="31" />
-        <mark key="^" line="31" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ServerResponse.java" timestamp="1537088679836">
+        <mark key="'" line="16" column="9" />
+        <mark key="[" line="40" column="5" />
+        <mark key="]" line="43" column="7" />
+        <mark key="." line="43" column="7" />
+        <mark key="^" line="43" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/applicationContext-datasource.xml" timestamp="1536656641750">
         <mark key="m" line="31" column="26" />
@@ -196,11 +197,11 @@
         <mark key="^" line="87" column="24" />
         <mark key="." line="87" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ResponseCode.java" timestamp="1537086399928">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="22" column="7" />
-        <mark key="." line="22" column="7" />
-        <mark key="^" line="22" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ResponseCode.java" timestamp="1537088073140">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/changepw.jsp" timestamp="1530288519131">
         <mark key="'" line="25" column="45" />
@@ -412,7 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="73" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/homelist.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/search.jsp" />
       <jump line="119" column="12" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_search_ok.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_search_ok.jsp" />
@@ -512,6 +512,7 @@
       <jump line="35" column="44" filename="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/PayInfoMapper.xml" />
       <jump line="142" column="0" filename="$USER_HOME$/IdeaProjects/mmall/pom.xml" />
       <jump line="53" column="10" filename="$USER_HOME$/IdeaProjects/mmall/src/main/webapp/WEB-INF/web.xml" />
+      <jump line="16" column="9" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ServerResponse.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
