@@ -7,6 +7,10 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta h" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="Coverage">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
