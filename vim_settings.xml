@@ -126,11 +126,12 @@
         <mark key="." line="10" column="58" />
         <mark key="^" line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/UserMapper.xml" timestamp="1536545890581">
-        <mark key="[" line="150" column="20" />
-        <mark key="]" line="150" column="24" />
-        <mark key="." line="150" column="24" />
-        <mark key="^" line="150" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/UserMapper.xml" timestamp="1537158641460">
+        <mark key="'" line="140" column="2" />
+        <mark key="[" line="153" column="68" />
+        <mark key="]" line="155" column="30" />
+        <mark key="." line="155" column="30" />
+        <mark key="^" line="155" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/datasource.properties" timestamp="1536549719358">
         <mark key="[" line="5" column="12" />
@@ -210,11 +211,11 @@
         <mark key="." line="54" column="65" />
         <mark key="^" line="54" column="65" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" timestamp="1536820779621">
-        <mark key="[" line="4" column="54" />
-        <mark key="]" line="4" column="51" />
-        <mark key="^" line="4" column="51" />
-        <mark key="." line="4" column="51" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" timestamp="1537158375717">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="33" />
+        <mark key="^" line="11" column="33" />
+        <mark key="." line="11" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_chongcao.jsp" timestamp="1531146287365">
         <mark key="'" line="7" column="0" />
@@ -337,6 +338,12 @@
         <mark key="." line="66" column="68" />
         <mark key="^" line="66" column="68" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/UserMapper.java" timestamp="1537158469462">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="39" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="17" column="38" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mmall.properties" timestamp="1536631217466">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -413,7 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_search_ok.jsp" />
       <jump line="45" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_search_ok.jsp" />
       <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/search_ok.jsp" />
       <jump line="115" column="6" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/search_ok.jsp" />
@@ -513,13 +519,14 @@
       <jump line="16" column="9" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ServerResponse.java" />
       <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ServerResponse.java" />
       <jump line="66" column="79" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ServerResponse.java" />
+      <jump line="140" column="2" filename="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/UserMapper.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>T</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGludCBjaGVja1VzZXJuYW1lKFN0cmluZyB1c2VybmFtZSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
@@ -528,7 +535,7 @@
         <text>upda</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2VydmVyUmVzcG9uc2UoaW50IHN0YXR1cywgVCBkYXRhKXsKICAgICAgICB0aGlzLnN0YXR1cyA9ICBzdGF0dXM7CiAgICAgICAgdGhpcy5kYXRhID0gZGF0YTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGludCBjaGVja1VzZXJuYW1lKFN0cmluZyB1c2VybmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
