@@ -161,12 +161,12 @@
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/webapp/WEB-INF/web.xml" timestamp="1536640179114">
         <mark key="'" line="53" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ServerResponse.java" timestamp="1537147794952">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="44" column="5" />
-        <mark key="]" line="43" column="7" />
-        <mark key="." line="43" column="7" />
-        <mark key="^" line="43" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ServerResponse.java" timestamp="1537149218085">
+        <mark key="'" line="69" column="79" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="14" />
+        <mark key="." line="32" column="14" />
+        <mark key="^" line="32" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/applicationContext-datasource.xml" timestamp="1536656641750">
         <mark key="m" line="31" column="26" />
@@ -413,7 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="12" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_search_ok.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_search_ok.jsp" />
       <jump line="45" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_search_ok.jsp" />
       <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/search_ok.jsp" />
@@ -513,16 +512,17 @@
       <jump line="53" column="10" filename="$USER_HOME$/IdeaProjects/mmall/src/main/webapp/WEB-INF/web.xml" />
       <jump line="16" column="9" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ServerResponse.java" />
       <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ServerResponse.java" />
+      <jump line="66" column="79" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ServerResponse.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>upda</text>
