@@ -162,11 +162,11 @@
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/webapp/WEB-INF/web.xml" timestamp="1536640179114">
         <mark key="'" line="53" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ServerResponse.java" timestamp="1537154760879">
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ServerResponse.java" timestamp="1537235849632">
         <mark key="'" line="73" column="79" />
         <mark key="[" line="35" column="15" />
         <mark key="]" line="36" column="20" />
-        <mark key="." line="36" column="20" />
+        <mark key="." line="9" column="56" />
         <mark key="^" line="36" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/applicationContext-datasource.xml" timestamp="1536656641750">
