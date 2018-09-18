@@ -211,11 +211,12 @@
         <mark key="." line="54" column="65" />
         <mark key="^" line="54" column="65" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" timestamp="1537236218154">
-        <mark key="[" line="25" column="9" />
-        <mark key="]" line="24" column="62" />
-        <mark key="^" line="24" column="62" />
-        <mark key="." line="24" column="62" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" timestamp="1537238597509">
+        <mark key="'" line="30" column="59" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_chongcao.jsp" timestamp="1531146287365">
         <mark key="'" line="7" column="0" />
@@ -421,7 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="6" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/search_ok.jsp" />
       <jump line="59" column="5" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/search_ok.jsp" />
       <jump line="18" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_search_ok.jsp" />
       <jump line="17" column="5" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/search_ok.jsp" />
@@ -521,13 +521,14 @@
       <jump line="140" column="2" filename="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/UserMapper.xml" />
       <jump line="4" column="17" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/UserMapper.java" />
       <jump line="86" column="6" filename="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/UserMapper.xml" />
+      <jump line="28" column="59" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZih1c2VyLnBhKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
@@ -539,31 +540,31 @@
         <text>selectLogin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZih1c2VyLnBhKQo=</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBhbmQgcGFzc3dvcmQgPSAje3Bhc3N3b3Jk</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlY29uZCAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL+WvhueggeeZu+mZhk1ENQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZih1c2VyLnBhKQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBhbmQgcGFzc3dvcmQgPSAje3Bhc3N3b3Jk</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHNlY29uZCAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvL+WvhueggeeZu+mZhk1ENQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGEgPSBkYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU2VydmVyUmVzcG9uc2UoaW50IHN0YXR1cywgVCBkYXRhKXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
