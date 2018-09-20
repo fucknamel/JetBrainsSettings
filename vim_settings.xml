@@ -126,12 +126,12 @@
         <mark key="." line="10" column="58" />
         <mark key="^" line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/UserMapper.xml" timestamp="1537235236894">
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/UserMapper.xml" timestamp="1537407689188">
         <mark key="'" line="86" column="6" />
-        <mark key="[" line="160" column="32" />
-        <mark key="]" line="161" column="28" />
-        <mark key="." line="161" column="28" />
-        <mark key="^" line="161" column="28" />
+        <mark key="[" line="159" column="10" />
+        <mark key="]" line="159" column="14" />
+        <mark key="." line="159" column="14" />
+        <mark key="^" line="159" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/datasource.properties" timestamp="1536549719358">
         <mark key="[" line="5" column="12" />
@@ -185,11 +185,11 @@
         <mark key="." line="87" column="9" />
         <mark key="^" line="87" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/portal/UserController.java" timestamp="1537240641797">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="23" />
-        <mark key="." line="36" column="23" />
-        <mark key="^" line="36" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/portal/UserController.java" timestamp="1537407020591">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="7" />
+        <mark key="." line="31" column="7" />
+        <mark key="^" line="31" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/generatorConfig.xml" timestamp="1536550163362">
         <mark key="'" line="87" column="24" />
@@ -211,12 +211,12 @@
         <mark key="." line="54" column="65" />
         <mark key="^" line="54" column="65" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" timestamp="1537239433630">
-        <mark key="'" line="31" column="59" />
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="24" column="7" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="24" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" timestamp="1537407819818">
+        <mark key="'" line="14" column="23" />
+        <mark key="[" line="42" column="9" />
+        <mark key="]" line="44" column="20" />
+        <mark key="." line="44" column="20" />
+        <mark key="^" line="44" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_chongcao.jsp" timestamp="1531146287365">
         <mark key="'" line="7" column="0" />
@@ -245,7 +245,7 @@
         <mark key="^" line="4" column="60" />
         <mark key="." line="4" column="55" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/IUserService.java" timestamp="1537155066856">
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/IUserService.java" timestamp="1537406841101">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="22" />
         <mark key="^" line="7" column="22" />
@@ -345,12 +345,12 @@
         <mark key="." line="66" column="68" />
         <mark key="^" line="66" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/UserMapper.java" timestamp="1537234887691">
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/UserMapper.java" timestamp="1537407617500">
         <mark key="'" line="5" column="17" />
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="20" column="19" />
-        <mark key="^" line="20" column="71" />
-        <mark key="." line="20" column="71" />
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="20" column="30" />
+        <mark key="^" line="20" column="30" />
+        <mark key="." line="20" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mmall.properties" timestamp="1536631217466">
         <mark key="[" line="9" column="0" />
@@ -428,8 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="5" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/search_ok.jsp" />
-      <jump line="18" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_search_ok.jsp" />
       <jump line="17" column="5" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/search_ok.jsp" />
       <jump line="10" column="16" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/export_ok.jsp" />
       <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/export_ok.jsp" />
@@ -528,49 +526,51 @@
       <jump line="4" column="17" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/UserMapper.java" />
       <jump line="86" column="6" filename="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/UserMapper.xml" />
       <jump line="28" column="59" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" />
+      <jump line="17" column="32" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" />
+      <jump line="14" column="23" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>名</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>名</text>
       </register>
       <register name="/" type="4">
         <text>upda</text>
       </register>
-      <register name="0" type="4">
-        <text>selectLogin</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZihyZXN1bHRDb3VudCA+IDApewogICAgICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2UuY3JlYXRlQnlFcnJvck1lc3NhZ2UoIueUqOaIt+WQjeW3suWtmOWcqCIpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NlcnZpY2UtPm15YmF0aXMtPmRhbwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgcmVnaXN0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZW1vdmVBdHRyaWJ1dGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZih1c2VyLnBhKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICBhbmQgcGFzc3dvcmQgPSAje3Bhc3N3b3Jk</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlY29uZCAK</text>
+        <text encoding="base64">ICAgICAgICAvL3NlcnZpY2UtPm15YmF0aXMtPmRhbwo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
