@@ -131,12 +131,12 @@
         <mark key="." line="10" column="58" />
         <mark key="^" line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/UserMapper.xml" timestamp="1537407689188">
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/UserMapper.xml" timestamp="1537616358567">
         <mark key="'" line="86" column="6" />
-        <mark key="[" line="159" column="10" />
-        <mark key="]" line="159" column="14" />
-        <mark key="." line="159" column="14" />
-        <mark key="^" line="159" column="14" />
+        <mark key="[" line="177" column="30" />
+        <mark key="]" line="178" column="24" />
+        <mark key="." line="178" column="24" />
+        <mark key="^" line="178" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/datasource.properties" timestamp="1536549719358">
         <mark key="[" line="5" column="12" />
@@ -190,12 +190,12 @@
         <mark key="." line="87" column="9" />
         <mark key="^" line="87" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/portal/UserController.java" timestamp="1537607546097">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="68" column="68" />
-        <mark key="]" line="69" column="7" />
-        <mark key="." line="69" column="7" />
-        <mark key="^" line="69" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/portal/UserController.java" timestamp="1537615858304">
+        <mark key="'" line="68" column="49" />
+        <mark key="[" line="74" column="100" />
+        <mark key="]" line="75" column="7" />
+        <mark key="." line="75" column="7" />
+        <mark key="^" line="75" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/generatorConfig.xml" timestamp="1536550163362">
         <mark key="'" line="87" column="24" />
@@ -217,12 +217,12 @@
         <mark key="." line="54" column="65" />
         <mark key="^" line="54" column="65" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" timestamp="1537608541270">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="84" column="9" />
-        <mark key="]" line="85" column="35" />
-        <mark key="^" line="85" column="35" />
-        <mark key="." line="85" column="35" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" timestamp="1537616640692">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="97" column="14" />
+        <mark key="]" line="97" column="35" />
+        <mark key="^" line="97" column="35" />
+        <mark key="." line="97" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_chongcao.jsp" timestamp="1531146287365">
         <mark key="'" line="7" column="0" />
@@ -251,11 +251,11 @@
         <mark key="^" line="8" column="52" />
         <mark key="." line="8" column="52" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/IUserService.java" timestamp="1537422282330">
-        <mark key="[" line="11" column="62" />
-        <mark key="]" line="11" column="62" />
-        <mark key="^" line="11" column="62" />
-        <mark key="." line="11" column="62" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/IUserService.java" timestamp="1537615401439">
+        <mark key="[" line="11" column="63" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="3" />
         <mark key="o" line="2" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/CartMapper.xml" timestamp="1536544946410">
@@ -351,12 +351,12 @@
         <mark key="." line="66" column="68" />
         <mark key="^" line="66" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/UserMapper.java" timestamp="1537407617500">
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/UserMapper.java" timestamp="1537616142585">
         <mark key="'" line="5" column="17" />
-        <mark key="[" line="20" column="26" />
-        <mark key="]" line="20" column="30" />
-        <mark key="^" line="20" column="30" />
-        <mark key="." line="20" column="30" />
+        <mark key="[" line="26" column="90" />
+        <mark key="]" line="26" column="103" />
+        <mark key="^" line="26" column="103" />
+        <mark key="." line="26" column="103" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mmall.properties" timestamp="1536631217466">
         <mark key="[" line="9" column="0" />
@@ -434,12 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="7" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/export_ok.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/export_ok.jsp" />
-      <jump line="624" column="20" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/print.jsp" />
-      <jump line="24" column="109" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/print.jsp" />
-      <jump line="68" column="7" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/statistic.jsp" />
-      <jump line="68" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/logistics_statistic.jsp" />
       <jump line="183" column="68" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/homelist.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/homelist.jsp" />
       <jump line="105" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/log/statistic_ok.jsp" />
@@ -533,51 +527,56 @@
       <jump line="57" column="0" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/portal/UserController.java" />
       <jump line="57" column="34" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" />
       <jump line="77" column="1" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" />
+      <jump line="55" column="28" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/portal/UserController.java" />
+      <jump line="68" column="49" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/portal/UserController.java" />
+      <jump line="79" column="27" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" />
+      <jump line="5" column="17" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/UserMapper.java" />
+      <jump line="16" column="12" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>Const.USERNAME, username);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Const.USERNAME, username);</text>
+        <text encoding="base64">IHBhcmFtZXRlck1hcD0ibWFwIj4=</text>
       </register>
       <register name="/" type="4">
         <text>upda</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJjaGVja192YWxpZC5kbyIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQogICAgQFJlc3BvbnNlQm9keQo=</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJnZXRfdXNlcl9pbmZvLmRvIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCiAgICBAUmVzcG9uc2VCb2R5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3IoKQo=</text>
+        <text encoding="base64">ICA8c2VsZWN0IGlkPSJjaGVja0Fuc3dlciIgcmVzdWx0VHlwZT0iaW50IiBwYXJhbWV0ZXJNYXA9Im1hcCI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKCiAgICAgICAgcmVzdWx0Q291bnQgPSB1c2VyTWFwcGVyLmNoZWNrRW1haWwodXNlci5nZXRFbWFpbCgpKTsKICAgICAgICBpZihyZXN1bHRDb3VudCA+IDApewogICAgICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2UuY3JlYXRlQnlFcnJvck1lc3NhZ2UoImVtYWls5bey5a2Y5ZyoIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0Q291bnQgPSB1c2VyTWFwcGVyLmNoZWNrVXNlcm5hbWUodXNlci5nZXRVc2VybmFtZSgpKTsKICAgICAgICBpZihyZXN1bHRDb3VudCA+IDApewogICAgICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2UuY3JlYXRlQnlFcnJvck1lc3NhZ2UoIueUqOaIt+WQjeW3suWtmOWcqCIpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3IoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-                int resultCount = userMapper.checkEmail(u</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
