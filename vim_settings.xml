@@ -190,11 +190,11 @@
         <mark key="." line="87" column="9" />
         <mark key="^" line="87" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/TokenCache.java" timestamp="1537617563477">
-        <mark key="[" line="14" column="209" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/TokenCache.java" timestamp="1537686191894">
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="37" column="19" />
+        <mark key="^" line="37" column="19" />
+        <mark key="." line="37" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/portal/UserController.java" timestamp="1537615858304">
         <mark key="'" line="68" column="49" />
@@ -561,25 +561,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8c2VsZWN0IGlkPSJjaGVja0Fuc3dlciIgcmVzdWx0VHlwZT0iaW50IiBwYXJhbWV0ZXJNYXA9Im1hcCI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8c2VsZWN0IGlkPSJjaGVja0Fuc3dlciIgcmVzdWx0VHlwZT0iaW50IiBwYXJhbWV0ZXJNYXA9Im1hcCI+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3IoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
