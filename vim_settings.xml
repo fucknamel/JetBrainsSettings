@@ -131,12 +131,12 @@
         <mark key="." line="10" column="58" />
         <mark key="^" line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/UserMapper.xml" timestamp="1537692556304">
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/UserMapper.xml" timestamp="1537755377475">
         <mark key="'" line="86" column="6" />
-        <mark key="[" line="182" column="33" />
-        <mark key="]" line="183" column="30" />
-        <mark key="." line="183" column="30" />
-        <mark key="^" line="183" column="30" />
+        <mark key="[" line="189" column="32" />
+        <mark key="]" line="190" column="24" />
+        <mark key="." line="190" column="24" />
+        <mark key="^" line="190" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/datasource.properties" timestamp="1536549719358">
         <mark key="[" line="5" column="12" />
@@ -224,12 +224,12 @@
         <mark key="." line="54" column="65" />
         <mark key="^" line="54" column="65" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" timestamp="1537753923021">
-        <mark key="'" line="106" column="4" />
-        <mark key="[" line="133" column="37" />
-        <mark key="]" line="133" column="36" />
-        <mark key="." line="133" column="36" />
-        <mark key="^" line="133" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" timestamp="1537755794640">
+        <mark key="'" line="107" column="4" />
+        <mark key="[" line="139" column="61" />
+        <mark key="]" line="139" column="57" />
+        <mark key="." line="139" column="57" />
+        <mark key="^" line="139" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_chongcao.jsp" timestamp="1531146287365">
         <mark key="'" line="7" column="0" />
@@ -546,8 +546,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>checkPassword(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3IoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>Id</text>
@@ -559,31 +559,31 @@
         <text>checkPassword(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSAoVXNlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3IoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSAoVXNlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNlcnZlclJlc3BvbnNlPFN0cmluZz4gZm9yZ2V0UmVzZXRQYXNzd29yZChTdHJpbmcgdXNlcm5hbWUsIFN0cmluZyBwYXNzd29yZE5ldywgU3RyaW5nIGZvcmdldFRva2VuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZXsKICAgICAgICAgICAgICAgIHJldHVybiBTZXJ2ZXJSZXNwb25zZS5jcmVhdGVCeUVycm9yTWVzc2FnZSgidG9rZW7plJnor6/vvIzor7fph43mlrDojrflj5bph43nva7lr4bnoIHnmoR0b2tlbiIpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIFNlcnZlclJlc3BvbnNlPFN0cmluZz4gZm9yZ2V0UmVzZXRQYXNzd29yZChTdHJpbmcgdXNlcm5hbWUsIFN0cmluZyBwYXNzd29yZE5ldywgU3RyaW5nIGZvcmdldFRva2VuKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZXsKICAgICAgICAgICAgICAgIHJldHVybiBTZXJ2ZXJSZXNwb25zZS5jcmVhdGVCeUVycm9yTWVzc2FnZSgidG9rZW7plJnor6/vvIzor7fph43mlrDojrflj5bph43nva7lr4bnoIHnmoR0b2tlbiIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlscwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
