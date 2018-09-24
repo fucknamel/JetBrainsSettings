@@ -224,12 +224,12 @@
         <mark key="." line="54" column="65" />
         <mark key="^" line="54" column="65" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" timestamp="1537700474342">
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" timestamp="1537753923021">
         <mark key="'" line="106" column="4" />
-        <mark key="[" line="132" column="86" />
-        <mark key="]" line="132" column="85" />
-        <mark key="." line="132" column="85" />
-        <mark key="^" line="132" column="85" />
+        <mark key="[" line="133" column="37" />
+        <mark key="]" line="133" column="36" />
+        <mark key="." line="133" column="36" />
+        <mark key="^" line="133" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_chongcao.jsp" timestamp="1531146287365">
         <mark key="'" line="7" column="0" />
@@ -358,12 +358,12 @@
         <mark key="." line="66" column="68" />
         <mark key="^" line="66" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/UserMapper.java" timestamp="1537692446327">
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/UserMapper.java" timestamp="1537754096219">
         <mark key="'" line="5" column="17" />
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="31" />
-        <mark key="^" line="28" column="86" />
-        <mark key="." line="28" column="86" />
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="21" />
+        <mark key="^" line="30" column="88" />
+        <mark key="." line="30" column="88" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mmall.properties" timestamp="1536631217466">
         <mark key="[" line="9" column="0" />
@@ -546,17 +546,17 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSAoVXNlcikK</text>
+      <register name="&quot;" type="4">
+        <text>checkPassword(</text>
       </register>
       <register name="-" type="4">
-        <text>forget_get_question</text>
+        <text>Id</text>
       </register>
       <register name="/" type="4">
         <text>upda</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJmb3JnZXRfZ2V0X3F1ZXN0aW9uLmRvIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCiAgICBAUmVzcG9uc2VCb2R5Cg==</text>
+      <register name="0" type="4">
+        <text>checkPassword(</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSAoVXNlcikK</text>
