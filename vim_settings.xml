@@ -151,6 +151,11 @@
         <mark key="." line="12" column="109" />
         <mark key="^" line="12" column="109" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/util/PropertiesUtil.java" timestamp="1537930124568">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/java/project/services/customer/Logistics.java" timestamp="1531228484703">
         <mark key="[" line="235" column="92" />
         <mark key="]" line="236" column="66" />
@@ -553,7 +558,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>update</text>
@@ -565,31 +570,31 @@
         <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJ1cGRhdGVfaW5mb3JtYXRpb24uZG8iLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkdFVCkKICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBTZXJ2ZXJSZXNwb25zZQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTZXJ2ZXJSZXNwb25zPFVzZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBTZXJ2ZXJSZXNwb25zZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTZXJ2ZXJSZXNwb25zPFVzZXI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3JNZXNzYWdlKCLnlKjmiLfmnKrnmbvpmYYiKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIGN1cnIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3JNZXNzYWdlKCLnlKjmiLfmnKrnmbvpmYYiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
