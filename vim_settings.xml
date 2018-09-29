@@ -137,12 +137,12 @@
         <mark key="." line="10" column="58" />
         <mark key="^" line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/UserMapper.xml" timestamp="1538201864868">
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/UserMapper.xml" timestamp="1538203597230">
         <mark key="'" line="86" column="6" />
-        <mark key="[" line="163" column="40" />
-        <mark key="]" line="164" column="18" />
-        <mark key="." line="164" column="18" />
-        <mark key="^" line="164" column="18" />
+        <mark key="[" line="192" column="8" />
+        <mark key="]" line="192" column="9" />
+        <mark key="." line="192" column="9" />
+        <mark key="^" line="192" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/datasource.properties" timestamp="1536549719358">
         <mark key="[" line="5" column="12" />
@@ -235,11 +235,11 @@
         <mark key="." line="54" column="65" />
         <mark key="^" line="54" column="65" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" timestamp="1537841105808">
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" timestamp="1538203172929">
         <mark key="'" line="121" column="31" />
-        <mark key="[" line="168" column="11" />
-        <mark key="]" line="168" column="45" />
-        <mark key="." line="174" column="51" />
+        <mark key="[" line="107" column="26" />
+        <mark key="]" line="107" column="26" />
+        <mark key="." line="107" column="26" />
         <mark key="^" line="174" column="51" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_chongcao.jsp" timestamp="1531146287365">
@@ -564,10 +564,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>/catalina.2018-03-18.log</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>/catalina.2018-03-18.log</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>upda</text>
