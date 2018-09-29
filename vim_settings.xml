@@ -31,6 +31,11 @@
         <mark key="." line="99" column="80" />
         <mark key="^" line="128" column="107" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/logback.xml" timestamp="1538186037346">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/src/java/project/services/log/ServletAction.java" timestamp="1531149869361">
         <mark key="'" line="220" column="0" />
         <mark key="[" line="161" column="30" />
@@ -557,11 +562,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/developer/apache-tomcat-7.0.73/logs/</text>
       </register>
       <register name="-" type="4">
-        <text>update</text>
+        <text>/developer/apache-tomcat-7.0.73/logs/</text>
       </register>
       <register name="/" type="4">
         <text>upda</text>
