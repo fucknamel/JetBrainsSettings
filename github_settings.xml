@@ -1,6 +1,7 @@
 <application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="1047760450@qq.com" />
-    <option name="AUTH_TYPE" value="BASIC" />
+  <component name="GithubAccounts">
+    <account id="b41888b2-1d75-4f02-a312-bab41fe565a7" name="fucknamel">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
