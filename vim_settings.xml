@@ -193,9 +193,6 @@
         <mark key="." line="9" column="56" />
         <mark key="^" line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/applicationContext-datasource.xml" timestamp="1536656641750">
-        <mark key="m" line="31" column="26" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/OrderMapper.xml" timestamp="1536545335028">
         <mark key="[" line="197" column="20" />
         <mark key="]" line="197" column="24" />
@@ -242,6 +239,12 @@
         <mark key="]" line="23" column="25" />
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" timestamp="1540642362380">
+        <mark key="[" line="13" column="75" />
+        <mark key="]" line="13" column="73" />
+        <mark key="^" line="13" column="73" />
+        <mark key="." line="13" column="73" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/changepw.jsp" timestamp="1530288519131">
         <mark key="'" line="25" column="45" />
