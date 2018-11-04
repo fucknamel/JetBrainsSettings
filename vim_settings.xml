@@ -240,11 +240,12 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" timestamp="1540648453636">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="26" column="16" />
-        <mark key="^" line="26" column="16" />
-        <mark key="." line="26" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" timestamp="1541329740130">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="62" column="12" />
+        <mark key="]" line="62" column="17" />
+        <mark key="^" line="62" column="17" />
+        <mark key="." line="62" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/changepw.jsp" timestamp="1530288519131">
         <mark key="'" line="25" column="45" />
@@ -307,11 +308,11 @@
         <mark key="." line="115" column="24" />
         <mark key="^" line="115" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/IProductService.java" timestamp="1540648351557">
-        <mark key="[" line="6" column="55" />
-        <mark key="]" line="6" column="55" />
-        <mark key="." line="6" column="55" />
-        <mark key="^" line="6" column="55" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/IProductService.java" timestamp="1541329339115">
+        <mark key="[" line="6" column="56" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_myhomelist.jsp" timestamp="1531226238152">
         <mark key="'" line="164" column="0" />
@@ -347,12 +348,12 @@
         <mark key="^" line="80" column="44" />
         <mark key="." line="80" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1540648343756">
-        <mark key="'" line="35" column="74" />
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="61" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="10" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1541330081651">
+        <mark key="'" line="44" column="11" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="64" column="66" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_add_ok.jsp" timestamp="1531226201961">
         <mark key="'" line="100" column="0" />
@@ -500,10 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_search.jsp" />
-      <jump line="161" column="88" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_homelist.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_search.jsp" />
-      <jump line="11" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_homelist.jsp" />
       <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/logistics_search.jsp" />
       <jump line="121" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_search_ok.jsp" />
       <jump line="181" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_homelist.jsp" />
@@ -600,43 +597,47 @@
       <jump line="18" column="10" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/CategoryServiceImpl.java" />
       <jump line="12" column="39" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
       <jump line="33" column="74" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
+      <jump line="16" column="4" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" />
+      <jump line="44" column="11" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
+      <jump line="46" column="18" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>ServerResponse saveOrUpdateProduct(Product product)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>createByErrorMessage(&quot;新增产品成功&quot;);</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>upda</text>
       </register>
-      <register name="0" type="4">
-        <text>ServerResponse saveOrUpdateProduct(Product product)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3JDb2RlTWVzc2FnZShSZXNwb25zZUNvZGUuSUxMRUdBTF9BUkdVTUVOVC5nZXRDb2RlKCksIFJlc3BvbnNlQ29kZS5JTExFR0FMX0FSR1VNRU5ULmdldERlc2MoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tbWFsbC5zZXJ2aWNlLklQcm9kdWN0U2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICBQcm9kdWN0IHByb2R1Y3QgPSBuZXcgUHJvZHVjdCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSVByb2R1Y3RTZXJ2aWNlIGlQcm9kdWN0U2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlQcm9kdWN0U2VydmljZS5zZXRTYWxlU3RhdHVzKHByb2R1Y3RJZCwgc3RhdHVzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5U3VjY2VzcygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlQcm9kdWN0U2VydmljZS5zYXZlT3JVcGRhdGVQcm9kdWN0KHByb2R1Y3QpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/loavlhYXmiJHku6zlop7liqDkuqflk4HnmoTkuJrliqHpgLvovpEK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
