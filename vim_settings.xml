@@ -351,12 +351,12 @@
         <mark key="^" line="80" column="44" />
         <mark key="." line="80" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1541331576292">
-        <mark key="'" line="45" column="11" />
-        <mark key="[" line="81" column="53" />
-        <mark key="]" line="81" column="50" />
-        <mark key="." line="81" column="50" />
-        <mark key="^" line="81" column="50" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1541671905267">
+        <mark key="'" line="22" column="41" />
+        <mark key="[" line="94" column="9" />
+        <mark key="]" line="95" column="69" />
+        <mark key="^" line="95" column="69" />
+        <mark key="." line="95" column="69" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_add_ok.jsp" timestamp="1531226201961">
         <mark key="'" line="100" column="0" />
@@ -421,9 +421,9 @@
         <mark key="^" line="32" column="89" />
         <mark key="." line="32" column="89" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mmall.properties" timestamp="1536631217466">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mmall.properties" timestamp="1541671472616">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="48" />
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/WEB-INF/web.xml" timestamp="1531147367616">
@@ -507,8 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_search_ok.jsp" />
-      <jump line="181" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_homelist.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_homelist.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_search_ok.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/logistics_statistic_ok.jsp" />
@@ -607,13 +605,15 @@
       <jump line="44" column="11" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
       <jump line="46" column="18" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
       <jump line="136" column="5" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Properties.java" />
+      <jump line="85" column="4" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
+      <jump line="21" column="41" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdAo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -621,35 +621,35 @@
       <register name="/" type="4">
         <text>upda</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3JDb2RlTWVzc2FnZShSZXNwb25zZUNvZGUuSUxMRUdBTF9BUkdVTUVOVC5nZXRDb2RlKCksIFJlc3BvbnNlQ29kZS5JTExFR0FMX0FSR1VNRU5ULmdldERlc2MoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>http://img.happymmall.com/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWN0IHByb2R1Y3QgPSBuZXcgUHJvZHVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlQcm9kdWN0U2VydmljZS5zZXRTYWxlU3RhdHVzKHByb2R1Y3RJZCwgc3RhdHVzKTsK</text>
+        <text encoding="base64">ICAgICAgICBQcm9kdWN0IHByb2R1Y3QgPSBuZXcgUHJvZHVjdCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlQcm9kdWN0U2VydmljZS5zYXZlT3JVcGRhdGVQcm9kdWN0KHByb2R1Y3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlQcm9kdWN0U2VydmljZS5zZXRTYWxlU3RhdHVzKHByb2R1Y3RJZCwgc3RhdHVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/loavlhYXmiJHku6zlop7liqDkuqflk4HnmoTkuJrliqHpgLvovpEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlQcm9kdWN0U2VydmljZS5zYXZlT3JVcGRhdGVQcm9kdWN0KHByb2R1Y3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
