@@ -240,12 +240,12 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" timestamp="1541684898016">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="63" column="65" />
-        <mark key="]" line="63" column="65" />
-        <mark key="^" line="63" column="65" />
-        <mark key="." line="63" column="65" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" timestamp="1542026553270">
+        <mark key="'" line="55" column="31" />
+        <mark key="[" line="72" column="171" />
+        <mark key="]" line="72" column="171" />
+        <mark key="^" line="72" column="171" />
+        <mark key="." line="72" column="171" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/changepw.jsp" timestamp="1530288519131">
         <mark key="'" line="25" column="45" />
@@ -361,12 +361,12 @@
         <mark key="^" line="80" column="44" />
         <mark key="." line="80" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1541684810889">
-        <mark key="'" line="79" column="13" />
-        <mark key="[" line="66" column="11" />
-        <mark key="]" line="66" column="80" />
-        <mark key="^" line="75" column="62" />
-        <mark key="." line="66" column="41" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1542026790123">
+        <mark key="'" line="82" column="8" />
+        <mark key="[" line="106" column="67" />
+        <mark key="]" line="106" column="65" />
+        <mark key="^" line="106" column="65" />
+        <mark key="." line="106" column="65" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/business/b_add_ok.jsp" timestamp="1531226201961">
         <mark key="'" line="100" column="0" />
@@ -517,8 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/logistics_statistic_ok.jsp" />
-      <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/logistics_search_ok.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/customer/customer_export_ok.jsp" />
       <jump line="642" column="0" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_print.jsp" />
       <jump line="111" column="121" filename="$USER_HOME$/IdeaProjects/untitled1/web/views/business/w_statistic_ok.jsp" />
@@ -617,49 +615,51 @@
       <jump line="21" column="41" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
       <jump line="78" column="13" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
       <jump line="133" column="0" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/vo/ProductDetailVo.java" />
+      <jump line="54" column="31" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" />
+      <jump line="82" column="8" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">U2VydmVyUmVzcG9uc2U8UHJvZHVjdERldGFpbFZvPiBtYW5hZ2VQcm9kdWN0RGV0YWlsKEludGVnZXIgcHJvZHVjdElkKQ==</text>
+        <text>pageNum</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pageNum</text>
       </register>
       <register name="/" type="4">
         <text>upda</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">U2VydmVyUmVzcG9uc2U8UHJvZHVjdERldGFpbFZvPiBtYW5hZ2VQcm9kdWN0RGV0YWlsKEludGVnZXIgcHJvZHVjdElkKQ==</text>
+        <text encoding="base64">QFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJwYWdlTnVtIiwgZGVmYXVsdFZhbHVlID0gIjEiKSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcHJvZHVjdERldGFpbFZvOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlQcm9kdWN0U2VydmljZS5tYW5hZ2VQcm9kdWN0RGV0YWlsKHByb2R1Y3RJZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcHJvZHVjdERldGFpbFZvOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEYXQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBEYXQK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9kdWN0IHByb2R1Y3QgPSBuZXcgUHJvZHVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLgo=</text>
+        <text encoding="base64">ICAgICAgICBQcm9kdWN0IHByb2R1Y3QgPSBuZXcgUHJvZHVjdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
