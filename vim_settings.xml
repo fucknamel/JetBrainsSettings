@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1542432805004">
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1542435880975">
         <mark key="'" line="112" column="11" />
-        <mark key="[" line="145" column="8" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="144" column="9" />
-        <mark key="^" line="146" column="7" />
+        <mark key="[" line="152" column="46" />
+        <mark key="]" line="153" column="57" />
+        <mark key="." line="153" column="57" />
+        <mark key="^" line="153" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/ProductMapper.java" timestamp="1542432963897">
         <mark key="[" line="22" column="121" />
@@ -138,7 +138,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -150,22 +150,22 @@
         <text>productName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlQcm9kdWN0U2VydmljZS5nZXRQcm9kdWN0TGlzdChwYWdlTnVtLCBwYWdlU2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlQcm9kdWN0U2VydmljZS5nZXRQcm9kdWN0TGlzdChwYWdlTnVtLCBwYWdlU2l6ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -174,7 +174,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
