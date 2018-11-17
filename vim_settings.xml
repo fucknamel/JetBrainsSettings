@@ -3,6 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/util/FTPUtil.java" timestamp="1542459414378">
+        <mark key="[" line="48" column="64" />
+        <mark key="]" line="48" column="64" />
+        <mark key="^" line="48" column="64" />
+        <mark key="." line="48" column="64" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mmall.properties" timestamp="1542457834889">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="16" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1542438040957">
         <mark key="'" line="112" column="11" />
         <mark key="[" line="140" column="11" />
@@ -35,6 +45,12 @@
         <mark key="]" line="193" column="27" />
         <mark key="^" line="193" column="27" />
         <mark key="." line="193" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/FileServiceImpl.java" timestamp="1542457607092">
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="31" column="50" />
+        <mark key="." line="31" column="50" />
+        <mark key="^" line="31" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -143,41 +159,41 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>upda</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">U2VydmVyUmVzcG9uc2U8UGFnZUluZm8+IHNlYXJjaFByb2R1Y3QoU3RyaW5nIHByb2R1Y3ROYW1lLCBJbnRlZ2VyIHByb2R1Y3RJZCwgaW50IHBhZ2VOdW0sIGludCBwYWdlU2l6ZSk=</text>
+        <text>mmallftp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlQcm9kdWN0U2VydmljZS5nZXRQcm9kdWN0TGlzdChwYWdlTnVtLCBwYWdlU2l6ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
