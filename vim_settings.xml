@@ -28,11 +28,11 @@
       <file name="/mmall_learning.mmall_cart [@localhost]" timestamp="1543049285676">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mmall.properties" timestamp="1543049370438">
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-        <mark key="^" line="2" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mmall.properties" timestamp="1543067305718">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="41" />
+        <mark key="." line="3" column="41" />
+        <mark key="^" line="3" column="41" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/IFileService.java" timestamp="1543051059467">
         <mark key="[" line="5" column="50" />
@@ -40,11 +40,10 @@
         <mark key="." line="5" column="50" />
         <mark key="^" line="5" column="50" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/webapp/index.jsp" timestamp="1543064999992">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="68" />
-        <mark key="." line="3" column="68" />
-        <mark key="^" line="3" column="68" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/webapp/index.jsp" timestamp="1543066499284">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/IProductService.java" timestamp="1542438054339">
         <mark key="[" line="16" column="108" />
@@ -58,7 +57,7 @@
       <file name="/dummy.sql" timestamp="1543049286651">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" timestamp="1543064445820">
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" timestamp="1543067232704">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="155" column="61" />
         <mark key="]" line="155" column="74" />
@@ -80,7 +79,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/Test.java" />
       <jump line="46" column="0" filename="$USER_HOME$/IdeaProjects/untitled/src/Test.java" />
       <jump line="160" column="7" filename="$USER_HOME$/IdeaProjects/untitled/src/Test.java" />
       <jump line="161" column="23" filename="$USER_HOME$/IdeaProjects/untitled/src/Test.java" />
@@ -180,16 +178,17 @@
       <jump line="108" column="11" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" />
       <jump line="156" column="0" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" />
+      <jump line="47" column="53" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/util/FTPUtil.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>http://img.happymmall.com/</text>
       </register>
       <register name="-" type="4">
-        <text>springMVC</text>
+        <text>http://img.happymmall.com/</text>
       </register>
       <register name="/" type="4">
         <text>upda</text>
@@ -198,31 +197,31 @@
         <text encoding="base64">c3ByaW5nTVZD5LiK5Lyg5paH5Lu2Cjxmb3JtIG5hbWU9ImZvcm0xIiBhY3Rpb249Ii9tYW5hZ2UvcHJvZHVjdC91cGxvYWQuZG8iIG1ldGhvZD0icG9zdCIgZW5jdHlwZT0ibXVsdGlwYXJ0L2Zvcm0tZGF0YSI+CiAgICA8aW5wdXQgdHlwZT0iZmlsZSIgbmFtZT0idXBsb2FkX2ZpbGUiIC8+CiAgICA8aW5wdXQgdHlwZT0ic3VibWl0IiB2YWx1ZT0ic3ByaW5nTVZD5LiK5Lyg5paH5Lu2Ij4KPC9mb3JtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PCVAcGFnZSBwYWdlRW5jb2Rpbmc9IlVURi04IiU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PC9oZWFkPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PGhlYWQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSJjb250ZW50PSJ0ZXh0L2h0bWw7Y2hhcnNldD1VVEYtOCI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgfWVsc2Ugewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5U3VjY2VzcyhmaWxlTWFwKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
@@ -325,6 +324,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
