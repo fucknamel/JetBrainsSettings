@@ -3,15 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/util/FTPUtil.java" timestamp="1542459414378">
+      <file name="/Dummy.txt" timestamp="1543049228947">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/util/FTPUtil.java" timestamp="1543049321293">
         <mark key="[" line="48" column="64" />
         <mark key="]" line="48" column="64" />
         <mark key="^" line="48" column="64" />
         <mark key="." line="48" column="64" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mmall.properties" timestamp="1542457834889">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mmall.properties" timestamp="1543049370438">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1542438040957">
         <mark key="'" line="112" column="11" />
@@ -26,11 +31,17 @@
         <mark key="^" line="22" column="121" />
         <mark key="." line="22" column="121" />
       </file>
+      <file name="/mmall_learning.mmall_cart [@localhost]" timestamp="1543049285676">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/IProductService.java" timestamp="1542438054339">
         <mark key="[" line="16" column="108" />
         <mark key="]" line="16" column="108" />
         <mark key="^" line="16" column="108" />
         <mark key="." line="16" column="108" />
+      </file>
+      <file name="/dummy.sql" timestamp="1543049286651">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" timestamp="1542443681856">
         <mark key="'" line="72" column="0" />
@@ -160,10 +171,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>ftppassword</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>ftppassword</text>
       </register>
       <register name="/" type="4">
         <text>upda</text>

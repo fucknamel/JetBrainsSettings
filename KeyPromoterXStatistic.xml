@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Structure...">
@@ -95,6 +95,14 @@
           <ShortCut>'⌘;'</ShortCut>
           <Description>Project Structure...</Description>
           <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Remove</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -166,6 +174,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌥S'</ShortCut>
           <Description>Stop...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Synchronize">
+        <Item>
+          <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
+          <ShortCut>'⌥⌘Y'</ShortCut>
+          <Description>Synchronize</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
