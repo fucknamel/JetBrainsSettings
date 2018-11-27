@@ -75,7 +75,6 @@
       <file name="/mmall_learning.mmall_cart [@localhost]" timestamp="1543049285676">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/src/java/project/services/admin/ServletAction.java" timestamp="1543330226057" />
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/signin_no.jsp" timestamp="1543330757225">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="89" />
@@ -107,12 +106,12 @@
         <mark key="." line="23" column="56" />
         <mark key="^" line="23" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/index.jsp" timestamp="1543332360884">
+      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/index.jsp" timestamp="1543332803816">
         <mark key="'" line="53" column="16" />
-        <mark key="[" line="78" column="18" />
-        <mark key="]" line="78" column="21" />
-        <mark key="^" line="78" column="21" />
-        <mark key="." line="78" column="21" />
+        <mark key="[" line="56" column="49" />
+        <mark key="]" line="56" column="49" />
+        <mark key="^" line="56" column="49" />
+        <mark key="." line="56" column="49" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/register_ok.jsp" timestamp="1543331341639">
         <mark key="'" line="7" column="0" />
@@ -227,8 +226,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIOaBreWWnOS9oO+8geeUqOaIt+azqOWGjOaIkOWKn++8gQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PHNwYW4gY2xhc3M9ImNhcmV0Ij48L3NwYW4+</text>
       </register>
       <register name="-" type="4">
         <text>Successful</text>
@@ -236,8 +235,8 @@
       <register name="/" type="4">
         <text>session</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUiPgogICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3ZpZXdzL2FkbWluLyMjIy5qc3AiPuaVmeWKoeWkhDwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3ZpZXdzL2FkbWluLyMjIy5qc3AiPuWtpuW3pemDqDwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3ZpZXdzL2FkbWluLyMjIy5qc3AiPumdkuaYpeW3neWkpzwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3ZpZXdzL2FkbWluLyMjIy5qc3AiPuWwseS4mue9kTwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iL3ZpZXdzL2FkbWluLyMjIy5qc3AiPuaLm+eUn+e9kTwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgIDwvdWw+Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">PHNwYW4gY2xhc3M9ImNhcmV0Ij48L3NwYW4+</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIOaBreWWnOS9oO+8geeUqOaIt+azqOWGjOaIkOWKn++8gQo=</text>
