@@ -87,7 +87,7 @@
       <file name="/Dummy.txt" timestamp="1543597725002">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1543638322830">
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1543641799076">
         <mark key="'" line="73" column="8" />
         <mark key="[" line="156" column="11" />
         <mark key="]" line="156" column="77" />
@@ -133,11 +133,11 @@
       <file name="/Class.txt.ft" timestamp="1543321168423">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/portal/ProductController.java" timestamp="1543638379336">
-        <mark key="[" line="20" column="58" />
-        <mark key="]" line="20" column="58" />
-        <mark key="." line="20" column="58" />
-        <mark key="^" line="20" column="58" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/portal/ProductController.java" timestamp="1543641267679">
+        <mark key="[" line="27" column="106" />
+        <mark key="]" line="27" column="40" />
+        <mark key="." line="27" column="40" />
+        <mark key="^" line="27" column="40" />
       </file>
       <file name="/CoffeeScript Class.txt.ft" timestamp="1543321234049">
         <mark key="[" line="0" column="0" />
@@ -284,17 +284,17 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>pageNum</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>pageNum</text>
       </register>
       <register name="/" type="4">
         <text>session</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">U2VydmVyUmVzcG9uc2U8UHJvZHVjdERldGFpbFZvPiBnZXRQcm9kdWN0RGV0YWlsKEludGVnZXIgcHJvZHVjdElkKQ==</text>
+        <text>@RequestParam(value = &quot;pageNum&quot;, defaultValue = &quot;1&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -309,19 +309,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
