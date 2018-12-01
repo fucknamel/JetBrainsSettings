@@ -45,6 +45,9 @@
       <file name="/I18nized Groovy string with injections.txt.ft" timestamp="1543321261983">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.sql" timestamp="1543676462866">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/newshub.news [@120.79.22.44]" timestamp="1543641951791">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,6 +56,12 @@
         <mark key="]" line="15" column="76" />
         <mark key="^" line="15" column="76" />
         <mark key="." line="15" column="76" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/resources/datasource.properties" timestamp="1543676149739">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
       </file>
       <file name="/Arquillian JUnit Test Class.txt.ft" timestamp="1543321246719">
         <mark key="[" line="0" column="0" />
@@ -69,7 +78,7 @@
         <mark key="^" line="18" column="71" />
         <mark key="." line="18" column="71" />
       </file>
-      <file name="/dummy.sql" timestamp="1543641967723">
+      <file name="/dummy.sql" timestamp="1543676441764">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Cucumber Java 8 Step Definition.txt.ft" timestamp="1543321246856">
@@ -88,7 +97,7 @@
         <mark key="^" line="208" column="13" />
         <mark key="." line="208" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543597725002">
+      <file name="/Dummy.txt" timestamp="1543676084493">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1543648041953">
@@ -140,8 +149,14 @@
       <file name="/JavaScript File.txt.ft" timestamp="1543321234266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/newshub.comments [@120.79.22.44]" timestamp="1543641959095">
+      <file name="/newshub.comments [@120.79.22.44]" timestamp="1543676438997">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/resources/generatorConfig.xml" timestamp="1543676780097">
+        <mark key="[" line="74" column="50" />
+        <mark key="]" line="74" column="53" />
+        <mark key="^" line="74" column="53" />
+        <mark key="." line="74" column="53" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mmall.properties" timestamp="1543586508128">
         <mark key="[" line="3" column="34" />
@@ -160,11 +175,6 @@
       </file>
       <file name="/newshub.history [@120.79.22.44]" timestamp="1543641953831">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/webapp/WEB-INF/web.xml" timestamp="1543595465766">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="/CoffeeScript Class.txt.ft" timestamp="1543321234049">
         <mark key="[" line="0" column="0" />
@@ -290,22 +300,22 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>.com.newshub.controller.com.newshub.dao</text>
+        <text>Category</text>
       </register>
       <register name="-" type="4">
-        <text>.com.newshub.controller.com.newshub.dao</text>
+        <text>Category</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXR1cm5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>selectByNameAndCategoryIds</text>
+        <text encoding="base64">Y29sdW1uT3ZlcnJpZGUg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGFibGUgdGFibGVOYW1lPSJtbWFsbF9wcm9kdWN0IiBkb21haW5PYmplY3ROYW1lPSJQcm9kdWN0IiBlbmFibGVDb3VudEJ5RXhhbXBsZT0iZmFsc2UiIGVuYWJsZVVwZGF0ZUJ5RXhhbXBsZT0iZmFsc2UiIGVuYWJsZURlbGV0ZUJ5RXhhbXBsZT0iZmFsc2UiIGVuYWJsZVNlbGVjdEJ5RXhhbXBsZT0iZmFsc2UiIHNlbGVjdEJ5RXhhbXBsZVF1ZXJ5SWQ9ImZhbHNlIj4KICAgICAgICAgICAgPGNvbHVtbk92ZXJyaWRlIGNvbHVtbj0iZGV0YWlsIiBqZGJjVHlwZT0iVkFSQ0hBUiIgLz4KICAgICAgICAgICAgPGNvbHVtbk92ZXJyaWRlIGNvbHVtbj0ic3ViX2ltYWdlcyIgamRiY1R5cGU9IlZBUkNIQVIiIC8+CiAgICAgICAgPC90YWJsZT4KICAgICAgICA8dGFibGUgdGFibGVOYW1lPSJtbWFsbF91c2VyIiBkb21haW5PYmplY3ROYW1lPSJVc2VyIiBlbmFibGVDb3VudEJ5RXhhbXBsZT0iZmFsc2UiIGVuYWJsZVVwZGF0ZUJ5RXhhbXBsZT0iZmFsc2UiIGVuYWJsZURlbGV0ZUJ5RXhhbXBsZT0iZmFsc2UiIGVuYWJsZVNlbGVjdEJ5RXhhbXBsZT0iZmFsc2UiIHNlbGVjdEJ5RXhhbXBsZVF1ZXJ5SWQ9ImZhbHNlIj48L3RhYmxlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGFibGUgdGFibGVOYW1lPSJtbWFsbF9vcmRlciIgZG9tYWluT2JqZWN0TmFtZT0iT3JkZXIiIGVuYWJsZUNvdW50QnlFeGFtcGxlPSJmYWxzZSIgZW5hYmxlVXBkYXRlQnlFeGFtcGxlPSJmYWxzZSIgZW5hYmxlRGVsZXRlQnlFeGFtcGxlPSJmYWxzZSIgZW5hYmxlU2VsZWN0QnlFeGFtcGxlPSJmYWxzZSIgc2VsZWN0QnlFeGFtcGxlUXVlcnlJZD0iZmFsc2UiPjwvdGFibGU+CiAgICAgICAgPHRhYmxlIHRhYmxlTmFtZT0ibW1hbGxfb3JkZXJfaXRlbSIgZG9tYWluT2JqZWN0TmFtZT0iT3JkZXJJdGVtIiBlbmFibGVDb3VudEJ5RXhhbXBsZT0iZmFsc2UiIGVuYWJsZVVwZGF0ZUJ5RXhhbXBsZT0iZmFsc2UiIGVuYWJsZURlbGV0ZUJ5RXhhbXBsZT0iZmFsc2UiIGVuYWJsZVNlbGVjdEJ5RXhhbXBsZT0iZmFsc2UiIHNlbGVjdEJ5RXhhbXBsZVF1ZXJ5SWQ9ImZhbHNlIj48L3RhYmxlPgogICAgICAgIDx0YWJsZSB0YWJsZU5hbWU9Im1tYWxsX3BheV9pbmZvIiBkb21haW5PYmplY3ROYW1lPSJQYXlJbmZvIiBlbmFibGVDb3VudEJ5RXhhbXBsZT0iZmFsc2UiIGVuYWJsZVVwZGF0ZUJ5RXhhbXBsZT0iZmFsc2UiIGVuYWJsZURlbGV0ZUJ5RXhhbXBsZT0iZmFsc2UiIGVuYWJsZVNlbGVjdEJ5RXhhbXBsZT0iZmFsc2UiIHNlbGVjdEJ5RXhhbXBsZVF1ZXJ5SWQ9ImZhbHNlIj48L3RhYmxlPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
