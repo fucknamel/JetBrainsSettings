@@ -15,10 +15,55 @@
         <mark key="^" line="15" column="71" />
         <mark key="." line="15" column="71" />
       </file>
-      <file name="/Tag Library Descriptor.txt.ft" timestamp="1543321323625">
+      <file name="/Activity.txt.ft" timestamp="1543321279520">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Activity.txt.ft" timestamp="1543321279520">
+      <file name="$USER_HOME$/IdeaProjects/mmall/.gitignore" timestamp="1543593799086">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+      </file>
+      <file name="/Arquillian JUnit Test Class.txt.ft" timestamp="1543321246719">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/CoffeeScript File.txt.ft" timestamp="1543321232701">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1543321245271">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/project_grass.chongcao_file [project_grass@localhost]" timestamp="1543157433427">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/ICategoryService.java" timestamp="1543643506519">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="30" />
+        <mark key="^" line="14" column="30" />
+        <mark key="." line="14" column="30" />
+      </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1543321246330">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/webapp/WEB-INF/web.xml" timestamp="1543595465766">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/title.jsp" timestamp="1543320582109">
+        <mark key="[" line="23" column="53" />
+        <mark key="]" line="23" column="56" />
+        <mark key="." line="23" column="56" />
+        <mark key="^" line="23" column="56" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" timestamp="1543637527701">
+        <mark key="'" line="150" column="76" />
+        <mark key="[" line="150" column="93" />
+        <mark key="]" line="150" column="93" />
+        <mark key="." line="150" column="93" />
+        <mark key="^" line="150" column="76" />
+      </file>
+      <file name="/Tag Library Descriptor.txt.ft" timestamp="1543321323625">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/I18nized JSP Expression.txt.ft" timestamp="1543321263516">
@@ -39,26 +84,14 @@
       <file name="/I18nized Groovy string with injections.txt.ft" timestamp="1543321261983">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/.gitignore" timestamp="1543593799086">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="23" column="11" />
-        <mark key="^" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-      </file>
       <file name="/newshub.news [@120.79.22.44]" timestamp="1543641951791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/Const.java" timestamp="1543638226789">
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="21" />
-        <mark key="^" line="16" column="21" />
-        <mark key="." line="16" column="21" />
-      </file>
-      <file name="/Arquillian JUnit Test Class.txt.ft" timestamp="1543321246719">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/CoffeeScript File.txt.ft" timestamp="1543321232701">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/Const.java" timestamp="1543644307476">
+        <mark key="[" line="15" column="79" />
+        <mark key="]" line="15" column="76" />
+        <mark key="^" line="15" column="76" />
+        <mark key="." line="15" column="76" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1543321509823">
         <mark key="[" line="0" column="0" />
@@ -78,21 +111,28 @@
       <file name="/newshub.user [@120.79.22.44]" timestamp="1543641870737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1543321245271">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/ProductMapper.xml" timestamp="1543645269090">
+        <mark key="'" line="193" column="27" />
+        <mark key="[" line="208" column="10" />
+        <mark key="]" line="208" column="13" />
+        <mark key="^" line="208" column="13" />
+        <mark key="." line="208" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1543597725002">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1543641799076">
-        <mark key="'" line="73" column="8" />
-        <mark key="[" line="156" column="11" />
-        <mark key="]" line="156" column="77" />
-        <mark key="." line="165" column="66" />
-        <mark key="^" line="165" column="66" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1543645661099">
+        <mark key="'" line="176" column="140" />
+        <mark key="[" line="205" column="50" />
+        <mark key="]" line="205" column="49" />
+        <mark key="." line="205" column="49" />
+        <mark key="^" line="205" column="49" />
       </file>
-      <file name="/project_grass.chongcao_file [project_grass@localhost]" timestamp="1543157433427">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/ProductMapper.java" timestamp="1543644792080">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="43" />
+        <mark key="^" line="24" column="138" />
+        <mark key="." line="24" column="138" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/signin.jsp" timestamp="1543330792813">
         <mark key="[" line="24" column="47" />
@@ -103,14 +143,11 @@
       <file name="/mmall_learning.mmall_cart [@localhost]" timestamp="1543049285676">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/signin_no.jsp" timestamp="1543330757225">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="46" column="89" />
-        <mark key="]" line="46" column="89" />
-        <mark key="." line="16" column="7" />
-      </file>
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1543321246330">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/CategoryServiceImpl.java" timestamp="1543643489219">
+        <mark key="[" line="71" column="25" />
+        <mark key="]" line="71" column="37" />
+        <mark key="^" line="71" column="37" />
+        <mark key="." line="71" column="37" />
       </file>
       <file name="/JavaScript File.txt.ft" timestamp="1543321234266">
         <mark key="[" line="0" column="0" />
@@ -127,11 +164,11 @@
       <file name="/Class.txt.ft" timestamp="1543321168423">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/portal/ProductController.java" timestamp="1543641267679">
-        <mark key="[" line="27" column="106" />
-        <mark key="]" line="27" column="40" />
-        <mark key="." line="27" column="40" />
-        <mark key="^" line="27" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/portal/ProductController.java" timestamp="1543644071097">
+        <mark key="[" line="29" column="92" />
+        <mark key="]" line="29" column="106" />
+        <mark key="." line="29" column="106" />
+        <mark key="^" line="29" column="106" />
       </file>
       <file name="/newshub.history [@120.79.22.44]" timestamp="1543641953831">
         <mark key="[" line="0" column="0" />
@@ -139,48 +176,8 @@
       <file name="/CoffeeScript Class.txt.ft" timestamp="1543321234049">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/webapp/WEB-INF/web.xml" timestamp="1543595465766">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/admin_homelist.jsp" timestamp="1543331207008">
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="210" column="50" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/title.jsp" timestamp="1543320582109">
-        <mark key="[" line="23" column="53" />
-        <mark key="]" line="23" column="56" />
-        <mark key="." line="23" column="56" />
-        <mark key="^" line="23" column="56" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/index.jsp" timestamp="1543332803816">
-        <mark key="'" line="53" column="16" />
-        <mark key="[" line="56" column="49" />
-        <mark key="]" line="56" column="49" />
-        <mark key="^" line="56" column="49" />
-        <mark key="." line="56" column="49" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled1/web/views/admin/register_ok.jsp" timestamp="1543331341639">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="104" column="6" />
-        <mark key="." line="7" column="86" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" timestamp="1543637527701">
-        <mark key="'" line="150" column="76" />
-        <mark key="[" line="150" column="93" />
-        <mark key="]" line="150" column="93" />
-        <mark key="." line="150" column="93" />
-        <mark key="^" line="150" column="76" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="44" filename="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/PayInfoMapper.xml" />
-      <jump line="142" column="0" filename="$USER_HOME$/IdeaProjects/mmall/pom.xml" />
-      <jump line="53" column="10" filename="$USER_HOME$/IdeaProjects/mmall/src/main/webapp/WEB-INF/web.xml" />
-      <jump line="16" column="9" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ServerResponse.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ServerResponse.java" />
       <jump line="66" column="79" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/common/ServerResponse.java" />
       <jump line="140" column="2" filename="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/UserMapper.xml" />
       <jump line="4" column="17" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/UserMapper.java" />
@@ -276,66 +273,70 @@
       <jump line="140" column="11" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
       <jump line="97" column="8" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
       <jump line="73" column="8" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
+      <jump line="173" column="12" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
+      <jump line="116" column="32" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
+      <jump line="35" column="45" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
+      <jump line="176" column="140" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
+      <jump line="193" column="27" filename="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/ProductMapper.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>pageNum</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>pageNum</text>
+        <text>gn</text>
       </register>
       <register name="/" type="4">
-        <text>session</text>
+        <text encoding="base64">XDxyZXR1cm5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>@RequestParam(value = &quot;pageNum&quot;, defaultValue = &quot;1&quot;)</text>
+        <text>selectByNameAndCategoryIds</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2VIZWxwZXIub3IK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
       </register>
     </registers>
     <search>
-      <last-search>session</last-search>
+      <last-search encoding="base64">XDxyZXR1cm5cPg==</last-search>
       <last-offset />
-      <last-pattern>session</last-pattern>
+      <last-pattern encoding="base64">XDxyZXR1cm5cPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>查询</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>f Real</entry>
         <entry>java</entry>
         <entry>out</entry>
         <entry encoding="base64">XDznlKjmiLfmlLnliKBcPg==</entry>
@@ -355,6 +356,7 @@
         <entry encoding="base64">XDxuYXZcPg==</entry>
         <entry>upda</entry>
         <entry>session</entry>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
