@@ -121,12 +121,12 @@
       <file name="/Dummy.txt" timestamp="1543597725002">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1543645661099">
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" timestamp="1543648041953">
         <mark key="'" line="176" column="140" />
         <mark key="[" line="205" column="50" />
-        <mark key="]" line="205" column="49" />
-        <mark key="." line="205" column="49" />
-        <mark key="^" line="205" column="49" />
+        <mark key="]" line="206" column="7" />
+        <mark key="." line="206" column="7" />
+        <mark key="^" line="206" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/ProductMapper.java" timestamp="1543644792080">
         <mark key="[" line="24" column="18" />
