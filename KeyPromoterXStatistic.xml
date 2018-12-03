@@ -65,6 +65,14 @@
           <Count>22</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Evaluate Expression...">
+        <Item>
+          <IdeaActionID>EvaluateExpression</IdeaActionID>
+          <ShortCut>'⌥F8'</ShortCut>
+          <Description>Evaluate Expression...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find">
         <Item>
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
@@ -183,6 +191,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'tomcat'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'tomcet'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'tomcet'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram...">
