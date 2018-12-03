@@ -23,6 +23,13 @@
         <mark key="." line="11" column="52" />
         <mark key="^" line="11" column="52" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/common/ServerResponse.java" timestamp="1543822285621">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="78" column="34" />
+        <mark key="]" line="78" column="34" />
+        <mark key="^" line="78" column="34" />
+        <mark key="." line="78" column="34" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/newshub/src/main/resources/mappers/HistoryMapper.xml" timestamp="1543679603747">
         <mark key="[" line="104" column="20" />
         <mark key="]" line="104" column="24" />
@@ -66,11 +73,11 @@
         <mark key="." line="37" column="29" />
         <mark key="^" line="52" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/UserServiceImpl.java" timestamp="1543747173936">
-        <mark key="[" line="17" column="54" />
-        <mark key="]" line="18" column="19" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="18" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/UserServiceImpl.java" timestamp="1543822002590">
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="35" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="19" column="35" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1543321246330">
         <mark key="[" line="0" column="0" />
@@ -139,6 +146,12 @@
         <mark key="]" line="6" column="17" />
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/common/ResponseCode.java" timestamp="1543821297886">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="23" column="4" />
+        <mark key="^" line="23" column="4" />
+        <mark key="." line="23" column="4" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1543321509823">
         <mark key="[" line="0" column="0" />
@@ -257,8 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="49" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/portal/UserController.java" />
-      <jump line="106" column="4" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" />
       <jump line="5" column="17" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/UserMapper.java" />
       <jump line="20" column="12" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/UserServiceImpl.java" />
       <jump line="113" column="0" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/portal/UserController.java" />
@@ -357,16 +368,18 @@
       <jump line="35" column="68" filename="$USER_HOME$/IdeaProjects/newshub/src/main/webapp/views/jsp/signin.jsp" />
       <jump line="82" column="0" filename="$USER_HOME$/IdeaProjects/newshub/src/main/webapp/views/jsp/home.jsp" />
       <jump line="15" column="16" filename="$USER_HOME$/IdeaProjects/newshub/src/main/webapp/views/jsp/home.jsp" />
+      <jump line="60" column="0" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/common/ServerResponse.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/common/ServerResponse.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null;</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>null;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXR1cm5cPg==</text>
