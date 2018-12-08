@@ -48,6 +48,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/pojo/User.java" timestamp="1544251675926">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/newshub/src/main/webapp/WEB-INF/web.xml" timestamp="1543893211839">
         <mark key="[" line="51" column="17" />
         <mark key="]" line="51" column="20" />
@@ -79,12 +84,12 @@
         <mark key="." line="37" column="29" />
         <mark key="^" line="52" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/UserServiceImpl.java" timestamp="1544249528527">
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/UserServiceImpl.java" timestamp="1544251936470">
         <mark key="'" line="17" column="13" />
-        <mark key="[" line="35" column="53" />
-        <mark key="]" line="35" column="51" />
-        <mark key="." line="35" column="51" />
-        <mark key="^" line="35" column="51" />
+        <mark key="[" line="45" column="30" />
+        <mark key="]" line="45" column="52" />
+        <mark key="." line="45" column="52" />
+        <mark key="^" line="45" column="52" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1543321246330">
         <mark key="[" line="0" column="0" />
@@ -144,7 +149,7 @@
       <file name="/I18nized Groovy string with injections.txt.ft" timestamp="1543321261983">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1543740786052">
+      <file name="/a.sql" timestamp="1544250061314">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/newshub.news [@120.79.22.44]" timestamp="1543852520853">
@@ -180,7 +185,7 @@
         <mark key="^" line="20" column="135" />
         <mark key="." line="20" column="135" />
       </file>
-      <file name="/dummy.sql" timestamp="1543986477794">
+      <file name="/dummy.sql" timestamp="1544251455417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -188,7 +193,7 @@
       <file name="/Cucumber Java 8 Step Definition.txt.ft" timestamp="1543321246856">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/newshub.user [@120.79.22.44]" timestamp="1543741216122">
+      <file name="/newshub.user [@120.79.22.44]" timestamp="1544251228088">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/dao/UserMapper.java" timestamp="1543832403815">
@@ -264,12 +269,12 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="42" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/UserController.java" timestamp="1544249497484">
-        <mark key="'" line="24" column="7" />
-        <mark key="[" line="33" column="34" />
-        <mark key="]" line="34" column="16" />
-        <mark key="^" line="34" column="16" />
-        <mark key="." line="34" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/UserController.java" timestamp="1544249960284">
+        <mark key="'" line="20" column="12" />
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="42" />
+        <mark key="^" line="36" column="42" />
+        <mark key="." line="36" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/newshub/src/main/resources/mappers/NewMapper.xml" timestamp="1544249220153">
         <mark key="'" line="152" column="24" />
@@ -285,11 +290,11 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/IUserService.java" timestamp="1543846528767">
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/IUserService.java" timestamp="1544249953467">
+        <mark key="[" line="9" column="46" />
+        <mark key="]" line="9" column="46" />
+        <mark key="^" line="9" column="46" />
+        <mark key="." line="9" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -364,7 +369,6 @@
       <jump line="60" column="0" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/common/ServerResponse.java" />
       <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/common/ServerResponse.java" />
       <jump line="54" column="8" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/common/ServerResponse.java" />
-      <jump line="20" column="7" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/UserController.java" />
       <jump line="1" column="4" filename="$USER_HOME$/IdeaProjects/newshub/src/main/webapp/index.jsp" />
       <jump line="14" column="29" filename="$USER_HOME$/IdeaProjects/newshub/src/main/webapp/index.jsp" />
       <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/newshub/src/main/resources/mappers/UserMapper.xml" />
@@ -393,49 +397,50 @@
       <jump line="104" column="24" filename="$USER_HOME$/IdeaProjects/newshub/src/main/resources/mappers/HistoryMapper.xml" />
       <jump line="16" column="4" filename="$USER_HOME$/IdeaProjects/newshub/src/main/resources/mappers/CommentMapper.xml" />
       <jump line="17" column="13" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/UserServiceImpl.java" />
+      <jump line="20" column="12" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/UserController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>#{updatetime,jdbcType=TIMESTAMP}</text>
+        <text>createByErrorMessage</text>
       </register>
       <register name="-" type="4">
-        <text>#{updatetime,jdbcType=TIMESTAMP}</text>
+        <text>createByErrorMessage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXR1cm5cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL2pzL3VzZXJBamF4LmpzP3Zlcj0xIj48L3NjcmlwdD4KPCUtLSBCb290c3RyYXAgLS0lPgo8c2NyaXB0IHNyYz0iLi4vanMvanF1ZXJ5LTMuMy4xLm1pbi5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSIuLi9qcy9ib290c3RyYXAubWluLmpzIj48L3NjcmlwdD4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">U2VydmVyUmVzcG9uc2U8U3RyaW5nPiByZWdpc3RlcihVc2VyIHVzZXIp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAje3VwZGF0ZXRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAje2NyZWF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgVXNlcihTdHJpbmcgdXNlcm5hbWUsIFN0cmluZyBwYXNzd29yZCwgU3RyaW5nIHVzZXJ0eXBlKXsKICAgICAgICB0aGlzLnVzZXJuYW1lID0gdXNlcm5hbWU7CiAgICAgICAgdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkOwogICAgICAgIHRoaXMudXNlcnR5cGUgPSB1c2VydHlwZTsKICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAje3VwZGF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
+        <text encoding="base64">ICAgICAgICAje3VwZGF0ZXRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAje25ld3N0aW1lLGpkYmNUeXBlPVRJTUVTVEFNUH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAje2NyZWF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii9uZXdzaHViL3ZpZXdzL2pzL3VzZXJBamF4LmpzP3Zlcj0xIj48L3NjcmlwdD4KPCUtLSBCb290c3RyYXAgLS0lPgo8c2NyaXB0IHNyYz0iL25ld3NodWIvdmlld3MvanMvanF1ZXJ5LTMuMy4xLm1pbi5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSIvbmV3c2h1Yi92aWV3cy9qcy9ib290c3RyYXAubWluLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAje3VwZGF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwlLS0gQm9vdHN0cmFwIC0tJT4KICAgIDxsaW5rIGhyZWY9Ii9uZXdzaHViL3ZpZXdzL2Nzcy9ib290c3RyYXAubWluLmNzcyIgcmVsPSJzdHlsZXNoZWV0IiBtZWRpYT0ic2NyZWVuIj4KICAgIDwlLS0gQ3VzdG9tIHN0eWxlcyBmb3IgdGhpcyB0ZW1wbGF0ZSAtLSU+CiAgICA8bGluayBocmVmPSIvbmV3c2h1Yi92aWV3cy9jc3MvY292ZXIuY3NzIiByZWw9InN0eWxlc2hlZXQiPgogICAgPGxpbmsgaHJlZj0iL25ld3NodWIvdmlld3MvY3NzL3NpZ25pbi5jc3MiIHJlbD0ic3R5bGVzaGVldCIgbWVkaWE9InNjcmVlbiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAje25ld3N0aW1lLGpkYmNUeXBlPVRJTUVTVEFNUH0sCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii9uZXdzaHViL3ZpZXdzL2pzL3VzZXJBamF4LmpzP3Zlcj0xIj48L3NjcmlwdD4KPCUtLSBCb290c3RyYXAgLS0lPgo8c2NyaXB0IHNyYz0iL25ld3NodWIvdmlld3MvanMvanF1ZXJ5LTMuMy4xLm1pbi5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSIvbmV3c2h1Yi92aWV3cy9qcy9ib290c3RyYXAubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwlLS0gQm9vdHN0cmFwIC0tJT4KICAgIDxsaW5rIGhyZWY9Ii9uZXdzaHViL3ZpZXdzL2Nzcy9ib290c3RyYXAubWluLmNzcyIgcmVsPSJzdHlsZXNoZWV0IiBtZWRpYT0ic2NyZWVuIj4KICAgIDwlLS0gQ3VzdG9tIHN0eWxlcyBmb3IgdGhpcyB0ZW1wbGF0ZSAtLSU+CiAgICA8bGluayBocmVmPSIvbmV3c2h1Yi92aWV3cy9jc3MvY292ZXIuY3NzIiByZWw9InN0eWxlc2hlZXQiPgo=</text>
+        <text encoding="base64">ICAgIDwlLS0gQm9vdHN0cmFwIC0tJT4KICAgIDxsaW5rIGhyZWY9Ii9uZXdzaHViL3ZpZXdzL2Nzcy9ib290c3RyYXAubWluLmNzcyIgcmVsPSJzdHlsZXNoZWV0IiBtZWRpYT0ic2NyZWVuIj4KICAgIDwlLS0gQ3VzdG9tIHN0eWxlcyBmb3IgdGhpcyB0ZW1wbGF0ZSAtLSU+CiAgICA8bGluayBocmVmPSIvbmV3c2h1Yi92aWV3cy9jc3MvY292ZXIuY3NzIiByZWw9InN0eWxlc2hlZXQiPgogICAgPGxpbmsgaHJlZj0iL25ld3NodWIvdmlld3MvY3NzL3NpZ25pbi5jc3MiIHJlbD0ic3R5bGVzaGVldCIgbWVkaWE9InNjcmVlbiI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii9uZXdzaHViL3ZpZXdzLyIK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii9uZXdzaHViL3ZpZXdzL2pzL3VzZXJBamF4LmpzP3Zlcj0xIj48L3NjcmlwdD4KPCUtLSBCb290c3RyYXAgLS0lPgo8c2NyaXB0IHNyYz0iL25ld3NodWIvdmlld3MvanMvanF1ZXJ5LTMuMy4xLm1pbi5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSIvbmV3c2h1Yi92aWV3cy9qcy9ib290c3RyYXAubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
