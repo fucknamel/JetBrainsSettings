@@ -84,11 +84,10 @@
         <mark key="." line="37" column="29" />
         <mark key="^" line="52" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/UserServiceImpl.java" timestamp="1544259045828">
-        <mark key="'" line="63" column="11" />
-        <mark key="[" line="33" column="4" />
-        <mark key="]" line="33" column="39" />
-        <mark key="." line="33" column="39" />
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/UserServiceImpl.java" timestamp="1544259967196">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
         <mark key="^" line="33" column="39" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1543321246330">
@@ -123,6 +122,12 @@
       </file>
       <file name="/Tag Library Descriptor.txt.ft" timestamp="1543321323625">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/UserManageController.java" timestamp="1544260131128">
+        <mark key="[" line="14" column="34" />
+        <mark key="]" line="20" column="7" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="20" column="7" />
       </file>
       <file name="/I18nized JSP Expression.txt.ft" timestamp="1543321263516">
         <mark key="[" line="0" column="0" />
@@ -224,6 +229,11 @@
         <mark key="." line="216" column="55" />
         <mark key="^" line="216" column="55" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/portal/UserController.java" timestamp="1544259993453">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="/mmall_learning.mmall_cart [@localhost]" timestamp="1543986462028">
         <mark key="[" line="0" column="0" />
       </file>
@@ -289,11 +299,10 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/IUserService.java" timestamp="1544256187223">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="33" />
-        <mark key="^" line="11" column="51" />
-        <mark key="." line="11" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/IUserService.java" timestamp="1544259970870">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -403,7 +412,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>TABLE_COMMENT</text>
@@ -415,31 +424,31 @@
         <text encoding="base64">ICAgICAgICBJbnRlZ2VyIFRBQkxFX0NPTU1FTlQgPSAxOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHR5cGVJZCl7CiAgICAgICAgICAgIGNhc2UgQ29uc3QuVGFibGUuVEFCTEVfQ09NTUVOVCA6CiAgICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiZGVsZXRlIikKICAgIEBSZXNwb25zZUJvZHkKICAgIHB1YmxpYyBTZXJ2ZXJSZXNwb25zZTxTdHJpbmc+IGRlbGV0ZShIdHRwU2Vzc2lvbiBzZXNzaW9uLEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAidHlwZUlkIikgSW50ZWdlciB0eXBlSWQsIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAiSWQiKSBJbnRlZ2VyIGlkKXsKICAgICAgICBpZihzZXNzaW9uLmdldEF0dHJpYnV0ZShDb25zdC5DVVJSRU5UX1VTRVIpLmVxdWFscyhDb25zdC5UeXBlLlRZUEVfVVNFUikpewogICAgICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2UuY3JlYXRlQnlFcnJvck1lc3NhZ2UoIuaXoOadg+mZkOaTjeS9nCIpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gaVVzZXJTZXJ2aWNlCiAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBTZXJ2ZXJSZXNwb25zZTxTdHJpbmc+IGRlbGV0ZShJbnRlZ2VyIGtleSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZihyZXN1bHRDb3VudCA9PSAwKXsKICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3JNZXNzYWdlKCLliKDpmaTlpLHotKUiKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5U3VjY2Vzc01lc3NhZ2UoIuWIoOmZpOaIkOWKnyIpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihyZXN1bHRDb3VudCA9PSAwKXsKICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3JNZXNzYWdlKCLliKDpmaTlpLHotKUiKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5U3VjY2Vzc01lc3NhZ2UoIuWIoOmZpOaIkOWKnyIpOwogICAgfQp9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0Q291bnQgPSB1c2VyTWFwcGVyLmRlbGV0ZUJ5UHJpbWFyeUtleShrZXkpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICR7fQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgVXNlcihTdHJpbmcgdXNlcm5hbWUsIFN0cmluZyBwYXNzd29yZCwgU3RyaW5nIHVzZXJ0eXBlKXsKICAgICAgICB0aGlzLnVzZXJuYW1lID0gdXNlcm5hbWU7CiAgICAgICAgdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkOwogICAgICAgIHRoaXMudXNlcnR5cGUgPSB1c2VydHlwZTsKICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTZXJ2ZXJSZXNwb25zZTxTdHJpbmc+IGRlbGV0ZShJbnRlZ2VyIHR5cGVJZCwgSW50ZWdlciBpZCl7CiAgICAgICAgaWYodHlwZUlkID09IENvbnN0LlRhYmxlLlRBQkxFX0NPTU1FTlQpewoKICAgICAgICB9CiAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHR5cGVJZCl7CiAgICAgICAgICAgIGNhc2UgQ29uc3QuVGFibGUuVEFCTEVfQ09NTUVOVCA6CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZihyZXN1bHRDb3VudCA9PSAwKXsKICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3JNZXNzYWdlKCLliKDpmaTlpLHotKUiKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5U3VjY2Vzc01lc3NhZ2UoIuWIoOmZpOaIkOWKnyIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
