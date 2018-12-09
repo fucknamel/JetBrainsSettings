@@ -156,11 +156,11 @@
         <mark key="." line="79" column="54" />
         <mark key="^" line="79" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/resources/mappers/NewsMapper.xml" timestamp="1544341366356">
-        <mark key="[" line="160" column="51" />
-        <mark key="]" line="160" column="49" />
-        <mark key="^" line="160" column="49" />
-        <mark key="." line="160" column="49" />
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/resources/mappers/NewsMapper.xml" timestamp="1544342577841">
+        <mark key="[" line="161" column="4" />
+        <mark key="]" line="162" column="0" />
+        <mark key="^" line="160" column="54" />
+        <mark key="." line="160" column="57" />
       </file>
       <file name="/Tag Library Descriptor.txt.ft" timestamp="1543321323625">
         <mark key="[" line="0" column="0" />
@@ -477,11 +477,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>iUserService.getUserList(pageNum, pageSize);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>iUserService.getUserList(pageNum, pageSize);</text>
+        <text>BaseResultMap</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
@@ -490,31 +490,31 @@
         <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiZ2V0X3VzZXIuZG8iKQogICAgQFJlc3BvbnNlQm9keQogICAgcHVibGljIFNlcnZlclJlc3BvbnNlIGdldFVzZXJMaXN0KEh0dHBTZXNzaW9uIHNlc3Npb24sIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAicGFnZU51bSIsIGRlZmF1bHRWYWx1ZSA9ICIxIikgaW50IHBhZ2VOdW0sIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAicGFnZVNpemUiLCBkZWZhdWx0VmFsdWUgPSAiMTAiKSBpbnQgcGFnZVNpemUpewogICAgICAgIFVzZXIgdXNlciA9IChVc2VyKSBzZXNzaW9uLmdldEF0dHJpYnV0ZShDb25zdC5DVVJSRU5UX1VTRVIpOwogICAgICAgIGlmKHVzZXIgPT0gbnVsbCl7CiAgICAgICAgICAgIHJldHVybiBTZXJ2ZXJSZXNwb25zZS5jcmVhdGVCeUVycm9yTWVzc2FnZSgi55So5oi35pyq55m76ZmG77yM6K+355m75b2VIik7CiAgICAgICAgfQogICAgICAgIGlmKGlVc2VyU2VydmljZS5jaGVja0FkbWluVHlwZSh1c2VyKS5pc1N1Y2Nlc3MoKSl7CiAgICAgICAgICAgIHJldHVybiBpVXNlclNlcnZpY2UuZ2V0VXNlckxpc3QocGFnZU51bSwgcGFnZVNpemUpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2UuY3JlYXRlQnlFcnJvck1lc3NhZ2UoIuaXoOadg+mZkOaTjeS9nCIpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTZXJ2ZXJSZXNwb25zZSBkZWxldGVOZXcoSW50ZWdlciApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTZXJ2ZXJSZXNwb25zZSBkZWxldGVOZXcoSW50ZWdlciBpZCl7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTZXJ2ZXJSZXNwb25zZSBkZWxldGVOZXcoSW50ZWdlciApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5U3VjY2VzcygpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTZXJ2ZXJSZXNwb25zZSBkZWxldGVOZXcoSW50ZWdlciBpZCl7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5U3VjY2VzcygpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlVc2VyU2VydmljZS5hZGRVc2VyKHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlVc2VyU2VydmljZS5hZGRVc2VyKHVzZXIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
