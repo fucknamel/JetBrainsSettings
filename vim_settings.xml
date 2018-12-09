@@ -24,9 +24,11 @@
       <file name="/fragment.js" timestamp="1543853502534">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/NewsServiceImpl.java" timestamp="1544340951061">
-        <mark key="[" line="40" column="11" />
-        <mark key="]" line="40" column="57" />
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/NewsServiceImpl.java" timestamp="1544343214008">
+        <mark key="[" line="53" column="11" />
+        <mark key="]" line="53" column="63" />
+        <mark key="." line="56" column="48" />
+        <mark key="^" line="56" column="48" />
       </file>
       <file name="/Activity.txt.ft" timestamp="1543321279520">
         <mark key="[" line="0" column="0" />
@@ -98,12 +100,12 @@
       <file name="/project_grass.chongcao_file [project_grass@localhost]" timestamp="1543157433427">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/NewsManageController.java" timestamp="1544341231992">
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/NewsManageController.java" timestamp="1544343229212">
         <mark key="'" line="47" column="31" />
-        <mark key="[" line="73" column="19" />
-        <mark key="]" line="73" column="30" />
-        <mark key="." line="73" column="30" />
-        <mark key="^" line="73" column="30" />
+        <mark key="[" line="73" column="31" />
+        <mark key="]" line="73" column="61" />
+        <mark key="." line="73" column="61" />
+        <mark key="^" line="73" column="61" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/newshub/src/main/webapp/views/title.jsp" timestamp="1543741887810">
         <mark key="'" line="50" column="0" />
@@ -112,10 +114,10 @@
         <mark key="." line="37" column="29" />
         <mark key="^" line="52" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/UserServiceImpl.java" timestamp="1544340323974">
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/UserServiceImpl.java" timestamp="1544343146767">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="87" column="5" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="94" column="5" />
         <mark key="." line="75" column="58" />
         <mark key="^" line="69" column="0" />
       </file>
@@ -156,20 +158,20 @@
         <mark key="." line="79" column="54" />
         <mark key="^" line="79" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/resources/mappers/NewsMapper.xml" timestamp="1544342577841">
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/resources/mappers/NewsMapper.xml" timestamp="1544343127875">
         <mark key="[" line="161" column="4" />
-        <mark key="]" line="162" column="0" />
-        <mark key="^" line="160" column="54" />
-        <mark key="." line="160" column="57" />
+        <mark key="]" line="164" column="22" />
+        <mark key="^" line="164" column="22" />
+        <mark key="." line="164" column="22" />
       </file>
       <file name="/Tag Library Descriptor.txt.ft" timestamp="1543321323625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/INewsService.java" timestamp="1544340957304">
-        <mark key="[" line="11" column="51" />
-        <mark key="]" line="11" column="51" />
-        <mark key="^" line="11" column="51" />
-        <mark key="." line="11" column="51" />
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/INewsService.java" timestamp="1544343218187">
+        <mark key="[" line="13" column="57" />
+        <mark key="]" line="13" column="57" />
+        <mark key="^" line="13" column="57" />
+        <mark key="." line="13" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/UserManageController.java" timestamp="1544341254272">
         <mark key="'" line="67" column="8" />
@@ -477,17 +479,17 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>ServerResponse getNewsList(int pageNum, int pageSize)</text>
       </register>
       <register name="-" type="4">
-        <text>BaseResultMap</text>
+        <text>userList</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiZ2V0X3VzZXIuZG8iKQogICAgQFJlc3BvbnNlQm9keQogICAgcHVibGljIFNlcnZlclJlc3BvbnNlIGdldFVzZXJMaXN0KEh0dHBTZXNzaW9uIHNlc3Npb24sIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAicGFnZU51bSIsIGRlZmF1bHRWYWx1ZSA9ICIxIikgaW50IHBhZ2VOdW0sIEBSZXF1ZXN0UGFyYW0odmFsdWUgPSAicGFnZVNpemUiLCBkZWZhdWx0VmFsdWUgPSAiMTAiKSBpbnQgcGFnZVNpemUpewogICAgICAgIFVzZXIgdXNlciA9IChVc2VyKSBzZXNzaW9uLmdldEF0dHJpYnV0ZShDb25zdC5DVVJSRU5UX1VTRVIpOwogICAgICAgIGlmKHVzZXIgPT0gbnVsbCl7CiAgICAgICAgICAgIHJldHVybiBTZXJ2ZXJSZXNwb25zZS5jcmVhdGVCeUVycm9yTWVzc2FnZSgi55So5oi35pyq55m76ZmG77yM6K+355m75b2VIik7CiAgICAgICAgfQogICAgICAgIGlmKGlVc2VyU2VydmljZS5jaGVja0FkbWluVHlwZSh1c2VyKS5pc1N1Y2Nlc3MoKSl7CiAgICAgICAgICAgIHJldHVybiBpVXNlclNlcnZpY2UuZ2V0VXNlckxpc3QocGFnZU51bSwgcGFnZVNpemUpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2UuY3JlYXRlQnlFcnJvck1lc3NhZ2UoIuaXoOadg+mZkOaTjeS9nCIpOwogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>ServerResponse getNewsList(int pageNum, int pageSize)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
