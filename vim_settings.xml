@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/ICommentService.java" timestamp="1544422361009">
+        <mark key="[" line="2" column="32" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/chongcao/.gitignore" timestamp="1543243706941">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,11 +27,12 @@
       <file name="/fragment.js" timestamp="1543853502534">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/NewsServiceImpl.java" timestamp="1544343214008">
-        <mark key="[" line="53" column="11" />
-        <mark key="]" line="53" column="63" />
-        <mark key="." line="56" column="48" />
-        <mark key="^" line="56" column="48" />
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/NewsServiceImpl.java" timestamp="1544421577024">
+        <mark key="'" line="53" column="44" />
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="46" column="70" />
+        <mark key="." line="46" column="70" />
+        <mark key="^" line="46" column="70" />
       </file>
       <file name="/Activity.txt.ft" timestamp="1543321279520">
         <mark key="[" line="0" column="0" />
@@ -100,8 +104,8 @@
       <file name="/project_grass.chongcao_file [project_grass@localhost]" timestamp="1543157433427">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/NewsManageController.java" timestamp="1544343229212">
-        <mark key="'" line="47" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/NewsManageController.java" timestamp="1544422272169">
+        <mark key="'" line="73" column="31" />
         <mark key="[" line="73" column="31" />
         <mark key="]" line="73" column="61" />
         <mark key="." line="73" column="61" />
@@ -120,6 +124,12 @@
         <mark key="]" line="94" column="5" />
         <mark key="." line="75" column="58" />
         <mark key="^" line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/CommentManageController.java" timestamp="1544422297863">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1543321246330">
         <mark key="[" line="0" column="0" />
@@ -208,7 +218,7 @@
       <file name="/a.sql" timestamp="1544344938861">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/newshub.news [@120.79.22.44]" timestamp="1544344920668">
+      <file name="/newshub.news [@120.79.22.44]" timestamp="1544421712687">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1543853814387">
@@ -247,7 +257,7 @@
         <mark key="^" line="20" column="135" />
         <mark key="." line="20" column="135" />
       </file>
-      <file name="/dummy.sql" timestamp="1544344942747">
+      <file name="/dummy.sql" timestamp="1544421995448">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -301,7 +311,7 @@
       <file name="/JavaScript File.txt.ft" timestamp="1543321234266">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/newshub.comments [@120.79.22.44]" timestamp="1543740795827">
+      <file name="/newshub.comments [@120.79.22.44]" timestamp="1544421994346">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/newshub/src/main/resources/generatorConfig.xml" timestamp="1544340631688">
@@ -369,9 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="17" filename="$USER_HOME$/IdeaProjects/newshub/src/main/webapp/views/jsp/title.jsp" />
-      <jump line="14" column="16" filename="$USER_HOME$/IdeaProjects/newshub/src/main/webapp/views/jsp/title.jsp" />
-      <jump line="12" column="16" filename="$USER_HOME$/IdeaProjects/newshub/src/main/webapp/views/jsp/signin_no.jsp" />
       <jump line="15" column="4" filename="$USER_HOME$/IdeaProjects/newshub/src/main/webapp/views/jsp/signin.jsp" />
       <jump line="42" column="16" filename="$USER_HOME$/IdeaProjects/newshub/src/main/webapp/views/jsp/signin.jsp" />
       <jump line="46" column="0" filename="$USER_HOME$/IdeaProjects/newshub/src/main/webapp/views/jsp/title.jsp" />
@@ -469,19 +476,22 @@
       <jump line="135" column="2" filename="$USER_HOME$/IdeaProjects/newshub/src/main/resources/mappers/UserMapper.xml" />
       <jump line="163" column="4" filename="$USER_HOME$/IdeaProjects/newshub/src/main/resources/mappers/NewsMapper.xml" />
       <jump line="33" column="4" filename="$USER_HOME$/IdeaProjects/newshub/src/main/resources/mappers/NewsMapper.xml" />
+      <jump line="46" column="37" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/NewsServiceImpl.java" />
+      <jump line="53" column="44" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/NewsServiceImpl.java" />
+      <jump line="73" column="31" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/NewsManageController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>TIMESTAMP</text>
+        <text>updateByPrimaryKeySelective(news);</text>
       </register>
       <register name="-" type="4">
-        <text>TIMESTAMP</text>
+        <text>updateByPrimaryKeySelective(news);</text>
       </register>
       <register name="/" type="4">
-        <text>select</text>
+        <text>update</text>
       </register>
       <register name="0" type="4">
         <text>#{newslabel,jdbcType=VARCHAR}</text>
@@ -518,9 +528,9 @@
       </register>
     </registers>
     <search>
-      <last-search>select</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>select</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>查询</last-substitute>
       <last-dir>1</last-dir>
@@ -528,7 +538,6 @@
     </search>
     <history>
       <history-search>
-        <entry>576</entry>
         <entry>index</entry>
         <entry>data</entry>
         <entry>logi</entry>
@@ -548,6 +557,7 @@
         <entry>deleteNew</entry>
         <entry>get</entry>
         <entry>select</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
