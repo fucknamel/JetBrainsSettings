@@ -94,6 +94,19 @@
         <mark key="." line="218" column="0" />
         <mark key="^" line="90" column="83" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49e31018-f574-4880-9225-7be0ec688628/console.sql" timestamp="1545408900830">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_add_ok.jsp" timestamp="1545410187128">
+        <mark key="'" line="51" column="16" />
+        <mark key="[" line="81" column="126" />
+        <mark key="]" line="81" column="125" />
+        <mark key="^" line="81" column="125" />
+        <mark key="." line="81" column="125" />
+      </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1543321245271">
         <mark key="[" line="0" column="0" />
       </file>
@@ -195,6 +208,9 @@
         <mark key="." line="18" column="77" />
         <mark key="^" line="18" column="77" />
       </file>
+      <file name="/tpc-h.customer [@120.79.22.44]" timestamp="1545409570692">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Tag Library Descriptor.txt.ft" timestamp="1543321323625">
         <mark key="[" line="0" column="0" />
       </file>
@@ -240,8 +256,10 @@
       <file name="/Jspx File.txt.ft" timestamp="1543321332703">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1545203826544">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1545409674389">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/js/jump.js" timestamp="1545395272229">
         <mark key="'" line="22" column="0" />
@@ -274,7 +292,7 @@
       <file name="/HTML File.txt.ft" timestamp="1543321509823">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1545383968421">
+      <file name="/dummy.sql" timestamp="1545409914493">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -323,12 +341,12 @@
         <mark key="." line="45" column="63" />
         <mark key="^" line="45" column="63" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" timestamp="1545407267503">
-        <mark key="'" line="191" column="19" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="16" column="66" />
-        <mark key="^" line="67" column="40" />
-        <mark key="." line="238" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" timestamp="1545409404072">
+        <mark key="'" line="64" column="16" />
+        <mark key="[" line="220" column="63" />
+        <mark key="]" line="220" column="67" />
+        <mark key="^" line="220" column="67" />
+        <mark key="." line="220" column="67" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/newshub/src/main/webapp/views/jsp/home.jsp" timestamp="1544527941319">
         <mark key="'" line="15" column="18" />
@@ -340,11 +358,12 @@
       <file name="/mmall_learning.mmall_cart [@localhost]" timestamp="1543986462028">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_add.jsp" timestamp="1545407415543">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="32" column="5" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_add.jsp" timestamp="1545409879774">
+        <mark key="'" line="28" column="83" />
+        <mark key="[" line="28" column="86" />
+        <mark key="]" line="28" column="86" />
+        <mark key="^" line="19" column="46" />
+        <mark key="." line="28" column="86" />
       </file>
       <file name="/JavaScript File.txt.ft" timestamp="1543321234266">
         <mark key="[" line="0" column="0" />
@@ -403,11 +422,6 @@
         <mark key="." line="158" column="28" />
         <mark key="^" line="158" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/vo/NewsTitleVo.java" timestamp="1545141033284">
-        <mark key="]" line="25" column="3" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="25" column="3" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/newshub/src/main/webapp/index.jsp" timestamp="1544245653103">
         <mark key="'" line="44" column="4" />
         <mark key="[" line="35" column="23" />
@@ -426,18 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="13" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/UserServiceImpl.java" />
-      <jump line="60" column="61" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/CommentManageController.java" />
-      <jump line="29" column="8" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/CommentManageController.java" />
-      <jump line="2" column="11" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/CommentManageController.java" />
-      <jump line="3" column="11" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/CommentManageController.java" />
-      <jump line="4" column="11" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/CommentManageController.java" />
-      <jump line="5" column="11" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/CommentManageController.java" />
-      <jump line="6" column="11" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/CommentManageController.java" />
-      <jump line="7" column="11" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/CommentManageController.java" />
-      <jump line="0" column="12" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/backend/CommentManageController.java" />
-      <jump line="44" column="4" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/NewsServiceImpl.java" />
-      <jump line="15" column="4" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/CommentServiceImpl.java" />
       <jump line="4" column="17" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/dao/CommentMapper.java" />
       <jump line="17" column="12" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/CommentServiceImpl.java" />
       <jump line="19" column="4" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/portal/UserController.java" />
@@ -521,63 +523,75 @@
       <jump line="57" column="34" filename="$USER_HOME$/IdeaProjects/TPCH/pom.xml" />
       <jump line="47" column="14" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/index.jsp" />
       <jump line="66" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
-      <jump line="16" column="4" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
       <jump line="217" column="93" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
       <jump line="67" column="40" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
       <jump line="191" column="19" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
       <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/index.jsp" />
+      <jump line="12" column="23" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
+      <jump line="30" column="83" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_add.jsp" />
+      <jump line="133" column="16" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
+      <jump line="16" column="4" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
+      <jump line="20" column="5" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
+      <jump line="21" column="9" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
+      <jump line="30" column="10" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
+      <jump line="31" column="8" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
+      <jump line="71" column="5" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_add_ok.jsp" />
+      <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
+      <jump line="50" column="16" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_add_ok.jsp" />
+      <jump line="238" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
+      <jump line="64" column="16" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>request.getParameter(&quot;C_MKTSEGMENT&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>Successful</text>
+        <text>request.getParameter(&quot;C_MKTSEGMENT&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>#</text>
+        <text>div</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx0aXRsZT5UaXRsZTwvdGl0bGU+CiAgICA8JS0tIEJvb3RzdHJhcCAtLSU+CiAgICA8bGluayBocmVmPSIvdmlld3MvY3NzL2Jvb3RzdHJhcC5taW4uY3NzIiByZWw9InN0eWxlc2hlZXQiIG1lZGlhPSJzY3JlZW4iPgogICAgPCUtLSBDdXN0b20gc3R5bGVzIGZvciB0aGlzIHRlbXBsYXRlIC0tJT4KICAgIDxsaW5rIGhyZWY9Ii92aWV3cy9jc3MvbmF2YmFyLWZpeGVkLXRvcC5jc3MiIHJlbD0ic3R5bGVzaGVldCI+Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBDX0NVU1RLRVkgPSByZXF1ZXN0LmdldFBhcmFtZXRlcigiQ19DVVNUS0VZIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBDX0NVU1RLRVkgPSByZXF1ZXN0LmdldFBhcmFtZXRlcigiQ19DVVNUS0VZIik7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PCUtLTxmb3JtIG5hbWU9ImFkZEZvcm0iIGFjdGlvbj0iL3ZpZXdzL3JlZ2lzdGVyX29rLmpzcCIgbWV0aG9kPSJwb3N0Ij4tLSU+CiAgICAgICAgPCUtLee7j+W6pi0tJT4KICAgICAgICA8JS0tPGlucHV0IHR5cGU9InRleHQiIG5hbWU9ImxvIiB2YWx1ZT0iIj4tLSU+CiAgICAgICAgPCUtLee6rOW6pi0tJT4KICAgICAgICA8JS0tPGlucHV0IHR5cGU9InRleHQiIG5hbWU9ImxhIiB2YWx1ZT0iIj4tLSU+CiAgICAgICAgPCUtLTxpbnB1dCB0eXBlPSJzdWJtaXQiIG5hbWU9InN1YiIgdmFsdWU9IuaPkOS6pOS/oeaBryI+LS0lPgogICAgICAgIDwlLS08L2Zvcm0+LS0lPgogICAgICAgIDwlLS08aW5wdXQgdHlwZT0iYnV0dG9uIiBvbmNsaWNrPSJyZSgpIiB2YWx1ZT0i6L+U5Zue5YiX6KGoIj4tLSU+</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDx0aXRsZT5UaXRsZTwvdGl0bGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PCVAIHBhZ2UgY29udGVudFR5cGU9InRleHQvaHRtbDtjaGFyc2V0PVVURi04IiBsYW5ndWFnZT0iamF2YSIgJT4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii92aWV3cy9qcy9qdW1wLmpzIj48L3NjcmlwdD4K</text>
+      <register name="5" type="8">
+        <text>&quot;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii92aWV3cy9qcy9qdW1wLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJidG4tZ3JvdXAiIHJvbGU9Imdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLWRlZmF1bHQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb25jbGljaz0id2luZG93LmxvY2F0aW9uLmhyZWY9Jy92aWV3cy9hZG1pbi9tYW5hZ2VtZW50LmpzcCciPue7n+iuoQogICAgICAgICAgICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii92aWV3cy9qcy9qdW1wLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJidG4tZ3JvdXAiIHJvbGU9Imdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBpZD0iMiIgdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi13YXJuaW5nIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9uY2xpY2s9IndpbmRvdy5sb2NhdGlvbi5ocmVmPScvdmlld3MvYWRtaW4vcHJpbnQuanNwJyI+5omT5Y2wCiAgICAgICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIDxsaW5rIGhyZWY9Ii92aWV3cy9jc3MvbmF2YmFyLWZpeGVkLXRvcC5jc3MiIHJlbD0ic3R5bGVzaGVldCI+CjwvaGVhZD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJidG4tZ3JvdXAiIHJvbGU9Imdyb3VwIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBpZD0iMSIgdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1pbmZvIj7lr7zlh7o8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIDx0aXRsZT5UaXRsZTwvdGl0bGU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
       </register>
     </registers>
     <search>
-      <last-search>#</last-search>
+      <last-search>div</last-search>
       <last-offset />
-      <last-pattern>#</last-pattern>
+      <last-pattern>div</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>查询</last-substitute>
       <last-dir>1</last-dir>
@@ -585,7 +599,6 @@
     </search>
     <history>
       <history-search>
-        <entry>add_news</entry>
         <entry>public</entry>
         <entry>service</entry>
         <entry>Service</entry>
@@ -605,6 +618,7 @@
         <entry>java</entry>
         <entry>homelist</entry>
         <entry>#</entry>
+        <entry>div</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
