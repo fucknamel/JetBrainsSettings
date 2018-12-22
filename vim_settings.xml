@@ -109,6 +109,12 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1543321245271">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/newshub/pom.xml" timestamp="1545453798481">
+        <mark key="[" line="167" column="17" />
+        <mark key="]" line="167" column="19" />
+        <mark key="." line="167" column="19" />
+        <mark key="^" line="167" column="19" />
+      </file>
       <file name="/project_grass.chongcao_file [project_grass@localhost]" timestamp="1543157433427">
         <mark key="[" line="0" column="0" />
       </file>
@@ -552,10 +558,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>div</text>
