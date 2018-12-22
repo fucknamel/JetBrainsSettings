@@ -131,12 +131,12 @@
         <mark key="." line="67" column="115" />
         <mark key="^" line="67" column="115" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_change_ok.jsp" timestamp="1545472187408">
-        <mark key="'" line="32" column="8" />
-        <mark key="[" line="75" column="65" />
-        <mark key="]" line="75" column="67" />
-        <mark key="." line="75" column="67" />
-        <mark key="^" line="75" column="67" />
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_change_ok.jsp" timestamp="1545493380792">
+        <mark key="'" line="113" column="53" />
+        <mark key="[" line="116" column="43" />
+        <mark key="]" line="116" column="78" />
+        <mark key="." line="116" column="43" />
+        <mark key="^" line="116" column="42" />
       </file>
       <file name="/history [@120.79.22.44]" timestamp="1544762761336">
         <mark key="[" line="0" column="0" />
@@ -307,7 +307,7 @@
       <file name="/HTML File.txt.ft" timestamp="1543321509823">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1545488046291">
+      <file name="/dummy.sql" timestamp="1545492981258">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -363,6 +363,12 @@
         <mark key="." line="34" column="56" />
         <mark key="^" line="34" column="56" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_change.jsp" timestamp="1545492953988">
+        <mark key="[" line="143" column="24" />
+        <mark key="]" line="143" column="69" />
+        <mark key="." line="143" column="69" />
+        <mark key="^" line="143" column="69" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/newshub/src/main/webapp/views/jsp/home.jsp" timestamp="1544527941319">
         <mark key="'" line="15" column="18" />
         <mark key="[" line="87" column="13" />
@@ -380,7 +386,7 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/tpc-h.nation [@120.79.22.44]" timestamp="1545487358387">
+      <file name="/tpc-h.nation [@120.79.22.44]" timestamp="1545491752948">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript File.txt.ft" timestamp="1543321234266">
@@ -458,9 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="8" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/NewsServiceImpl.java" />
-      <jump line="27" column="39" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/NewsServiceImpl.java" />
-      <jump line="28" column="12" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/impl/NewsServiceImpl.java" />
       <jump line="35" column="4" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/portal/NewsController.java" />
       <jump line="23" column="119" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/portal/NewsController.java" />
       <jump line="28" column="41" filename="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/portal/NewsController.java" />
@@ -558,58 +561,61 @@
       <jump line="210" column="59" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
       <jump line="16" column="5" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
       <jump line="29" column="62" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
+      <jump line="97" column="8" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_change_ok.jsp" />
+      <jump line="112" column="26" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_change_ok.jsp" />
+      <jump line="113" column="53" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_change_ok.jsp" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBJTkZPUk1BVElPTl9TQ0hFTUEuS0VZCg==</text>
+      <register name="&quot;" type="4">
+        <text>request.getParameter(&quot;C_NATIONKEY&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>request.getParameter(&quot;C_NATIONKEY&quot;)</text>
       </register>
       <register name="/" type="4">
-        <text>li</text>
+        <text>C_NATION</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBpZCA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJpZCIpOwogICAgLy/ov57mjqXmlbDmja7lupPvvIznlKhqZGJj6amx5Yqo5Yqg6L29bXlzcWwKICAgIHRyeSB7CiAgICAgICAgQ2xhc3MuZm9yTmFtZShQcm9wZXJ0aWVzVXRpbC5nZXRQcm9wZXJ0eSgiZGIubmFtZSIpKTsKICAgIH0gY2F0Y2ggKENsYXNzTm90Rm91bmRFeGNlcHRpb24gY2xhc3Nub3Rmb3VuZGV4Y2VwdGlvbikgewogICAgICAgIGNsYXNzbm90Zm91bmRleGNlcHRpb24ucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9CiAgICB0cnkgewogICAgICAgIC8v6L+e5o6l5pWw5o2u5bqTCiAgICAgICAgU3RyaW5nIFVSTCA9IFByb3BlcnRpZXNVdGlsLmdldFByb3BlcnR5KCJkYi51cmwiKTsKICAgICAgICBTdHJpbmcgVVNFUiA9IFByb3BlcnRpZXNVdGlsLmdldFByb3BlcnR5KCJkYi51c2VybmFtZSIpOwogICAgICAgIFN0cmluZyBQQVNTV09SRCA9IFByb3BlcnRpZXNVdGlsLmdldFByb3BlcnR5KCJkYi5wYXNzd29yZCIpOwogICAgICAgIFN0cmluZyB1cGRhdGVTcWwgPSAiU0VMRUNUICogRlJPTSBjdXN0b21lciBXSEVSRSBDX0NVU1RLRVk9IiArIGlkOwogICAgICAgIENvbm5lY3Rpb24gY29ubiA9IERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbihVUkwsIFVTRVIsIFBBU1NXT1JEKTsKICAgICAgICAvL291dC5wcmludCgiU3VjY2Vzc2Z1bGx5IGNvbm5lY3QgdG8gdGhlIGRhdGFiYXNzITxicj4iKTsKICAgICAgICBTdGF0ZW1lbnQgc3RtdCA9IGNvbm4uY3JlYXRlU3RhdGVtZW50KCk7CiAgICAgICAgLy/miafooYxTUUzmn6Xor6Lor63lj6XvvIzov5Tlm57nu5Pmnpzpm4YKICAgICAgICBSZXN1bHRTZXQgcnMgPSBzdG10LmV4ZWN1dGVRdWVyeSh1cGRhdGVTcWwpOwo=</text>
+      <register name="0" type="4">
+        <text>request.getParameter(&quot;C_NATIONKEY&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBJTkZPUk1BVElPTl9TQ0hFTUEuS0VZCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZ0J1aWxkZXIgaW5zZXJ0U3FsID0gbmV3IFN0cmluZ0J1aWxkZXIoIlVQREFURSBjdXN0b21lciBTRVQgIik7CiAgICBpbnNlcnRTcWwuYXBwZW5kKCJDX05BTUU9Iik7CiAgICBpZihTdHJpbmdVdGlscy5pc0JsYW5rKHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJDX05BTUUiKSkpewogICAgICAgIGluc2VydFNxbC5hcHBlbmQoIicnIiArICIsIik7CiAgICB9ZWxzZSB7CiAgICAgICAgaW5zZXJ0U3FsLmFwcGVuZCgiJyIgKyByZXF1ZXN0LmdldFBhcmFtZXRlcigiQ19OQU1FIikgKyAiJywgIik7CiAgICB9CiAgICBpbnNlcnRTcWwuYXBwZW5kKCJDX0FERFJFU1M9Iik7CiAgICBpZihTdHJpbmdVdGlscy5pc0JsYW5rKHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJDX0FERFJFU1MiKSkpewogICAgICAgIGluc2VydFNxbC5hcHBlbmQoIicnIiArICIsIik7CiAgICB9ZWxzZSB7CiAgICAgICAgaW5zZXJ0U3FsLmFwcGVuZCgiJyIgKyByZXF1ZXN0LmdldFBhcmFtZXRlcigiQ19BRERSRVNTIikgKyAiJywgIik7CiAgICB9CiAgICBpbnNlcnRTcWwuYXBwZW5kKCJDX05BVElPTktFWT0iKTsKICAgIGlmKFN0cmluZ1V0aWxzLmlzQmxhbmsocmVxdWVzdC5nZXRQYXJhbWV0ZXIoIkNfTkFUSU9OS0VZIikpKXsKICAgICAgICBpbnNlcnRTcWwuYXBwZW5kKCJudWxsIiArICIsIik7CiAgICB9ZWxzZSB7CiAgICAgICAgaW5zZXJ0U3FsLmFwcGVuZCgiJyIgKyByZXF1ZXN0LmdldFBhcmFtZXRlcigiQ19OQVRJT05LRVkiKSArICInLCAiKTsKICAgIH0KICAgIGluc2VydFNxbC5hcHBlbmQoIkNfUEhPTkU9Iik7CiAgICBpZihTdHJpbmdVdGlscy5pc0JsYW5rKHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJDX1BIT05FIikpKXsKICAgICAgICBpbnNlcnRTcWwuYXBwZW5kKCInJyIgKyAiLCIpOwogICAgfWVsc2UgewogICAgICAgIGluc2VydFNxbC5hcHBlbmQoIiciICsgcmVxdWVzdC5nZXRQYXJhbWV0ZXIoIkNfUEhPTkUiKSArICInLCAiKTsKICAgIH0KICAgIGluc2VydFNxbC5hcHBlbmQoIkNfQUNDVEJBTD0iKTsKICAgIGlmKFN0cmluZ1V0aWxzLmlzQmxhbmsocmVxdWVzdC5nZXRQYXJhbWV0ZXIoIkNfQUNDVEJBTCIpKSl7CiAgICAgICAgaW5zZXJ0U3FsLmFwcGVuZCgiMCIgKyAiLCIpOwogICAgfWVsc2UgewogICAgICAgIGluc2VydFNxbC5hcHBlbmQoIiciICsgcmVxdWVzdC5nZXRQYXJhbWV0ZXIoIkNfQUNDVEJBTCIpICsgIicsICIpOwogICAgfQogICAgaW5zZXJ0U3FsLmFwcGVuZCgiQ19NS1RTRUdNRU5UPSIpOwogICAgaWYoU3RyaW5nVXRpbHMuaXNCbGFuayhyZXF1ZXN0LmdldFBhcmFtZXRlcigiQ19NS1RTRUdNRU5UIikpKXsKICAgICAgICBpbnNlcnRTcWwuYXBwZW5kKCInJyIgKyAiLCIpOwogICAgfWVsc2UgewogICAgICAgIGluc2VydFNxbC5hcHBlbmQoIiciICsgcmVxdWVzdC5nZXRQYXJhbWV0ZXIoIkNfTUtUU0VHTUVOVCIpICsgIicsICIpOwogICAgfQogICAgaW5zZXJ0U3FsLmFwcGVuZCgiQ19DT01NRU5UPSIpOwogICAgaWYoU3RyaW5nVXRpbHMuaXNCbGFuayhyZXF1ZXN0LmdldFBhcmFtZXRlcigiQ19DT01NRU5UIikpKXsKICAgICAgICBpbnNlcnRTcWwuYXBwZW5kKCInJyIpOwogICAgfWVsc2UgewogICAgICAgIGluc2VydFNxbC5hcHBlbmQoIiciICsgcmVxdWVzdC5nZXRQYXJhbWV0ZXIoIkNfQ09NTUVOVCIpICsgIiciKTsKICAgIH0KICAgIGluc2VydFNxbC5hcHBlbmQoIldIRVJFIENfQ1VTVEtFWT0nIisgcmVxdWVzdC5nZXRQYXJhbWV0ZXIoIkNfQ1VTVEtFWSIpICsgIiciKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCVAIHBhZ2UgaW1wb3J0PSJvcmcuYXBhY2hlLmNvbW1vbnMubGFuZzMuU3RyaW5nVXRpbHMiICU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwIG1hcCA9IG5ldyBIYXNoTWFwKCk7CiAgICAgICAgICAgIG1hcC5wdXQocnNjLmdldEludCgiTl9OQVRJT05LRVkiKSwgcnNjLmdldFN0cmluZygiTl9OQU1FIikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSZXN1bHRTZXQgcnMgPSBzdG10LmV4ZWN1dGVRdWVyeSh1cGRhdGVTcWwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdoaWxlICghbGlzdC5pc0VtcHR5KCkpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgVVJMID0gUHJvcGVydGllc1V0aWwuZ2V0UHJvcGVydHkoImRiLnVybCIpOwogICAgICAgIFN0cmluZyBVU0VSID0gUHJvcGVydGllc1V0aWwuZ2V0UHJvcGVydHkoImRiLnVzZXJuYW1lIik7CiAgICAgICAgU3RyaW5nIFBBU1NXT1JEID0gUHJvcGVydGllc1V0aWwuZ2V0UHJvcGVydHkoImRiLnBhc3N3b3JkIik7CiAgICAgICAgQ29ubmVjdGlvbiBjb25uID0gRHJpdmVyTWFuYWdlci5nZXRDb25uZWN0aW9uKFVSTCwgVVNFUiwgUEFTU1dPUkQpOwogICAgICAgIFN0YXRlbWVudCBzdG10ID0gY29ubi5jcmVhdGVTdGF0ZW1lbnQoKTsKICAgICAgICAvL+aJp+ihjFNRTOafpeivouivreWPpe+8jOi/lOWbnue7k+aenOmbhgogICAgICAgIHN0bXQuZXhlY3V0ZVVwZGF0ZShpbnNlcnRTcWwudG9TdHJpbmcoKSk7CiAgICAgICAgLy/lhbPpl63mlbDmja7lupMKICAgICAgICBzdG10LmNsb3NlKCk7CiAgICAgICAgY29ubi5jbG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgogICAgLy/ov57mjqXmlbDmja7lupPvvIznlKhqZGJj6amx5Yqo5Yqg6L29bXlzcWwKICAgIHRyeSB7CiAgICAgICAgQ2xhc3MuZm9yTmFtZShQcm9wZXJ0aWVzVXRpbC5nZXRQcm9wZXJ0eSgiZGIubmFtZSIpKTsKICAgIH0gY2F0Y2ggKENsYXNzTm90Rm91bmRFeGNlcHRpb24gY2xhc3Nub3Rmb3VuZGV4Y2VwdGlvbikgewogICAgICAgIGNsYXNzbm90Zm91bmRleGNlcHRpb24ucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9CiAgICB0cnkgewogICAgICAgIC8v6L+e5o6l5pWw5o2u5bqTCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvcihpbnQgaT0wO2k8MztpKyspewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnNlcnRTcWwuYXBwZW5kKCInJyIgKyAiLCIpOwogICAgfWVsc2UgewogICAgICAgIGluc2VydFNxbC5hcHBlbmQoIiciICsgcmVxdWVzdC5nZXRQYXJhbWV0ZXIoIkNfTUtUU0VHTUVOVCIpICsgIicsICIpOwogICAgfQogICAgaWYoU3RyaW5nVXRpbHMuaXNCbGFuayhyZXF1ZXN0LmdldFBhcmFtZXRlcigiQ19DT01NRU5UIikpKXsKICAgICAgICBpbnNlcnRTcWwuYXBwZW5kKCInJyIpOwogICAgfWVsc2UgewogICAgICAgIGluc2VydFNxbC5hcHBlbmQoIiciICsgcmVxdWVzdC5nZXRQYXJhbWV0ZXIoIkNfQ09NTUVOVCIpICsgIiciKTsKICAgIH0KICAgIGluc2VydFNxbC5hcHBlbmQoIikiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgbmFtZT0iQ19OQVRJT05LRVkiIHZhbHVlPSI8JT1ycy5nZXRJbnQoIkNfTkFUSU9OS0VZIiklPiI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnNlcnRTcWwuYXBwZW5kKCInJyIgKyAiLCIpOwogICAgfWVsc2UgewogICAgICAgIGluc2VydFNxbC5hcHBlbmQoIiciICsgcmVxdWVzdC5nZXRQYXJhbWV0ZXIoIkNfUEhPTkUiKSArICInLCAiKTsKICAgIH0KICAgIGlmKFN0cmluZ1V0aWxzLmlzQmxhbmsocmVxdWVzdC5nZXRQYXJhbWV0ZXIoIkNfQUNDVEJBTCIpKSl7CiAgICAgICAgaW5zZXJ0U3FsLmFwcGVuZCgiMCIgKyAiLCIpOwogICAgfWVsc2UgewogICAgICAgIGluc2VydFNxbC5hcHBlbmQoIiciICsgcmVxdWVzdC5nZXRQYXJhbWV0ZXIoIkNfQUNDVEJBTCIpICsgIicsICIpOwogICAgfQogICAgaWYoU3RyaW5nVXRpbHMuaXNCbGFuayhyZXF1ZXN0LmdldFBhcmFtZXRlcigiQ19NS1RTRUdNRU5UIikpKXsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnNlcnRTcWwuYXBwZW5kKCInJyIgKyAiLCIpOwogICAgfWVsc2UgewogICAgICAgIGluc2VydFNxbC5hcHBlbmQoIiciICsgcmVxdWVzdC5nZXRQYXJhbWV0ZXIoIkNfQUREUkVTUyIpICsgIicsICIpOwogICAgfQogICAgaWYoU3RyaW5nVXRpbHMuaXNCbGFuayhyZXF1ZXN0LmdldFBhcmFtZXRlcigiQ19OQVRJT05LRVkiKSkpewogICAgICAgIGluc2VydFNxbC5hcHBlbmQoIm51bGwiICsgIiwiKTsKICAgIH1lbHNlIHsKICAgICAgICBpbnNlcnRTcWwuYXBwZW5kKCInIiArIHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJDX05BVElPTktFWSIpICsgIicsICIpOwogICAgfQogICAgaWYoU3RyaW5nVXRpbHMuaXNCbGFuayhyZXF1ZXN0LmdldFBhcmFtZXRlcigiQ19QSE9ORSIpKSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3Quc2V0Q2hhcmFjdGVyRW5jb2RpbmcoIlVURi04Iik7CiAgICBTdHJpbmcgaWQgPSByZXF1ZXN0LmdldFBhcmFtZXRlcigiaWQiKTsKICAgIFN0cmluZ0J1aWxkZXIgaW5zZXJ0U3FsID0gbmV3IFN0cmluZ0J1aWxkZXIoIklOU0VSVCBJTlRPIGN1c3RvbWVyKENfQ1VTVEtFWSwgQ19OQU1FLCBDX0FERFJFU1MsIENfTkFUSU9OS0VZLCBDX1BIT05FLCBDX0FDQ1RCQUwsIENfTUtUU0VHTUVOVCwgQ19DT01NRU5UKSBWQUxVRVMgKCIpOwogICAgaW5zZXJ0U3FsLmFwcGVuZCgiJyIgKyByZXF1ZXN0LmdldFBhcmFtZXRlcigiQ19DVVNUS0VZIikgKyAiJywgIik7CiAgICBpZihTdHJpbmdVdGlscy5pc0JsYW5rKHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJDX05BTUUiKSkpewogICAgICAgIGluc2VydFNxbC5hcHBlbmQoIicnIiArICIsIik7CiAgICB9ZWxzZSB7CiAgICAgICAgaW5zZXJ0U3FsLmFwcGVuZCgiJyIgKyByZXF1ZXN0LmdldFBhcmFtZXRlcigiQ19OQU1FIikgKyAiJywgIik7CiAgICB9CiAgICBpZihTdHJpbmdVdGlscy5pc0JsYW5rKHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJDX0FERFJFU1MiKSkpewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
       </register>
     </registers>
     <search>
-      <last-search>li</last-search>
+      <last-search>C_NATION</last-search>
       <last-offset />
-      <last-pattern>li</last-pattern>
+      <last-pattern>C_NATION</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>查询</last-substitute>
       <last-dir>1</last-dir>
@@ -617,7 +623,6 @@
     </search>
     <history>
       <history-search>
-        <entry>New</entry>
         <entry>news</entry>
         <entry>newsTitle</entry>
         <entry>iNewsSer</entry>
@@ -637,6 +642,7 @@
         <entry>name</entry>
         <entry>#</entry>
         <entry>li</entry>
+        <entry>C_NATION</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
