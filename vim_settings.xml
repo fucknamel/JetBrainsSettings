@@ -274,15 +274,15 @@
       <file name="/Jspx File.txt.ft" timestamp="1543321332703">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1545487401210">
-        <mark key="[" line="0" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1545550142312">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/I18nized Groovy string with injections.txt.ft" timestamp="1543321261983">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1545487238730">
+      <file name="/a.sql" timestamp="1545550074735">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/newshub.news [@120.79.22.44]" timestamp="1544975515434">
@@ -307,7 +307,7 @@
       <file name="/HTML File.txt.ft" timestamp="1543321509823">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1545492981258">
+      <file name="/dummy.sql" timestamp="1545550077504">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -373,10 +373,12 @@
       <file name="/mmall_learning.mmall_cart [@localhost]" timestamp="1543986462028">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_add.jsp" timestamp="1545471679458">
-        <mark key="]" line="167" column="6" />
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_add.jsp" timestamp="1545550952826">
+        <mark key="[" line="93" column="26" />
+        <mark key="]" line="93" column="26" />
+        <mark key="." line="93" column="26" />
       </file>
-      <file name="/tpc-h.nation [@120.79.22.44]" timestamp="1545491752948">
+      <file name="/tpc-h.nation [@120.79.22.44]" timestamp="1545550008907">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript File.txt.ft" timestamp="1543321234266">
@@ -391,6 +393,9 @@
         <mark key="]" line="73" column="53" />
         <mark key="^" line="73" column="53" />
         <mark key="." line="73" column="53" />
+      </file>
+      <file name="/tpc-h.region [@120.79.22.44]" timestamp="1545550004857">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Class.txt.ft" timestamp="1543321168423">
         <mark key="[" line="0" column="0" />
@@ -560,10 +565,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>%</text>
+        <text>padding-left: 8px;</text>
       </register>
       <register name="-" type="4">
-        <text>%</text>
+        <text>padding-left: 8px;</text>
       </register>
       <register name="/" type="4">
         <text>\.\.\.</text>

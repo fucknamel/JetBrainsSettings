@@ -6,7 +6,7 @@
           <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
           <Description>Add New Row</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -182,7 +182,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'⌘F6'</ShortCut>
           <Description>Modify Table...</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -318,7 +318,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'⌥⇧⌘U'</ShortCut>
           <Description>Show Visualisation...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
