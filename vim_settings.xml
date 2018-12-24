@@ -40,6 +40,13 @@
         <mark key="." line="60" column="39" />
         <mark key="^" line="60" column="39" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" timestamp="1545618801014">
+        <mark key="'" line="155" column="0" />
+        <mark key="[" line="60" column="38" />
+        <mark key="]" line="60" column="39" />
+        <mark key="." line="60" column="39" />
+        <mark key="^" line="60" column="39" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/newshub/src/test/java/com/newshub/dao/test/NewsDaoTest.java" timestamp="1544778802077">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="18" />
@@ -53,8 +60,15 @@
         <mark key="^" line="63" column="39" />
         <mark key="." line="63" column="39" />
       </file>
-      <file name="/tpc-h.part [@120.79.22.44]" timestamp="1545615041478">
+      <file name="/tpc-h.part [@120.79.22.44]" timestamp="1545619470154">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" timestamp="1545618949147">
+        <mark key="'" line="114" column="8" />
+        <mark key="[" line="59" column="38" />
+        <mark key="]" line="59" column="39" />
+        <mark key="." line="59" column="39" />
+        <mark key="^" line="59" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_list.jsp" timestamp="1545615166891">
         <mark key="'" line="57" column="38" />
@@ -75,10 +89,10 @@
         <mark key="." line="1" column="27" />
         <mark key="^" line="1" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_change_ok.jsp" timestamp="1545574361910">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_change_ok.jsp" timestamp="1545617913658">
+        <mark key="'" line="103" column="12" />
         <mark key="[" line="7" column="0" />
-        <mark key="]" line="143" column="6" />
+        <mark key="]" line="145" column="6" />
         <mark key="^" line="34" column="38" />
         <mark key="." line="34" column="38" />
       </file>
@@ -103,22 +117,22 @@
       <file name="/history [@120.79.22.44]" timestamp="1544762761336">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_delete.jsp" timestamp="1545573167829">
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_delete.jsp" timestamp="1545618764544">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="115" column="6" />
-        <mark key="." line="77" column="63" />
-        <mark key="^" line="77" column="63" />
+        <mark key="[" line="59" column="38" />
+        <mark key="]" line="59" column="39" />
+        <mark key="." line="59" column="39" />
+        <mark key="^" line="59" column="39" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" timestamp="1545615954309">
-        <mark key="'" line="264" column="53" />
-        <mark key="[" line="282" column="25" />
-        <mark key="]" line="282" column="26" />
-        <mark key="^" line="282" column="26" />
-        <mark key="." line="282" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" timestamp="1545619847535">
+        <mark key="'" line="283" column="26" />
+        <mark key="[" line="81" column="79" />
+        <mark key="]" line="81" column="80" />
+        <mark key="^" line="81" column="80" />
+        <mark key="." line="81" column="80" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add.jsp" timestamp="1545572988941">
-        <mark key="'" line="114" column="37" />
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add.jsp" timestamp="1545616066662">
+        <mark key="'" line="152" column="0" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="152" column="6" />
         <mark key="^" line="59" column="39" />
@@ -207,6 +221,13 @@
       <file name="/JavaScript Console" timestamp="1543853814387">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_delete.jsp" timestamp="1545618737887">
+        <mark key="'" line="52" column="40" />
+        <mark key="[" line="59" column="38" />
+        <mark key="]" line="59" column="39" />
+        <mark key="." line="59" column="39" />
+        <mark key="^" line="59" column="39" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/WEB-INF/web.xml" timestamp="1545406607503">
         <mark key="[" line="8" column="29" />
         <mark key="]" line="8" column="41" />
@@ -216,10 +237,17 @@
       <file name="/HTML File.txt.ft" timestamp="1543321509823">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" timestamp="1545619743976">
+        <mark key="'" line="163" column="4" />
+        <mark key="[" line="123" column="57" />
+        <mark key="]" line="123" column="69" />
+        <mark key="." line="123" column="69" />
+        <mark key="^" line="123" column="69" />
+      </file>
       <file name="/Cucumber Java 8 Step Definition.txt.ft" timestamp="1543321246856">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1545615079381">
+      <file name="/dummy.sql" timestamp="1545619471090">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -231,11 +259,24 @@
       <file name="/Dummy.txt" timestamp="1545562101010">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" timestamp="1545619154794">
+        <mark key="'" line="71" column="20" />
+        <mark key="[" line="124" column="86" />
+        <mark key="]" line="124" column="88" />
+        <mark key="." line="124" column="88" />
+        <mark key="^" line="124" column="88" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/portal/UserController.java" timestamp="1544976762523">
         <mark key="[" line="45" column="40" />
         <mark key="]" line="45" column="63" />
         <mark key="." line="45" column="63" />
         <mark key="^" line="45" column="63" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49e31018-f574-4880-9225-7be0ec688628/console_1.sql" timestamp="1545619635944">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" timestamp="1545568868986">
         <mark key="'" line="26" column="16" />
@@ -254,10 +295,10 @@
       <file name="/mmall_learning.mmall_cart [@localhost]" timestamp="1543986462028">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_change.jsp" timestamp="1545573440533">
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_change.jsp" timestamp="1545617510500">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="0" />
-        <mark key="]" line="180" column="6" />
+        <mark key="]" line="181" column="6" />
         <mark key="^" line="63" column="39" />
         <mark key="." line="63" column="39" />
       </file>
@@ -283,10 +324,10 @@
       <file name="/newshub.history [@120.79.22.44]" timestamp="1545141397224">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add_ok.jsp" timestamp="1545572321214">
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add_ok.jsp" timestamp="1545616731075">
         <mark key="'" line="84" column="4" />
         <mark key="[" line="7" column="0" />
-        <mark key="]" line="140" column="6" />
+        <mark key="]" line="142" column="6" />
         <mark key="^" line="68" column="39" />
         <mark key="." line="68" column="39" />
       </file>
@@ -310,93 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="42" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add.jsp" />
-      <jump line="109" column="8" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add.jsp" />
-      <jump line="118" column="92" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add.jsp" />
-      <jump line="119" column="89" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add.jsp" />
-      <jump line="128" column="60" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add.jsp" />
-      <jump line="114" column="37" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add.jsp" />
-      <jump line="115" column="37" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add.jsp" />
-      <jump line="106" column="31" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add.jsp" />
-      <jump line="116" column="92" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add.jsp" />
-      <jump line="117" column="89" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add.jsp" />
-      <jump line="84" column="4" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add_ok.jsp" />
-      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add_ok.jsp" />
-      <jump line="140" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add_ok.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add_ok.jsp" />
-      <jump line="53" column="40" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add_ok.jsp" />
-      <jump line="77" column="53" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add_ok.jsp" />
-      <jump line="67" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add_ok.jsp" />
-      <jump line="68" column="47" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add_ok.jsp" />
-      <jump line="69" column="54" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add_ok.jsp" />
-      <jump line="72" column="58" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add_ok.jsp" />
-      <jump line="75" column="36" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add_ok.jsp" />
-      <jump line="89" column="4" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add.jsp" />
-      <jump line="112" column="37" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add.jsp" />
-      <jump line="113" column="37" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add.jsp" />
-      <jump line="114" column="37" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add.jsp" />
-      <jump line="79" column="6" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add_ok.jsp" />
-      <jump line="57" column="17" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_delete.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_delete.jsp" />
-      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_delete.jsp" />
-      <jump line="115" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_delete.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_delete.jsp" />
-      <jump line="77" column="45" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_delete.jsp" />
-      <jump line="52" column="40" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_delete.jsp" />
-      <jump line="55" column="36" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_change.jsp" />
-      <jump line="10" column="16" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_change.jsp" />
-      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" />
-      <jump line="180" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" />
-      <jump line="110" column="21" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" />
-      <jump line="56" column="40" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" />
-      <jump line="98" column="65" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" />
-      <jump line="121" column="104" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" />
-      <jump line="124" column="46" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" />
-      <jump line="125" column="23" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" />
-      <jump line="107" column="62" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" />
-      <jump line="108" column="33" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" />
-      <jump line="33" column="12" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_change_ok.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_change_ok.jsp" />
-      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change_ok.jsp" />
-      <jump line="143" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change_ok.jsp" />
-      <jump line="16" column="4" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change_ok.jsp" />
-      <jump line="82" column="65" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change_ok.jsp" />
-      <jump line="53" column="40" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change_ok.jsp" />
-      <jump line="83" column="31" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change_ok.jsp" />
-      <jump line="84" column="58" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change_ok.jsp" />
-      <jump line="87" column="57" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change_ok.jsp" />
-      <jump line="89" column="36" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change_ok.jsp" />
-      <jump line="90" column="58" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change_ok.jsp" />
-      <jump line="95" column="34" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change_ok.jsp" />
-      <jump line="96" column="61" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change_ok.jsp" />
-      <jump line="101" column="42" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change_ok.jsp" />
-      <jump line="64" column="12" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" />
-      <jump line="99" column="41" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" />
-      <jump line="118" column="58" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" />
-      <jump line="108" column="16" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_list.jsp" />
-      <jump line="214" column="97" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_list.jsp" />
-      <jump line="57" column="38" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_list.jsp" />
-      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="370" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="83" column="108" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="116" column="80" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="140" column="61" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="143" column="61" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="226" column="50" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="228" column="50" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="238" column="81" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="271" column="48" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="289" column="52" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="312" column="52" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="328" column="52" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="346" column="52" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="366" column="53" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="54" column="40" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="52" column="20" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
       <jump line="112" column="88" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
       <jump line="124" column="16" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
       <jump line="247" column="16" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
@@ -410,40 +364,127 @@
       <jump line="254" column="46" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
       <jump line="259" column="51" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
       <jump line="264" column="53" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
+      <jump line="112" column="37" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add.jsp" />
+      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
+      <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add.jsp" />
+      <jump line="152" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add.jsp" />
+      <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
+      <jump line="109" column="63" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
+      <jump line="52" column="40" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
+      <jump line="112" column="45" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
+      <jump line="113" column="37" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
+      <jump line="137" column="10" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
+      <jump line="115" column="43" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
+      <jump line="116" column="42" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
+      <jump line="117" column="42" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
+      <jump line="118" column="47" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
+      <jump line="119" column="49" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
+      <jump line="120" column="45" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
+      <jump line="25" column="16" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
+      <jump line="140" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
+      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" />
+      <jump line="142" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" />
+      <jump line="117" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" />
+      <jump line="131" column="44" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" />
+      <jump line="53" column="40" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" />
+      <jump line="67" column="77" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" />
+      <jump line="68" column="4" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" />
+      <jump line="72" column="54" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" />
+      <jump line="77" column="58" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" />
+      <jump line="79" column="55" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" />
+      <jump line="89" column="49" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" />
+      <jump line="82" column="59" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" />
+      <jump line="92" column="58" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" />
+      <jump line="97" column="63" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" />
+      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_delete.jsp" />
+      <jump line="78" column="43" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_delete.jsp" />
+      <jump line="91" column="44" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_delete.jsp" />
+      <jump line="107" column="44" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_delete.jsp" />
+      <jump line="52" column="40" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_delete.jsp" />
+      <jump line="145" column="20" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_change.jsp" />
+      <jump line="10" column="16" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_change.jsp" />
+      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="119" column="66" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="56" column="40" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="99" column="61" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="122" column="92" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="125" column="41" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="126" column="47" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="130" column="46" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="134" column="56" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="77" column="17" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="135" column="48" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="136" column="53" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="140" column="57" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="145" column="46" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="144" column="57" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="149" column="59" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="155" column="53" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="154" column="58" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="160" column="49" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="177" column="12" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="75" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="171" column="77" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="103" column="12" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_change_ok.jsp" />
+      <jump line="7" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="82" column="63" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="134" column="44" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="53" column="40" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="83" column="26" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="84" column="53" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="87" column="55" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="89" column="31" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="90" column="58" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="99" column="63" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="101" column="32" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="107" column="42" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="119" column="32" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="114" column="63" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="113" column="36" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="120" column="65" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="163" column="4" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" />
+      <jump line="283" column="26" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" />
+      <jump line="114" column="8" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" />
+      <jump line="155" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add_ok.jsp" />
+      <jump line="71" column="20" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>名</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>名</text>
       </register>
       <register name="/" type="4">
-        <text>PS_</text>
+        <text>R_</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICA8cD4KICAgICAgICAgICAgICAgICAgICAgICAgPCU9cnMuZ2V0U3RyaW5nKCJQU19DT01NRU5UIiklPgogICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnNlcnRTcWwuYXBwZW5kKCJQX1NJWkU9Iik7CiAgICAgICAgaWYoU3RyaW5nVXRpbHMuaXNCbGFuayhyZXF1ZXN0LmdldFBhcmFtZXRlcigiUF9TSVpFIikpKXsKICAgICAgICAgICAgaW5zZXJ0U3FsLmFwcGVuZCgiMCIgKyAiLCIpOwogICAgICAgIH1lbHNlIHsKICAgICAgICAgICAgaW5zZXJ0U3FsLmFwcGVuZCgiJyIgKyByZXF1ZXN0LmdldFBhcmFtZXRlcigiUF9TSVpFIikgKyAiJywgIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIOWkh+azqAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIOWkh+azqAo=</text>
+        <text encoding="base64">PCVAIHBhZ2UgY29udGVudFR5cGU9InRleHQvaHRtbDtjaGFyc2V0PVVURi04IiBsYW5ndWFnZT0iamF2YSIgJT4KPGh0bWw+CjxoZWFkPgogICAgPHRpdGxlPlRpdGxlPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KCjwvYm9keT4KPC9odG1sPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIOWkh+azqAo=</text>
+        <text encoding="base64">PCVAIHBhZ2UgaW1wb3J0PSJqYXZhLnV0aWwuTGlzdCIgJT4KPCVAIHBhZ2UgaW1wb3J0PSJqYXZhLnV0aWwuQXJyYXlMaXN0IiAlPgo8JUAgcGFnZSBpbXBvcnQ9ImphdmEudXRpbC5NYXAiICU+CjwlQCBwYWdlIGltcG9ydD0iamF2YS51dGlsLkhhc2hNYXAiICU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIOWkh+azqAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZm9ybS5QU19TVVBQTFlDT1NULnZhbHVlICE9ICcnICYmIGlzTmFOKGZvcm0uUFNfU1VQUExZQ09TVC52YWx1ZSkpIHsKICAgICAgICAgICAgYWxlcnQoIumHkemineW/hemhu+S4uuaVsOWtlyIpOwogICAgICAgICAgICBmb3JtLlBTX1NVUFBMWUNPU1QuZm9jdXMoKTsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIOS+m+W6lOS7t+agvAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImlucHV0LWdyb3VwLWFkZG9uIj4mIzEyMjg4O+Wkh+azqCYjMTIyODg7PC9zcGFuPgogICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9IlBTX0NPTU1FTlQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiCiAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9IjwlPXJzLmdldFN0cmluZygiUFNfQ09NTUVOVCIpJT4iPgogICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIOWkh+azqAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImlucHV0LWdyb3VwLWFkZG9uIj7kvpvlupTku7fmoLw8L3NwYW4+CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0iUFNfU1VQUExZQ09TVCIgY2xhc3M9ImZvcm0tY29udHJvbCIKICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZT0iPCU9cnMuZ2V0U3RyaW5nKCJQU19TVVBQTFlDT1NUIiklPiI+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -452,16 +493,16 @@
         <text encoding="base64">PCVAIHBhZ2UgY29udGVudFR5cGU9InRleHQvaHRtbDtjaGFyc2V0PVVURi04IiBsYW5ndWFnZT0iamF2YSIgJT4KPGh0bWw+CjxoZWFkPgogICAgPHRpdGxlPlRpdGxlPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KCjwvYm9keT4KPC9odG1sPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCVAIHBhZ2UgaW1wb3J0PSJqYXZhLnV0aWwuTGlzdCIgJT4KPCVAIHBhZ2UgaW1wb3J0PSJqYXZhLnV0aWwuQXJyYXlMaXN0IiAlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
       </register>
     </registers>
     <search>
-      <last-search>PS_</last-search>
+      <last-search>R_</last-search>
       <last-offset />
-      <last-pattern>PS_</last-pattern>
+      <last-pattern>R_</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>查询</last-substitute>
       <last-dir>1</last-dir>
@@ -486,9 +527,9 @@
         <entry>N_REG</entry>
         <entry>PS</entry>
         <entry>nation_change</entry>
+        <entry>PS_</entry>
         <entry>region</entry>
         <entry>R_</entry>
-        <entry>PS_</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
