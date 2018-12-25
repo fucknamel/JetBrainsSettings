@@ -3,11 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add.jsp" timestamp="1545705035698">
+      <file name="$USER_HOME$/IdeaProjects/chongcao/.gitignore" timestamp="1543243706941">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/File Header.txt.ft" timestamp="1543321244226">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add.jsp" timestamp="1545721786161">
         <mark key="'" line="86" column="4" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="97" column="18" />
+        <mark key="." line="115" column="0" />
+      </file>
+      <file name="/Activity.txt.ft" timestamp="1543321279520">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1544702026460">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_add_ok.jsp" timestamp="1545705001763">
         <mark key="'" line="0" column="0" />
@@ -21,23 +33,38 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/supplier_add.jsp" timestamp="1545707119406">
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/supplier_add.jsp" timestamp="1545721655884">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="142" column="18" />
+        <mark key="." line="141" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" timestamp="1545704979737">
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/test/java/com/newshub/dao/test/NewsDaoTest.java" timestamp="1544778802077">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change.jsp" timestamp="1545720607928">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="136" column="18" />
+        <mark key="." line="135" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" timestamp="1545706327621">
-        <mark key="'" line="160" column="12" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="/tpc-h.part [@120.79.22.44]" timestamp="1545666035423">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tpc-h.supplier [@120.79.22.44]" timestamp="1545630499554">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change.jsp" timestamp="1545721216055">
+        <mark key="'" line="184" column="12" />
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="174" column="18" />
+        <mark key="." line="173" column="0" />
+      </file>
+      <file name="/CoffeeScript File.txt.ft" timestamp="1543321232701">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_delete.jsp" timestamp="1545702198781">
         <mark key="'" line="104" column="0" />
@@ -45,12 +72,15 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/supplier_change.jsp" timestamp="1545707116853">
-        <mark key="'" line="169" column="12" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/supplier_change.jsp" timestamp="1545721788296">
+        <mark key="'" line="187" column="12" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="169" column="18" />
+        <mark key="." line="168" column="0" />
         <mark key="^" line="60" column="40" />
+      </file>
+      <file name="/project_grass.chongcao_file [project_grass@localhost]" timestamp="1543157433427">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" timestamp="1545707939823">
         <mark key="'" line="213" column="16" />
@@ -59,11 +89,17 @@
         <mark key="^" line="69" column="47" />
         <mark key="." line="69" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add.jsp" timestamp="1545706789043">
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add.jsp" timestamp="1545721465124">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="115" column="18" />
+        <mark key="." line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/pojo/News.java" timestamp="1544975804663">
+        <mark key="[" line="56" column="33" />
+        <mark key="]" line="56" column="38" />
+        <mark key="." line="56" column="38" />
+        <mark key="^" line="56" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/supplier_add_ok.jsp" timestamp="1545707118185">
         <mark key="'" line="138" column="0" />
@@ -78,6 +114,9 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="/tpc-h.customer [@120.79.22.44]" timestamp="1545665864161">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/orders_list.jsp" timestamp="1545707927663">
         <mark key="'" line="213" column="16" />
         <mark key="[" line="69" column="0" />
@@ -85,11 +124,38 @@
         <mark key="." line="69" column="47" />
         <mark key="^" line="69" column="47" />
       </file>
+      <file name="/tpc-h.partsupp [@120.79.22.44]" timestamp="1545640623574">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/chongcao/README.md" timestamp="1543243626155">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_change_ok.jsp" timestamp="1545704945241">
         <mark key="'" line="89" column="42" />
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
+      </file>
+      <file name="/Jspx File.txt.ft" timestamp="1543321332703">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1545722303631">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+      </file>
+      <file name="/I18nized Groovy string with injections.txt.ft" timestamp="1543321261983">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1545666096942">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tpc-h.orders [@120.79.22.44]" timestamp="1545722296529">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1543321509823">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_change_ok.jsp" timestamp="1545706245438">
         <mark key="'" line="0" column="0" />
@@ -105,17 +171,34 @@
         <mark key="." line="68" column="49" />
         <mark key="^" line="68" column="49" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" timestamp="1545706373121">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-        <mark key="^" line="111" column="88" />
+      <file name="/Cucumber Java 8 Step Definition.txt.ft" timestamp="1543321246856">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_change.jsp" timestamp="1545713536708">
-        <mark key="[" line="386" column="0" />
-        <mark key="]" line="386" column="0" />
-        <mark key="." line="386" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" timestamp="1545721115769">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="135" column="18" />
+        <mark key="^" line="131" column="88" />
+        <mark key="." line="134" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_change.jsp" timestamp="1545720562266">
+        <mark key="'" line="455" column="41" />
+        <mark key="[" line="279" column="0" />
+        <mark key="]" line="280" column="18" />
+        <mark key="^" line="162" column="20" />
+        <mark key="." line="279" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/controller/portal/UserController.java" timestamp="1544976762523">
+        <mark key="[" line="45" column="40" />
+        <mark key="]" line="45" column="63" />
+        <mark key="." line="45" column="63" />
+        <mark key="^" line="45" column="63" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49e31018-f574-4880-9225-7be0ec688628/console_1.sql" timestamp="1545619635944">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" timestamp="1545707857366">
         <mark key="'" line="0" column="0" />
@@ -124,12 +207,12 @@
         <mark key="." line="68" column="55" />
         <mark key="^" line="68" column="55" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_change.jsp" timestamp="1545671309088">
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_change.jsp" timestamp="1545720445749">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="137" column="48" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="169" column="18" />
+        <mark key="^" line="145" column="48" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/supplier_change_ok.jsp" timestamp="1545707115129">
         <mark key="'" line="143" column="0" />
@@ -137,11 +220,20 @@
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_change.jsp" timestamp="1545707128147">
-        <mark key="'" line="168" column="0" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="/mmall_learning.mmall_cart [@localhost]" timestamp="1543986462028">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_change.jsp" timestamp="1545721570425">
+        <mark key="'" line="180" column="0" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="157" column="18" />
+        <mark key="." line="156" column="0" />
+      </file>
+      <file name="/JavaScript File.txt.ft" timestamp="1543321234266">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/newshub.comments [@120.79.22.44]" timestamp="1544424281134">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/supplier_list.jsp" timestamp="1545708027801">
         <mark key="'" line="198" column="16" />
@@ -157,6 +249,9 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
+      <file name="/newshub.history [@120.79.22.44]" timestamp="1545141397224">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add_ok.jsp" timestamp="1545706773137">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="112" column="0" />
@@ -164,24 +259,45 @@
         <mark key="^" line="56" column="39" />
         <mark key="." line="112" column="0" />
       </file>
+      <file name="/region [@120.79.22.44]" timestamp="1545561395552">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/service/IUserService.java" timestamp="1544976699623">
+        <mark key="[" line="21" column="76" />
+        <mark key="]" line="21" column="76" />
+        <mark key="^" line="21" column="76" />
+        <mark key="." line="21" column="76" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/test/java/com/newshub/dao/test/NewsMapperTest.java" timestamp="1544770812556">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="59" />
+        <mark key="^" line="13" column="59" />
+        <mark key="." line="13" column="59" />
+      </file>
+      <file name="/fragment.js" timestamp="1543853502534">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/orders_add_ok.jsp" timestamp="1545705998195">
         <mark key="'" line="149" column="0" />
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/orders_add.jsp" timestamp="1545706038627">
-        <mark key="'" line="180" column="4" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="93" />
-        <mark key="." line="22" column="0" />
+      <file name="/mmall_learning.mmall_product [@localhost]" timestamp="1543986477312">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_add.jsp" timestamp="1545713421267">
-        <mark key="'" line="280" column="8" />
-        <mark key="[" line="438" column="0" />
-        <mark key="]" line="438" column="0" />
-        <mark key="." line="438" column="0" />
-        <mark key="^" line="174" column="20" />
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/orders_add.jsp" timestamp="1545720771195">
+        <mark key="'" line="86" column="8" />
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="172" column="18" />
+        <mark key="." line="171" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_add.jsp" timestamp="1545719986379">
+        <mark key="'" line="483" column="41" />
+        <mark key="[" line="280" column="0" />
+        <mark key="]" line="281" column="18" />
+        <mark key="^" line="167" column="16" />
+        <mark key="." line="280" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/partsupp_list.jsp" timestamp="1545708211715">
         <mark key="'" line="209" column="16" />
@@ -197,17 +313,37 @@
         <mark key="." line="68" column="47" />
         <mark key="^" line="68" column="47" />
       </file>
+      <file name="/Arquillian JUnit Test Class.txt.ft" timestamp="1543321246719">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49e31018-f574-4880-9225-7be0ec688628/console.sql" timestamp="1545721927888">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_change_ok.jsp" timestamp="1545707125361">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/partsupp_add.jsp" timestamp="1545706610076">
+      <file name="/ActionScript File Header.txt.ft" timestamp="1543321245271">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/newshub/pom.xml" timestamp="1545453798481">
+        <mark key="[" line="167" column="17" />
+        <mark key="]" line="167" column="19" />
+        <mark key="." line="167" column="19" />
+        <mark key="^" line="167" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/partsupp_add.jsp" timestamp="1545721310616">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="153" column="18" />
+        <mark key="." line="152" column="0" />
+      </file>
+      <file name="/history [@120.79.22.44]" timestamp="1544762761336">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_delete.jsp" timestamp="1545707124029">
         <mark key="'" line="104" column="0" />
@@ -215,11 +351,47 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/orders_change.jsp" timestamp="1545706035309">
-        <mark key="'" line="198" column="8" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="93" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/orders_change.jsp" timestamp="1545720967913">
+        <mark key="'" line="222" column="8" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="194" column="18" />
+        <mark key="." line="193" column="0" />
+      </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1543321246330">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/test/java/com/newshub/test/TestBase.java" timestamp="1544774704199">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="19" column="14" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/newshub/src/test/java/com/newshub/test/NewsMapperTest.java" timestamp="1544772509733">
+        <mark key="[" line="13" column="79" />
+        <mark key="]" line="13" column="79" />
+        <mark key="." line="13" column="79" />
+        <mark key="^" line="13" column="79" />
+      </file>
+      <file name="/project_grass.UserManger [project_grass@localhost]" timestamp="1545383966513">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Tag Library Descriptor.txt.ft" timestamp="1543321323625">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/resources/datasource.properties" timestamp="1545397016896">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="29" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="1" column="8" />
+      </file>
+      <file name="/I18nized JSP Expression.txt.ft" timestamp="1543321263516">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaFXApplication.txt.ft" timestamp="1543321234074">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Jsp File.txt.ft" timestamp="1543321335998">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/nation_delete.jsp" timestamp="1545704925210">
         <mark key="'" line="0" column="0" />
@@ -227,18 +399,62 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="/newshub.news [@120.79.22.44]" timestamp="1544975515434">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1543853814387">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_delete.jsp" timestamp="1545706225463">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/partsupp_change.jsp" timestamp="1545706577714">
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/WEB-INF/web.xml" timestamp="1545406607503">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="41" />
+        <mark key="^" line="8" column="41" />
+        <mark key="." line="8" column="41" />
+      </file>
+      <file name="/dummy.sql" timestamp="1545722299263">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+      </file>
+      <file name="/newshub.user [@120.79.22.44]" timestamp="1545203816030">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1545666099137">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49e31018-f574-4880-9225-7be0ec688628/console_2.sql" timestamp="1545640552144">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tpc-h.nation [@120.79.22.44]" timestamp="1545665965550">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_add.jsp" timestamp="1545720444300">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="^" line="60" column="40" />
-        <mark key="." line="119" column="0" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="149" column="18" />
+        <mark key="." line="148" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/partsupp_change.jsp" timestamp="1545721405212">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="176" column="18" />
+        <mark key="." line="175" column="0" />
+      </file>
+      <file name="/tpc-h.region [@120.79.22.44]" timestamp="1545574849854">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Class.txt.ft" timestamp="1543321168423">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/CoffeeScript Class.txt.ft" timestamp="1543321234049">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/orders_delete.jsp" timestamp="1545705861010">
         <mark key="[" line="89" column="0" />
@@ -263,14 +479,11 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1545544145567">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="20" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
-      <jump line="89" column="0" filename="$USER_HOME$/资料/bootstrap-3.3.7/docs/examples/justified-nav/index.html" />
-      <jump line="37" column="20" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
-      <jump line="77" column="61" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
-      <jump line="67" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_add_ok.jsp" />
-      <jump line="195" column="19" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_list.jsp" />
       <jump line="104" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_delete.jsp" />
       <jump line="482" column="4" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_list.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_change.jsp" />
@@ -365,49 +578,55 @@
       <jump line="186" column="16" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_list.jsp" />
       <jump line="200" column="16" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/supplier_list.jsp" />
       <jump line="280" column="8" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_add.jsp" />
+      <jump line="86" column="8" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/orders_add.jsp" />
+      <jump line="386" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_change.jsp" />
+      <jump line="413" column="41" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_change.jsp" />
+      <jump line="434" column="54" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_add.jsp" />
+      <jump line="435" column="41" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_add.jsp" />
+      <jump line="224" column="17" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_add.jsp" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIGB0cGMtaGA7CmFsdGVyIHRhYmxlIHJlZ2lvbiBkZWZhdWx0IGNoYXJhY3RlciBzZXQgdXRmODsKYWx0ZXIgdGFibGUgcmVnaW9uIGNvbnZlcnQgdG8gY2hhcmFjdGVyIHNldCB1dGY4OwpzZWxlY3QgKiBmcm9tIHBhcnRzdXBwIHdoZXJlIFBTX1BBUlRLRVkgaW4gKAogIHNlbGVjdCBQX1BBUlRLRVkgZnJvbSBwYXJ0IHdoZXJlIFBfTkFNRSBsaWtlICclJScKICApIGFuZCBQU19TVVBQS0VZIGluICgKICBzZWxlY3QgU19TVVBQS0VZIGZyb20gc3VwcGxpZXIgd2hlcmUgU19OQU1FIGxpa2UgJyUlJwogICk7CmRlbGV0ZSBmcm9tIHBhcnRzdXBwIHdoZXJlIFBTX1BBUlRLRVkgPSAxIGFuZCBQU19TVVBQS0VZID0gMjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aGlkZGVuIA==</text>
+        <text encoding="base64">PC9kaXY+</text>
       </register>
       <register name="/" type="4">
         <text>biao</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHAgaWQ9ImJpYW8iIHN0eWxlPSJtYXJnaW46IDA7ZGlzcGxheTogbm9uZTsiID7pm7bku7blupPlrZjvvJog6Zu25Lu25Lu35qC877yaPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIGB0cGMtaGA7CmFsdGVyIHRhYmxlIHJlZ2lvbiBkZWZhdWx0IGNoYXJhY3RlciBzZXQgdXRmODsKYWx0ZXIgdGFibGUgcmVnaW9uIGNvbnZlcnQgdG8gY2hhcmFjdGVyIHNldCB1dGY4OwpzZWxlY3QgKiBmcm9tIHBhcnRzdXBwIHdoZXJlIFBTX1BBUlRLRVkgaW4gKAogIHNlbGVjdCBQX1BBUlRLRVkgZnJvbSBwYXJ0IHdoZXJlIFBfTkFNRSBsaWtlICclJScKICApIGFuZCBQU19TVVBQS0VZIGluICgKICBzZWxlY3QgU19TVVBQS0VZIGZyb20gc3VwcGxpZXIgd2hlcmUgU19OQU1FIGxpa2UgJyUlJwogICk7CmRlbGV0ZSBmcm9tIHBhcnRzdXBwIHdoZXJlIFBTX1BBUlRLRVkgPSAxIGFuZCBQU19TVVBQS0VZID0gMjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoIGFsaWduPSJjZW50ZXIiIGNvbHNwYW49IjgiPgogICAgICAgICAgICAgICAgPGgyIGNsYXNzPSJ0ZXh0LWNlbnRlciI+6K+m57uG5pWw5o2u5L+h5oGvPC9oMj4KICAgICAgICAgICAgPC90aD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoIGFsaWduPSJjZW50ZXIiIGNvbHNwYW49IjYiPgogICAgICAgICAgICAgICAgPGgyIGNsYXNzPSJ0ZXh0LWNlbnRlciI+6K+m57uG5pWw5o2u5L+h5oGvPC9oMj4KICAgICAgICAgICAgPC90aD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAtYnRuIj4KCiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PjwhLS0gL2J0bi1ncm91cCAtLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoIGFsaWduPSJjZW50ZXIiIGNvbHNwYW49IjYiPgogICAgICAgICAgICAgICAgPGgyIGNsYXNzPSJ0ZXh0LWNlbnRlciI+6K+m57uG5pWw5o2u5L+h5oGvPC9oMj4KICAgICAgICAgICAgPC90aD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAtYnRuIj4KCiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PjwhLS0gL2J0bi1ncm91cCAtLT4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoIGFsaWduPSJjZW50ZXIiIGNvbHNwYW49IjEwIj4KICAgICAgICAgICAgICAgIDxoMiBjbGFzcz0idGV4dC1jZW50ZXIiPuivpue7huaVsOaNruS/oeaBrzwvaDI+CiAgICAgICAgICAgIDwvdGg+Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1kZWZhdWx0IGRyb3Bkb3duLXRvZ2dsZSIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIiBhcmlhLWhhc3BvcHVwPSJ0cnVlIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSI+QWN0aW9uIDxzcGFuIGNsYXNzPSJjYXJldCI+PC9zcGFuPjwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJkcm9wZG93bi1tZW51IGRyb3Bkb3duLW1lbnUtcmlnaHQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIj5BY3Rpb248L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+QW5vdGhlciBhY3Rpb248L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+U29tZXRoaW5nIGVsc2UgaGVyZTwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSByb2xlPSJzZXBhcmF0b3IiIGNsYXNzPSJkaXZpZGVyIj48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIj5TZXBhcmF0ZWQgbGluazwvYT48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC91bD4=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoIGFsaWduPSJjZW50ZXIiIGNvbHNwYW49IjEwIj4KICAgICAgICAgICAgICAgIDxoMiBjbGFzcz0idGV4dC1jZW50ZXIiPuivpue7huaVsOaNruS/oeaBrzwvaDI+CiAgICAgICAgICAgIDwvdGg+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoIGFsaWduPSJjZW50ZXIiIGNvbHNwYW49IjUiPgogICAgICAgICAgICAgICAgPGgyIGNsYXNzPSJ0ZXh0LWNlbnRlciI+6K+m57uG5pWw5o2u5L+h5oGvPC9oMj4KICAgICAgICAgICAgPC90aD4K</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1kZWZhdWx0IGRyb3Bkb3duLXRvZ2dsZSIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIiBhcmlhLWhhc3BvcHVwPSJ0cnVlIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSI+QWN0aW9uIDxzcGFuIGNsYXNzPSJjYXJldCI+PC9zcGFuPjwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVsIGNsYXNzPSJkcm9wZG93bi1tZW51Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+QWN0aW9uPC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPkFub3RoZXIgYWN0aW9uPC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlNvbWV0aGluZyBlbHNlIGhlcmU8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGkgcm9sZT0ic2VwYXJhdG9yIiBjbGFzcz0iZGl2aWRlciI+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+U2VwYXJhdGVkIGxpbms8L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRoIGFsaWduPSJjZW50ZXIiIGNvbHNwYW49IjE3Ij4KICAgICAgICAgICAgICAgIDxoMiBjbGFzcz0idGV4dC1jZW50ZXIiPuivpue7huaVsOaNruS/oeaBrzwvaDI+CiAgICAgICAgICAgIDwvdGg+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
@@ -424,7 +643,6 @@
     </search>
     <history>
       <history-search>
-        <entry>N_REG</entry>
         <entry>PS</entry>
         <entry>nation_change</entry>
         <entry>PS_</entry>
@@ -443,6 +661,7 @@
         <entry>nav</entry>
         <entry>name</entry>
         <entry>详细</entry>
+        <entry>默认</entry>
         <entry>biao</entry>
       </history-search>
       <history-cmd>
