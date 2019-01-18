@@ -323,12 +323,12 @@
       <file name="/Arquillian JUnit Test Class.txt.ft" timestamp="1543321246719">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49e31018-f574-4880-9225-7be0ec688628/console.sql" timestamp="1545723769599">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49e31018-f574-4880-9225-7be0ec688628/console.sql" timestamp="1547792013653">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="9" column="138" />
-        <mark key="]" line="14" column="122" />
-        <mark key="." line="14" column="122" />
-        <mark key="^" line="14" column="122" />
+        <mark key="]" line="9" column="122" />
+        <mark key="." line="9" column="478" />
+        <mark key="^" line="9" column="122" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_change_ok.jsp" timestamp="1545707125361">
         <mark key="'" line="0" column="0" />
