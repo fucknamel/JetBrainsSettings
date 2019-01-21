@@ -108,6 +108,7 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="55" column="78" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" timestamp="1548070217843" />
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/partsupp_change_ok.jsp" timestamp="1545706563007">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="110" column="0" />
@@ -483,7 +484,7 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1545544145567">
+      <file name="/fragment.java" timestamp="1548070458962">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
