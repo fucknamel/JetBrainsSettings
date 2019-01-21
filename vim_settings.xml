@@ -54,6 +54,12 @@
       <file name="/tpc-h.part [@120.79.22.44]" timestamp="1545666035423">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/README.md" timestamp="1548075757873">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="57" />
+        <mark key="^" line="1" column="57" />
+        <mark key="." line="1" column="57" />
+      </file>
       <file name="/tpc-h.supplier [@120.79.22.44]" timestamp="1545630499554">
         <mark key="[" line="0" column="0" />
       </file>
@@ -89,11 +95,12 @@
         <mark key="^" line="69" column="47" />
         <mark key="." line="69" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/pom.xml" timestamp="1548074143993">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="3" />
-        <mark key="^" line="19" column="3" />
-        <mark key="." line="19" column="3" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/pom.xml" timestamp="1548076202379">
+        <mark key="'" line="254" column="40" />
+        <mark key="[" line="170" column="19" />
+        <mark key="]" line="170" column="20" />
+        <mark key="^" line="254" column="44" />
+        <mark key="." line="170" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add.jsp" timestamp="1545721465124">
         <mark key="'" line="0" column="0" />
@@ -113,6 +120,13 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
         <mark key="^" line="55" column="78" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/.gitignore" timestamp="1548075858385">
+        <mark key="'" line="34" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="34" column="8" />
+        <mark key="^" line="34" column="8" />
+        <mark key="." line="34" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/partsupp_change_ok.jsp" timestamp="1545706563007">
         <mark key="'" line="0" column="0" />
@@ -502,8 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_delete.jsp" />
-      <jump line="196" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_change_ok.jsp" />
       <jump line="41" column="16" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_change.jsp" />
       <jump line="183" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_add_ok.jsp" />
       <jump line="463" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_add.jsp" />
@@ -602,6 +614,8 @@
       <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/signin.jsp" />
       <jump line="33" column="43" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/signin.jsp" />
       <jump line="34" column="4" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/util/FTPUtil.java" />
+      <jump line="254" column="40" filename="$USER_HOME$/IdeaProjects/CordycepsHub/pom.xml" />
+      <jump line="34" column="8" filename="$USER_HOME$/IdeaProjects/CordycepsHub/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
