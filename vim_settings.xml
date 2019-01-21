@@ -89,6 +89,12 @@
         <mark key="^" line="69" column="47" />
         <mark key="." line="69" column="47" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/pom.xml" timestamp="1548074143993">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="19" column="3" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_add.jsp" timestamp="1545721465124">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="114" column="0" />
@@ -108,7 +114,6 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="55" column="78" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/controller/backend/ProductManageController.java" timestamp="1548070217843" />
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/partsupp_change_ok.jsp" timestamp="1545706563007">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="110" column="0" />
@@ -490,6 +495,11 @@
       <file name="/fragment.java" timestamp="1548070458962">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/service/impl/FileServiceImpl.java" timestamp="1548072881929">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="105" column="0" filename="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_delete.jsp" />
@@ -597,11 +607,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAoZm9ybS5DX1BIT05FLnZhbHVlICE9ICcnICYmIGNoZWNrUGhvbmUoZm9ybS5DX1BIT05FLnZhbHVlKSA9PSBmYWxzZSkgewogICAgICAgIC8vICAgICBhbGVydCgi6K+36L6T5YWl5q2j56Gu55qE55S16K+d5Y+356CB772eIik7CiAgICAgICAgLy8gICAgIGZvcm0uQ19QSE9ORS5mb2N1cygpOwogICAgICAgIC8vICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgLy8gfQo=</text>
+      <register name="&quot;" type="4">
+        <text>F</text>
       </register>
       <register name="-" type="4">
-        <text>customer_list</text>
+        <text>F</text>
       </register>
       <register name="/" type="4">
         <text>ftpC</text>
