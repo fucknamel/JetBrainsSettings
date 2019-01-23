@@ -168,7 +168,7 @@
       <file name="/I18nized Groovy string with injections.txt.ft" timestamp="1543321261983">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1548237396293">
+      <file name="/a.sql" timestamp="1548248085083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/tpc-h.orders [@120.79.22.44]" timestamp="1545722296529">
@@ -431,6 +431,9 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="/cordyceps.cordyceps_user [@120.79.22.44]" timestamp="1548247987562">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/newshub.news [@120.79.22.44]" timestamp="1544975515434">
         <mark key="[" line="0" column="0" />
       </file>
@@ -449,10 +452,10 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1548128217590">
+      <file name="/dummy.sql" timestamp="1548248434925">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="10" />
       </file>
       <file name="/newshub.user [@120.79.22.44]" timestamp="1545203816030">
@@ -622,10 +625,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>F</text>
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>F</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>ftpC</text>
