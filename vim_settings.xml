@@ -168,9 +168,6 @@
       <file name="/I18nized Groovy string with injections.txt.ft" timestamp="1543321261983">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1548248085083">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/tpc-h.orders [@120.79.22.44]" timestamp="1545722296529">
         <mark key="[" line="0" column="0" />
       </file>
@@ -452,7 +449,7 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="/dummy.sql" timestamp="1548248434925">
+      <file name="/dummy.sql" timestamp="1548251157254">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
