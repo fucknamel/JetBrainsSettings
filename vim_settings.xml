@@ -552,10 +552,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49e31018-f574-4880-9225-7be0ec688628/console_2.sql" timestamp="1545640552144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/webapp/index.jsp" timestamp="1549877077942">
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/webapp/index.jsp" timestamp="1549877771117">
         <mark key="[" line="6" column="26" />
         <mark key="]" line="6" column="26" />
         <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="/tpc-h.nation [@120.79.22.44]" timestamp="1545665965550">
         <mark key="[" line="0" column="0" />
