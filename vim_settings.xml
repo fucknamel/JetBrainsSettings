@@ -423,6 +423,12 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1543321245271">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/FTPUtil.java" timestamp="1549872786948">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="119" column="4" />
+        <mark key="^" line="119" column="4" />
+        <mark key="." line="119" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/newshub/pom.xml" timestamp="1545453798481">
         <mark key="[" line="167" column="17" />
         <mark key="]" line="167" column="19" />
@@ -502,11 +508,11 @@
       <file name="/newshub.news [@120.79.22.44]" timestamp="1544975515434">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/FileServiceImpl.java" timestamp="1549868311378">
-        <mark key="[" line="20" column="92" />
-        <mark key="]" line="25" column="28" />
-        <mark key="^" line="25" column="28" />
-        <mark key="." line="25" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/FileServiceImpl.java" timestamp="1549872666731">
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="35" column="11" />
+        <mark key="." line="35" column="11" />
+        <mark key="^" line="35" column="11" />
       </file>
       <file name="/JavaScript Console" timestamp="1543853814387">
         <mark key="[" line="0" column="0" />
@@ -533,7 +539,7 @@
       <file name="/newshub.user [@120.79.22.44]" timestamp="1545203816030">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548237502106">
+      <file name="/Dummy.txt" timestamp="1549872110384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/UserServiceImpl.java" timestamp="1549462216695">
@@ -557,6 +563,12 @@
       </file>
       <file name="/CoffeeScript Class.txt.ft" timestamp="1543321234049">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/IFileService.java" timestamp="1549871865975">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="6" column="50" />
+        <mark key="^" line="6" column="50" />
+        <mark key="." line="6" column="50" />
       </file>
       <file name="/fragment.java" timestamp="1549773848531">
         <mark key="[" line="0" column="0" />
@@ -668,8 +680,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvL+S5i+WQjuWwhuaWh+S7tuS4iuS8oOWIsEZUUOacjeWKoeWZqAo=</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -678,34 +690,34 @@
         <text>user</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">U2VydmVyUmVzcG9uc2U8UGFnZUluZm8+IHNlYXJjaFByb2R1Y3QoU3RyaW5nIHByb2R1Y3RUaXRsZSwgSW50ZWdlciBwcm9kdWN0SWQsIGludCBwYWdlTnVtLCBpbnQgcGFnZVNpemUp</text>
+        <text>String upload(MultipartFile file, String path)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvL+S5i+WQjuWwhuaWh+S7tuS4iuS8oOWIsEZUUOacjeWKoeWZqAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvZHVjdERldGFpbFZvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdERldGFpbFZvTGlzdC5hZGQocHJvZHVjdERldGFpbFZvKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJvZHVjdERldGFpbFZvIHByb2R1Y3REZXRhaWxWbyA9IGFzc2VtYmxlUHJvZHVjdERldGFpbFZvKHByb2R1Y3RJdGVtKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBJbnRlZ2VyIGdldElkKCkgewogICAgICAgIHJldHVybiBpZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRJZChJbnRlZ2VyIGlkKSB7CiAgICAgICAgdGhpcy5pZCA9IGlkOwogICAgfQoKICAgIHB1YmxpYyBJbnRlZ2VyIGdldENhdGVnb3J5SWQoKSB7CiAgICAgICAgcmV0dXJuIGNhdGVnb3J5SWQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q2F0ZWdvcnlJZChJbnRlZ2VyIGNhdGVnb3J5SWQpIHsKICAgICAgICB0aGlzLmNhdGVnb3J5SWQgPSBjYXRlZ29yeUlkOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0U3VidGl0bGUoKSB7CiAgICAgICAgcmV0dXJuIHN1YnRpdGxlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFN1YnRpdGxlKFN0cmluZyBzdWJ0aXRsZSkgewogICAgICAgIHRoaXMuc3VidGl0bGUgPSBzdWJ0aXRsZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldE1haW5JbWFnZSgpIHsKICAgICAgICByZXR1cm4gbWFpbkltYWdlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE1haW5JbWFnZShTdHJpbmcgbWFpbkltYWdlKSB7CiAgICAgICAgdGhpcy5tYWluSW1hZ2UgPSBtYWluSW1hZ2U7CiAgICB9CgogICAgcHVibGljIEJpZ0RlY2ltYWwgZ2V0UHJpY2UoKSB7CiAgICAgICAgcmV0dXJuIHByaWNlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFByaWNlKEJpZ0RlY2ltYWwgcHJpY2UpIHsKICAgICAgICB0aGlzLnByaWNlID0gcHJpY2U7CiAgICB9CgogICAgcHVibGljIEludGVnZXIgZ2V0U3RhdHVzKCkgewogICAgICAgIHJldHVybiBzdGF0dXM7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0U3RhdHVzKEludGVnZXIgc3RhdHVzKSB7CiAgICAgICAgdGhpcy5zdGF0dXMgPSBzdGF0dXM7CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHN1YkltYWdlczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvZHVjdERldGFpbFZvCg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
