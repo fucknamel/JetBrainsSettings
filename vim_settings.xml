@@ -502,6 +502,12 @@
       <file name="/newshub.news [@120.79.22.44]" timestamp="1544975515434">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/FileServiceImpl.java" timestamp="1549868311378">
+        <mark key="[" line="20" column="92" />
+        <mark key="]" line="25" column="28" />
+        <mark key="^" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+      </file>
       <file name="/JavaScript Console" timestamp="1543853814387">
         <mark key="[" line="0" column="0" />
       </file>
@@ -663,10 +669,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>multipartFile</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>multipartFile</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
