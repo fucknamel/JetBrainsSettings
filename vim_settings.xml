@@ -45,6 +45,9 @@
       <file name="/tpc-h.supplier [@120.79.22.44]" timestamp="1545630499554">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/mmall_learning.mmall_category [@localhost]" timestamp="1550027330640">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/common/Const.java" timestamp="1549462154513">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="21" column="17" />
@@ -115,12 +118,12 @@
         <mark key="." line="106" column="16" />
         <mark key="^" line="106" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" timestamp="1549948347457">
-        <mark key="'" line="108" column="2" />
-        <mark key="[" line="118" column="93" />
-        <mark key="]" line="122" column="31" />
-        <mark key="." line="122" column="31" />
-        <mark key="^" line="122" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" timestamp="1550026812706">
+        <mark key="'" line="114" column="6" />
+        <mark key="[" line="115" column="19" />
+        <mark key="]" line="115" column="24" />
+        <mark key="." line="115" column="24" />
+        <mark key="^" line="115" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/CordycepsHub/.gitignore" timestamp="1548075858385">
         <mark key="'" line="34" column="8" />
@@ -288,8 +291,8 @@
         <mark key="." line="68" column="48" />
         <mark key="^" line="68" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" timestamp="1549952926480">
-        <mark key="'" line="195" column="2" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" timestamp="1550025855290">
+        <mark key="'" line="15" column="6" />
         <mark key="[" line="214" column="10" />
         <mark key="]" line="214" column="17" />
         <mark key="." line="214" column="17" />
@@ -374,15 +377,12 @@
       <file name="/mmall_learning.mmall_product [@localhost]" timestamp="1548128214537">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/pojo/Category.java" timestamp="1549947962505">
-        <mark key="'" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/CartMapper.java" timestamp="1549978328235">
-        <mark key="'" line="5" column="17" />
-        <mark key="[" line="18" column="110" />
-        <mark key="]" line="18" column="110" />
-        <mark key="^" line="18" column="110" />
-        <mark key="." line="18" column="110" />
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/CartMapper.java" timestamp="1549984034634">
+        <mark key="'" line="7" column="17" />
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="32" />
+        <mark key="^" line="22" column="49" />
+        <mark key="." line="22" column="49" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/lineitem_add.jsp" timestamp="1546694879578">
         <mark key="'" line="478" column="41" />
@@ -491,6 +491,9 @@
         <mark key="." line="17" column="35" />
         <mark key="^" line="17" column="35" />
       </file>
+      <file name="/cordyceps.cordyceps_category [@120.79.22.44]" timestamp="1550027944725">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/project_grass.UserManger [project_grass@localhost]" timestamp="1545383966513">
         <mark key="[" line="0" column="0" />
       </file>
@@ -560,12 +563,12 @@
         <mark key="^" line="20" column="36" />
         <mark key="." line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/CartMapper.xml" timestamp="1549978305767">
+      <file name="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/CartMapper.xml" timestamp="1549984090267">
         <mark key="'" line="108" column="2" />
-        <mark key="[" line="122" column="29" />
-        <mark key="]" line="123" column="31" />
-        <mark key="^" line="123" column="31" />
-        <mark key="." line="123" column="31" />
+        <mark key="[" line="125" column="79" />
+        <mark key="]" line="129" column="27" />
+        <mark key="^" line="129" column="27" />
+        <mark key="." line="129" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/WEB-INF/web.xml" timestamp="1545735791004">
         <mark key="[" line="8" column="29" />
@@ -580,7 +583,7 @@
         <mark key="." line="138" column="64" />
         <mark key="^" line="138" column="64" />
       </file>
-      <file name="/dummy.sql" timestamp="1549947847276">
+      <file name="/dummy.sql" timestamp="1550027945956">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -601,6 +604,13 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49e31018-f574-4880-9225-7be0ec688628/console_2.sql" timestamp="1545640552144">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/CategoryManageController.java" timestamp="1550028470185">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="73" column="5" />
+        <mark key="]" line="88" column="4" />
+        <mark key="^" line="88" column="4" />
+        <mark key="." line="88" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/ProductController.java" timestamp="1549952397057">
         <mark key="'" line="18" column="0" />
@@ -638,25 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="36" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="289" column="35" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="292" column="45" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="295" column="45" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="298" column="55" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="301" column="49" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="304" column="37" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="307" column="43" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="312" column="73" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="314" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="334" column="10" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="375" column="62" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="377" column="60" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="385" column="62" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="387" column="60" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="395" column="72" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="397" column="60" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="405" column="60" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="407" column="60" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
       <jump line="419" column="38" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
       <jump line="420" column="70" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
       <jump line="455" column="49" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
@@ -738,58 +729,103 @@
       <jump line="26" column="13" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" />
       <jump line="4" column="17" filename="$USER_HOME$/IdeaProjects/mmall/src/main/java/com/mmall/dao/CartMapper.java" />
       <jump line="108" column="2" filename="$USER_HOME$/IdeaProjects/mmall/src/main/resources/mappers/CartMapper.xml" />
+      <jump line="15" column="6" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" />
+      <jump line="94" column="8" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
+      <jump line="10" column="19" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
+      <jump line="15" column="45" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
+      <jump line="29" column="26" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
+      <jump line="33" column="10" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
+      <jump line="53" column="16" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
+      <jump line="54" column="8" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
+      <jump line="61" column="6" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
+      <jump line="76" column="16" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
+      <jump line="80" column="13" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
+      <jump line="99" column="16" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
+      <jump line="100" column="24" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
+      <jump line="103" column="26" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
+      <jump line="114" column="6" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
+      <jump line="30" column="8" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/CategoryManageController.java" />
+      <jump line="48" column="8" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/CategoryManageController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/CategoryManageController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>，</text>
+        <text>@RequestMapping(value = &quot;get_category.do&quot;, method = RequestMethod.POST)
+    @ResponseBody
+    public ServerResponse getChildrenCategory(HttpSession session,@RequestParam(value = &quot;categoryId&quot;, defaultValue = &quot;0&quot;) Integer categoryId){
+        User user = (User) session.getAttribute(Const.CURRENT_USER);
+        if(user == null){
+            return ServerResponse.createByErrorCodeMessage(ResponseCode.NEED_LOGIN.getCode(), &quot;用户未登陆，请登录&quot;);
+        }
+        if(iUserService.checkAdminRole(user).isSuccess()){
+            //查询子节点的category信息，并且不递归，保持平级
+            return iCategoryService.getChildrenCategory(categoryId);
+        }else {
+            return ServerResponse.createByErrorMessage(&quot;无权限操作，需要管理员权限&quot;);
+        }
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>，</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>selectC</text>
+        <text>create</text>
       </register>
       <register name="0" type="4">
-        <text>selectCartByUserIdAndProductId</text>
+        <text>selectCartByUserId</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tbWFsbC5kYW8uQ2F0ZWdvcnlNYXBwZXI7Cg==</text>
+      <register name="1" type="4">
+        <text>@RequestMapping(value = &quot;get_category.do&quot;, method = RequestMethod.POST)
+    @ResponseBody
+    public ServerResponse getChildrenCategory(HttpSession session,@RequestParam(value = &quot;categoryId&quot;, defaultValue = &quot;0&quot;) Integer categoryId){
+        User user = (User) session.getAttribute(Const.CURRENT_USER);
+        if(user == null){
+            return ServerResponse.createByErrorCodeMessage(ResponseCode.NEED_LOGIN.getCode(), &quot;用户未登陆，请登录&quot;);
+        }
+        if(iUserService.checkAdminRole(user).isSuccess()){
+            //查询子节点的category信息，并且不递归，保持平级
+            return iCategoryService.getChildrenCategory(categoryId);
+        }else {
+            return ServerResponse.createByErrorMessage(&quot;无权限操作，需要管理员权限&quot;);
+        }
+    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAje3VwZGF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAje2NyZWF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFByb2R1Y3Q+IAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tbWFsbC5kYW8uQ2F0ZWdvcnlNYXBwZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFByb2R1Y3Q+IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNlbGVjdCBpZD0ic2VsZWN0TGlzdEJ5VGl0bGVBbmRDYXRlZ29yeUlkcyIgcGFyYW1ldGVyVHlwZT0ibWFwIiByZXN1bHRNYXA9IkJhc2VSZXN1bHRNYXAiPgogIAo8L3NlbGVjdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
       </register>
     </registers>
     <search>
-      <last-search>selectC</last-search>
+      <last-search>create</last-search>
       <last-offset />
-      <last-pattern>selectC</last-pattern>
+      <last-pattern>create</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>查询</last-substitute>
       <last-dir>1</last-dir>
@@ -814,9 +850,9 @@
         <entry>-servlet</entry>
         <entry>mmall</entry>
         <entry>create_time</entry>
-        <entry>create</entry>
         <entry>user</entry>
         <entry>selectC</entry>
+        <entry>create</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
