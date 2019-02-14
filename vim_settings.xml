@@ -15,7 +15,8 @@
         <mark key="^" line="39" column="4" />
         <mark key="." line="39" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/generatorConfig.xml" timestamp="1550119422962">
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/generatorConfig.xml" timestamp="1550122235325">
+        <mark key="'" line="0" column="30" />
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="65" />
         <mark key="." line="74" column="0" />
@@ -24,7 +25,7 @@
       <file name="/Activity.txt.ft" timestamp="1543321279520">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1549779838255">
+      <file name="/a.dummy" timestamp="1550122098521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/newshub/src/test/java/com/newshub/dao/test/NewsDaoTest.java" timestamp="1544778802077">
@@ -68,10 +69,15 @@
         <mark key="." line="168" column="0" />
         <mark key="^" line="60" column="40" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/TransportServiceImpl.java" timestamp="1550123317503">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="8" />
+        <mark key="." line="31" column="8" />
+      </file>
       <file name="/project_grass.chongcao_file [project_grass@localhost]" timestamp="1543157433427">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/cordyceps.cordyceps_transport [@120.79.22.44]" timestamp="1550114042742">
+      <file name="/cordyceps.cordyceps_transport [@120.79.22.44]" timestamp="1550123443216">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_list.jsp" timestamp="1545707939823">
@@ -145,8 +151,8 @@
         <mark key="." line="69" column="47" />
         <mark key="^" line="69" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/applicationContext-datasource.xml" timestamp="1548924905571">
-        <mark key="'" line="79" column="56" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/applicationContext-datasource.xml" timestamp="1550122279305">
+        <mark key="'" line="22" column="45" />
         <mark key="[" line="79" column="48" />
         <mark key="]" line="79" column="56" />
         <mark key="." line="79" column="56" />
@@ -176,7 +182,7 @@
       <file name="/I18nized Groovy string with injections.txt.ft" timestamp="1543321261983">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1550119262899">
+      <file name="/a.sql" timestamp="1550123266729">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/tpc-h.orders [@120.79.22.44]" timestamp="1545722296529">
@@ -345,11 +351,11 @@
         <mark key="^" line="63" column="60" />
         <mark key="." line="63" column="60" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/TransportService.java" timestamp="1550120934102">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="55" />
-        <mark key="^" line="23" column="92" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/TransportService.java" timestamp="1550121792715">
+        <mark key="[" line="35" column="42" />
+        <mark key="]" line="36" column="37" />
+        <mark key="^" line="36" column="37" />
+        <mark key="." line="36" column="37" />
       </file>
       <file name="/region [@120.79.22.44]" timestamp="1545561395552">
         <mark key="[" line="0" column="0" />
@@ -550,9 +556,9 @@
         <mark key="^" line="24" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" timestamp="1548917663539">
-        <mark key="'" line="128" column="4" />
-        <mark key="[" line="126" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" timestamp="1550123255390">
+        <mark key="'" line="124" column="17" />
+        <mark key="[" line="126" column="20" />
         <mark key="]" line="126" column="24" />
         <mark key="." line="126" column="24" />
         <mark key="^" line="126" column="24" />
@@ -568,6 +574,12 @@
         <mark key="]" line="17" column="75" />
         <mark key="." line="45" column="35" />
         <mark key="^" line="45" column="35" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/950fc7b3-3aad-4842-b67f-f0cd6d018fc0/console.sql" timestamp="1550123014481">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="61" />
+        <mark key="^" line="2" column="61" />
+        <mark key="." line="2" column="61" />
       </file>
       <file name="/JavaScript Console" timestamp="1543853814387">
         <mark key="[" line="0" column="0" />
@@ -598,10 +610,10 @@
         <mark key="." line="138" column="64" />
         <mark key="^" line="138" column="64" />
       </file>
-      <file name="/dummy.sql" timestamp="1550120983502">
+      <file name="/dummy.sql" timestamp="1550123443981">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="10" />
       </file>
       <file name="/newshub.user [@120.79.22.44]" timestamp="1545203816030">
@@ -640,11 +652,11 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/TransportManageController.java" timestamp="1550120958390">
-        <mark key="[" line="40" column="99" />
-        <mark key="]" line="40" column="99" />
-        <mark key="^" line="40" column="99" />
-        <mark key="." line="40" column="99" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/TransportManageController.java" timestamp="1550123347790">
+        <mark key="[" line="34" column="71" />
+        <mark key="]" line="34" column="87" />
+        <mark key="^" line="34" column="87" />
+        <mark key="." line="34" column="87" />
       </file>
       <file name="/tpc-h.nation [@120.79.22.44]" timestamp="1545665965550">
         <mark key="[" line="0" column="0" />
@@ -669,30 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="455" column="49" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="570" column="58" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="608" column="58" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="647" column="68" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
-      <jump line="140" column="2" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/UserMapper.xml" />
-      <jump line="51" column="1" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/MD5Util.java" />
-      <jump line="34" column="1" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/PropertiesUtil.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/PropertiesUtil.java" />
-      <jump line="30" column="41" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/UserServiceImpl.java" />
-      <jump line="22" column="70" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/UserController.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/UserController.java" />
-      <jump line="12" column="13" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/UserServiceImpl.java" />
-      <jump line="5" column="17" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/dao/UserMapper.java" />
-      <jump line="157" column="2" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/UserMapper.xml" />
-      <jump line="16" column="12" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/UserServiceImpl.java" />
-      <jump line="52" column="16" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/UserController.java" />
-      <jump line="13" column="13" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/UserServiceImpl.java" />
-      <jump line="19" column="12" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/UserController.java" />
-      <jump line="74" column="8" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/UserServiceImpl.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/TokenCache.java" />
-      <jump line="73" column="82" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/UserController.java" />
-      <jump line="40" column="2" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/UserController.java" />
-      <jump line="131" column="11" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/UserServiceImpl.java" />
-      <jump line="160" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/UserServiceImpl.java" />
       <jump line="30" column="16" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" />
       <jump line="16" column="11" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/ProductServiceImpl.java" />
       <jump line="43" column="77" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" />
@@ -769,58 +757,82 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/CategoryManageController.java" />
       <jump line="74" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/CategoryManageController.java" />
       <jump line="23" column="32" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/TransportService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="11" column="19" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="31" column="6" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="34" column="17" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="57" column="16" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="58" column="8" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="87" column="13" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="113" column="26" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="76" column="16" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/generatorConfig.xml" />
+      <jump line="0" column="30" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/generatorConfig.xml" />
+      <jump line="0" column="30" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/applicationContext-datasource.xml" />
+      <jump line="22" column="45" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/applicationContext-datasource.xml" />
+      <jump line="15" column="2" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="10" column="19" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="16" column="51" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="30" column="27" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="33" column="69" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="54" column="16" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="55" column="8" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="80" column="16" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="81" column="10" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="106" column="16" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="107" column="19" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="124" column="17" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>addTransport(productId, location, latitude, longitude, status);</text>
+        <text>if (status != null)</text>
       </register>
       <register name="-" type="4">
-        <text>addTransport(productId, location, latitude, longitude, status);</text>
+        <text>if (status != null)</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text>status</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKEZpbGVTZXJ2aWNlSW1wbC5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmlnRGVjaW1hbCBsYXRpID0gbmV3IEJpZ0RlY2ltYWwobGF0aXR1ZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAje3VwZGF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLgo=</text>
+        <text encoding="base64">ICAgICAgICAje2NyZWF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmlnRGVjaW1hbCBsYXRpID0gbmV3IEJpZ0RlY2ltYWwobGF0aXR1ZGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search>status</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern>status</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>查询</last-substitute>
       <last-dir>1</last-dir>
@@ -828,10 +840,6 @@
     </search>
     <history>
       <history-search>
-        <entry>C_</entry>
-        <entry>customer</entry>
-        <entry>nav</entry>
-        <entry>name</entry>
         <entry>详细</entry>
         <entry>默认</entry>
         <entry>biao</entry>
@@ -848,6 +856,10 @@
         <entry>user</entry>
         <entry>selectC</entry>
         <entry>create</entry>
+        <entry>UTF</entry>
+        <entry>utf</entry>
+        <entry>def</entry>
+        <entry>status</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist</entry>
