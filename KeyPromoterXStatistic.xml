@@ -401,6 +401,14 @@
           <Count>13</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'CordycepsHub [org.mybatis.generator:mybatis-generator-maven-plugin:1.3.2:generate]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2' or '⌥S'</ShortCut>
+          <Description>Stop 'CordycepsHub [org.mybatis.generator:mybatis-generator-maven-plugin:1.3.2:generate]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'NewsDaoTest.selectFrequency'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -454,7 +462,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌥S'</ShortCut>
           <Description>Stop...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">

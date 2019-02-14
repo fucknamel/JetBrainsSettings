@@ -15,7 +15,7 @@
         <mark key="^" line="39" column="4" />
         <mark key="." line="39" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/generatorConfig.xml" timestamp="1549947812780">
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/generatorConfig.xml" timestamp="1550119422962">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="65" />
         <mark key="." line="74" column="0" />
@@ -176,7 +176,7 @@
       <file name="/I18nized Groovy string with injections.txt.ft" timestamp="1543321261983">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1550114160744">
+      <file name="/a.sql" timestamp="1550119262899">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/tpc-h.orders [@120.79.22.44]" timestamp="1545722296529">
@@ -254,7 +254,7 @@
         <mark key="." line="68" column="55" />
         <mark key="^" line="68" column="55" />
       </file>
-      <file name="/cordyceps.cordyceps_product [@120.79.22.44]" timestamp="1549941376323">
+      <file name="/cordyceps.cordyceps_product [@120.79.22.44]" timestamp="1550120594610">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/customer_change.jsp" timestamp="1545720445749">
@@ -345,6 +345,12 @@
         <mark key="^" line="63" column="60" />
         <mark key="." line="63" column="60" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/TransportService.java" timestamp="1550120934102">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="55" />
+        <mark key="^" line="23" column="92" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="/region [@120.79.22.44]" timestamp="1545561395552">
         <mark key="[" line="0" column="0" />
       </file>
@@ -376,6 +382,12 @@
         <mark key="]" line="32" column="88" />
         <mark key="^" line="32" column="88" />
         <mark key="." line="32" column="88" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/ITransportService.java" timestamp="1550120978700">
+        <mark key="[" line="6" column="67" />
+        <mark key="]" line="6" column="67" />
+        <mark key="^" line="6" column="67" />
+        <mark key="." line="6" column="67" />
       </file>
       <file name="/mmall_learning.mmall_product [@localhost]" timestamp="1548128214537">
         <mark key="[" line="0" column="0" />
@@ -551,9 +563,9 @@
       <file name="/newshub.news [@120.79.22.44]" timestamp="1544975515434">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/FileServiceImpl.java" timestamp="1549876227912">
-        <mark key="[" line="43" column="9" />
-        <mark key="]" line="45" column="35" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/FileServiceImpl.java" timestamp="1550119943700">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="75" />
         <mark key="." line="45" column="35" />
         <mark key="^" line="45" column="35" />
       </file>
@@ -586,10 +598,10 @@
         <mark key="." line="138" column="64" />
         <mark key="^" line="138" column="64" />
       </file>
-      <file name="/dummy.sql" timestamp="1550027945956">
+      <file name="/dummy.sql" timestamp="1550120983502">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
         <mark key="^" line="0" column="10" />
       </file>
       <file name="/newshub.user [@120.79.22.44]" timestamp="1545203816030">
@@ -609,11 +621,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/CategoryManageController.java" timestamp="1550113940810">
-        <mark key="'" line="74" column="0" />
+        <mark key="'" line="73" column="0" />
         <mark key="[" line="73" column="5" />
-        <mark key="]" line="88" column="4" />
-        <mark key="^" line="88" column="4" />
-        <mark key="." line="88" column="4" />
+        <mark key="]" line="73" column="4" />
+        <mark key="^" line="73" column="4" />
+        <mark key="." line="73" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/ProductController.java" timestamp="1549952397057">
         <mark key="'" line="18" column="0" />
@@ -628,11 +640,11 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/TransportManageController.java" timestamp="1550113843490">
-        <mark key="[" line="8" column="40" />
-        <mark key="]" line="7" column="33" />
-        <mark key="^" line="7" column="33" />
-        <mark key="." line="7" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/TransportManageController.java" timestamp="1550120958390">
+        <mark key="[" line="40" column="99" />
+        <mark key="]" line="40" column="99" />
+        <mark key="^" line="40" column="99" />
+        <mark key="." line="40" column="99" />
       </file>
       <file name="/tpc-h.nation [@120.79.22.44]" timestamp="1545665965550">
         <mark key="[" line="0" column="0" />
@@ -657,7 +669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="420" column="70" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
       <jump line="455" column="49" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
       <jump line="570" column="58" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
       <jump line="608" column="58" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.0.RELEASE/spring-webmvc-4.0.0.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java" />
@@ -757,75 +768,50 @@
       <jump line="48" column="8" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/CategoryManageController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/CategoryManageController.java" />
       <jump line="74" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/CategoryManageController.java" />
+      <jump line="23" column="32" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/TransportService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>@RequestMapping(value = &quot;get_category.do&quot;, method = RequestMethod.POST)
-    @ResponseBody
-    public ServerResponse getChildrenCategory(HttpSession session,@RequestParam(value = &quot;categoryId&quot;, defaultValue = &quot;0&quot;) Integer categoryId){
-        User user = (User) session.getAttribute(Const.CURRENT_USER);
-        if(user == null){
-            return ServerResponse.createByErrorCodeMessage(ResponseCode.NEED_LOGIN.getCode(), &quot;用户未登陆，请登录&quot;);
-        }
-        if(iUserService.checkAdminRole(user).isSuccess()){
-            //查询子节点的category信息，并且不递归，保持平级
-            return iCategoryService.getChildrenCategory(categoryId);
-        }else {
-            return ServerResponse.createByErrorMessage(&quot;无权限操作，需要管理员权限&quot;);
-        }
-    }</text>
+        <text>addTransport(productId, location, latitude, longitude, status);</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>addTransport(productId, location, latitude, longitude, status);</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
-      <register name="0" type="4">
-        <text>selectCartByUserId</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKEZpbGVTZXJ2aWNlSW1wbC5jbGFzcyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>@RequestMapping(value = &quot;get_category.do&quot;, method = RequestMethod.POST)
-    @ResponseBody
-    public ServerResponse getChildrenCategory(HttpSession session,@RequestParam(value = &quot;categoryId&quot;, defaultValue = &quot;0&quot;) Integer categoryId){
-        User user = (User) session.getAttribute(Const.CURRENT_USER);
-        if(user == null){
-            return ServerResponse.createByErrorCodeMessage(ResponseCode.NEED_LOGIN.getCode(), &quot;用户未登陆，请登录&quot;);
-        }
-        if(iUserService.checkAdminRole(user).isSuccess()){
-            //查询子节点的category信息，并且不递归，保持平级
-            return iCategoryService.getChildrenCategory(categoryId);
-        }else {
-            return ServerResponse.createByErrorMessage(&quot;无权限操作，需要管理员权限&quot;);
-        }
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQmlnRGVjaW1hbCBsYXRpID0gbmV3IEJpZ0RlY2ltYWwobGF0aXR1ZGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAje3VwZGF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAje2NyZWF0ZVRpbWUsamRiY1R5cGU9VElNRVNUQU1QfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tbWFsbC5kYW8uQ2F0ZWdvcnlNYXBwZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFByb2R1Y3Q+IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
