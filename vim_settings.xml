@@ -153,6 +153,12 @@
         <mark key="." line="69" column="47" />
         <mark key="^" line="69" column="47" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/TransportController.java" timestamp="1550669997704">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="31" column="63" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/applicationContext-datasource.xml" timestamp="1550122279305">
         <mark key="'" line="22" column="45" />
         <mark key="[" line="79" column="48" />
@@ -431,8 +437,8 @@
         <mark key="." line="73" column="50" />
         <mark key="^" line="73" column="50" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/UserController.java" timestamp="1550483979191">
-        <mark key="'" line="41" column="2" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/UserController.java" timestamp="1550669814739">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/region_list.jsp" timestamp="1545707983623">
         <mark key="'" line="184" column="16" />
@@ -666,10 +672,10 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/TransportManageController.java" timestamp="1550482570255">
-        <mark key="'" line="25" column="12" />
-        <mark key="[" line="64" column="26" />
-        <mark key="]" line="64" column="41" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/TransportManageController.java" timestamp="1550669852229">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="62" column="4" />
+        <mark key="]" line="73" column="4" />
         <mark key="^" line="64" column="41" />
         <mark key="." line="64" column="41" />
       </file>
@@ -702,10 +708,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" />
-      <jump line="16" column="19" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" />
-      <jump line="22" column="19" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" />
-      <jump line="38" column="21" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" />
       <jump line="44" column="10" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" />
       <jump line="76" column="16" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" />
       <jump line="82" column="16" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" />
@@ -802,49 +804,64 @@
       <jump line="25" column="12" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/TransportManageController.java" />
       <jump line="4" column="17" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/dao/TransportMapper.java" />
       <jump line="118" column="2" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
+      <jump line="64" column="41" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/TransportManageController.java" />
+      <jump line="99" column="12" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/UserController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/UserController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/TransportManageController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSVVzZXJTZXJ2aWNlIGlVc2VyU2VydmljZTsKICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">cHVibGljIFNlcnZlclJlc3BvbnNlIA==</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
       <register name="0" type="4">
-        <text>selectListByProductId</text>
+        <text>@RequestMapping(value = &quot;get_transport_list.do&quot;, method = RequestMethod.POST)
+    @ResponseBody
+    public ServerResponse getTransportList(HttpSession session,@RequestParam(value = &quot;pageNum&quot;, defaultValue = &quot;1&quot;) int pageNum,@RequestParam(value = &quot;pageSize&quot;, defaultValue = &quot;10&quot;) int pageSize,@RequestParam(&quot;productId&quot;) Integer productId){
+        User user = (User) session.getAttribute(Const.CURRENT_USER);
+        if (user == null) {
+            return ServerResponse.createByErrorCodeMessage(ResponseCode.NEED_LOGIN.getCode(), &quot;用户未登陆，请登录&quot;);
+        }
+        if (iUserService.checkAdminRole(user).isSuccess()) {
+            return iTransportService.getTransportListByProductId(productId, pageNum, pageSize);
+        }
+        return ServerResponse.createByErrorMessage(&quot;无操作权限&quot;);
+    }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgSVVzZXJTZXJ2aWNlIGlVc2VyU2VydmljZTsKICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gImdldF9pbmZvcm1hdGlvbi5kbyIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuUE9TVCkKICAgIEBSZXNwb25zZUJvZHkKICAgIHB1YmxpYyBTZXJ2ZXJSZXNwb25zZTxVc2VyPiBnZXRJbmZvcm1hdGlvbihIdHRwU2Vzc2lvbiBzZXNzaW9uKXsKICAgICAgICBVc2VyIGN1cnJlbnRVc2VyID0gKFVzZXIpIHNlc3Npb24uZ2V0QXR0cmlidXRlKENvbnN0LkNVUlJFTlRfVVNFUik7CiAgICAgICAgaWYgKGN1cnJlbnRVc2VyID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3JDb2RlTWVzc2FnZShSZXNwb25zZUNvZGUuTkVFRF9MT0dJTi5nZXRDb2RlKCksICLmnKrnmbvpmYbvvIzpnIDopoHlvLrliLbnmbvpmYYiKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGlVc2VyU2VydmljZS5nZXRJbmZvcm1hdGlvbihjdXJyZW50VXNlci5nZXRJZCgpKTsKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3JDb2RlTWVzc2FnZShSZXNwb25zZUNvZGUuTkVFRF9MT0dJTi5nZXRDb2RlKCksICLnlKjmiLfmnKrnmbvpmYbvvIzor7fnmbvlvZUiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBhbHRlciB0YWJsZSBjb3JkeWNlcHNfdHJhbnNwb3J0IGNoYW5nZSBsb2NhdGlvbiBjaGFyYWN0ZXIgdXRmODsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaVVzZXJTZXJ2aWNlLmNoZWNrQWRtaW5Sb2xlKHVzZXIpLmlzU3VjY2VzcygpKSB7CiAgICAgICAgICAgIHJldHVybiBpVHJhbnNwb3J0U2VydmljZS5nZXRUcmFuc3BvcnRMaXN0QnlQcm9kdWN0SWQocHJvZHVjdElkLCBwYWdlTnVtLCBwYWdlU2l6ZSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBTZXJ2ZXJSZXNwb25zZS5jcmVhdGVCeUVycm9yTWVzc2FnZSgi5peg5pON5L2c5p2D6ZmQIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gImdldF9pbmZvcm1hdGlvbi5kbyIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuUE9TVCkKICAgIEBSZXNwb25zZUJvZHkKICAgIHB1YmxpYyBTZXJ2ZXJSZXNwb25zZTxVc2VyPiBnZXRJbmZvcm1hdGlvbihIdHRwU2Vzc2lvbiBzZXNzaW9uKXsKICAgICAgICBVc2VyIGN1cnJlbnRVc2VyID0gKFVzZXIpIHNlc3Npb24uZ2V0QXR0cmlidXRlKENvbnN0LkNVUlJFTlRfVVNFUik7CiAgICAgICAgaWYgKGN1cnJlbnRVc2VyID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3JDb2RlTWVzc2FnZShSZXNwb25zZUNvZGUuTkVFRF9MT0dJTi5nZXRDb2RlKCksICLmnKrnmbvpmYbvvIzpnIDopoHlvLrliLbnmbvpmYYiKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGlVc2VyU2VydmljZS5nZXRJbmZvcm1hdGlvbihjdXJyZW50VXNlci5nZXRJZCgpKTsKICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IyBhbHRlciB0YWJsZSBjb3JkeWNlcHNfdHJhbnNwb3J0IGNoYW5nZSBsb2NhdGlvbiBjaGFyYWN0ZXIgdXRmODsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
