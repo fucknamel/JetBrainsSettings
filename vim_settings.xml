@@ -95,12 +95,12 @@
         <mark key="^" line="18" column="128" />
         <mark key="." line="18" column="128" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/pom.xml" timestamp="1548076202379">
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/pom.xml" timestamp="1551612110101">
         <mark key="'" line="254" column="40" />
-        <mark key="[" line="170" column="19" />
-        <mark key="]" line="170" column="20" />
-        <mark key="^" line="254" column="44" />
-        <mark key="." line="170" column="20" />
+        <mark key="[" line="218" column="18" />
+        <mark key="]" line="218" column="23" />
+        <mark key="^" line="218" column="23" />
+        <mark key="." line="218" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/newshub/src/main/java/com/newshub/pojo/News.java" timestamp="1544975804663">
         <mark key="[" line="56" column="33" />
@@ -122,7 +122,7 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="55" column="78" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" timestamp="1551609756007">
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" timestamp="1551610782465">
         <mark key="'" line="26" column="13" />
         <mark key="[" line="105" column="69" />
         <mark key="]" line="106" column="16" />
@@ -229,11 +229,11 @@
         <mark key="^" line="24" column="69" />
         <mark key="." line="24" column="69" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/QRCodeUtil.java" timestamp="1551609041232">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="22" column="9" />
-        <mark key="^" line="18" column="65" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/QRCodeUtil.java" timestamp="1551613374530">
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="36" column="39" />
+        <mark key="." line="36" column="39" />
+        <mark key="^" line="36" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" timestamp="1545721115769">
         <mark key="'" line="0" column="0" />
@@ -392,6 +392,12 @@
         <mark key="]" line="13" column="59" />
         <mark key="^" line="13" column="59" />
         <mark key="." line="13" column="59" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/test/java/com/cordyceps/util/QRCodeUtilTest.java" timestamp="1551612809935">
+        <mark key="[" line="10" column="55" />
+        <mark key="]" line="11" column="30" />
+        <mark key="^" line="11" column="30" />
+        <mark key="." line="11" column="30" />
       </file>
       <file name="/fragment.js" timestamp="1543853502534">
         <mark key="[" line="0" column="0" />
@@ -709,7 +715,11 @@
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1551608852924">
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.0.RELEASE/spring-web-4.0.0.RELEASE-sources.jar!/org/springframework/web/multipart/commons/CommonsMultipartFile.java" timestamp="1551610145883">
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="13" />
+      </file>
+      <file name="/fragment.java" timestamp="1551612766647">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -820,10 +830,10 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>TokenCache</text>
+        <text encoding="base64">InRlbXAiLCA=</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -832,28 +842,28 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihUb2tlbkNhY2hlLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3V0cHV0U3RyZWFtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBRUkNvZGVVdGlsIHFyQ29kZVV0aWwgPSBuZXcgUVJDb2RlVXRpbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWF0cml4VG8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBzdGF0aWMgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKFRva2VuQ2FjaGUuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWF0cml4VG9JbWFnZVdyaXRlLndyaXRlVG9GaWxlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8RW5jb2RlSGludFR5cGUsIFN0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWF0cml4VG9JbWFnZVdyaXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
