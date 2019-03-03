@@ -122,7 +122,7 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="55" column="78" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" timestamp="1549952580577">
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" timestamp="1551609756007">
         <mark key="'" line="26" column="13" />
         <mark key="[" line="105" column="69" />
         <mark key="]" line="106" column="16" />
@@ -229,11 +229,11 @@
         <mark key="^" line="24" column="69" />
         <mark key="." line="24" column="69" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/QRCodeUtil.java" timestamp="1551607971689">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="96" />
-        <mark key="." line="18" column="96" />
-        <mark key="^" line="18" column="96" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/QRCodeUtil.java" timestamp="1551609041232">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="22" column="9" />
+        <mark key="^" line="18" column="65" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" timestamp="1545721115769">
         <mark key="'" line="0" column="0" />
@@ -294,10 +294,10 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="28" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/TokenCache.java" timestamp="1549173283695">
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/TokenCache.java" timestamp="1551608239350">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="77" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="0" column="21" />
       </file>
@@ -480,7 +480,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1543321245271">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/FTPUtil.java" timestamp="1549872786948">
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/FTPUtil.java" timestamp="1551609389572">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="119" column="4" />
         <mark key="^" line="119" column="4" />
@@ -709,12 +709,11 @@
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1550248608263">
+      <file name="/fragment.java" timestamp="1551608852924">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="16" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" />
       <jump line="93" column="6" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" />
       <jump line="127" column="13" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" />
       <jump line="134" column="6" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" />
@@ -814,49 +813,50 @@
       <jump line="83" column="62" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/TransportManageController.java" />
       <jump line="96" column="18" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/TransportManageController.java" />
       <jump line="29" column="43" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/TransportManageController.java" />
+      <jump line="15" column="4" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/QRCodeUtil.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>MultiFormatWriter.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>MultiFormatWriter.</text>
+        <text>TokenCache</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSAoVXNlcikgc2Vzc2lvbi5nZXRBdHRyaWJ1dGUoQ29uc3QuQ1VSUkVOVF9VU0VSKTsKICAgICAgICBpZiAodXNlciA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBTZXJ2ZXJSZXNwb25zZS5jcmVhdGVCeUVycm9yQ29kZU1lc3NhZ2UoUmVzcG9uc2VDb2RlLk5FRURfTE9HSU4uZ2V0Q29kZSgpLCAi55So5oi35pyq55m76ZmG77yM6K+355m75b2VIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihUb2tlbkNhY2hlLmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8RW5jb2RlSGludFR5cGUsIFN0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBRUkNvZGVVdGlsIHFyQ29kZVV0aWwgPSBuZXcgUVJDb2RlVXRpbCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0UVJjb2RlUGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBzdGF0aWMgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKFRva2VuQ2FjaGUuY2xhc3MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuenhpbmcuV3JpdGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgICBNYXA8RW5jb2RlSGludFR5cGUsIFN0cmluZz4K</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQYWdlSW5mbyBwYWdlUmVzdWx0ID0gbmV3IFBhZ2VJbmZvKGxpc3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
