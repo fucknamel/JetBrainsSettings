@@ -121,12 +121,12 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="55" column="78" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" timestamp="1551610782465">
-        <mark key="'" line="26" column="13" />
-        <mark key="[" line="105" column="69" />
-        <mark key="]" line="106" column="16" />
-        <mark key="." line="106" column="16" />
-        <mark key="^" line="106" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" timestamp="1551669467937">
+        <mark key="'" line="32" column="12" />
+        <mark key="[" line="135" column="19" />
+        <mark key="]" line="135" column="23" />
+        <mark key="." line="135" column="23" />
+        <mark key="^" line="135" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" timestamp="1550209209336">
         <mark key="'" line="114" column="6" />
@@ -391,11 +391,11 @@
         <mark key="^" line="13" column="59" />
         <mark key="." line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/test/java/com/cordyceps/util/QRCodeUtilTest.java" timestamp="1551614409671">
-        <mark key="[" line="16" column="55" />
-        <mark key="]" line="18" column="32" />
-        <mark key="." line="18" column="32" />
-        <mark key="^" line="18" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/test/java/com/cordyceps/util/QRCodeUtilTest.java" timestamp="1551669495273">
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="60" />
+        <mark key="." line="10" column="60" />
+        <mark key="^" line="10" column="60" />
       </file>
       <file name="/fragment.js" timestamp="1543853502534">
         <mark key="[" line="0" column="0" />
@@ -633,12 +633,12 @@
         <mark key="^" line="8" column="41" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/ProductServiceImpl.java" timestamp="1549952253144">
-        <mark key="'" line="156" column="55" />
-        <mark key="[" line="138" column="36" />
-        <mark key="]" line="138" column="64" />
-        <mark key="." line="138" column="64" />
-        <mark key="^" line="138" column="64" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/ProductServiceImpl.java" timestamp="1551668947627">
+        <mark key="'" line="52" column="8" />
+        <mark key="[" line="202" column="56" />
+        <mark key="]" line="202" column="55" />
+        <mark key="." line="202" column="55" />
+        <mark key="^" line="202" column="55" />
       </file>
       <file name="/dummy.sql" timestamp="1550672268194">
         <mark key="[" line="0" column="0" />
@@ -684,9 +684,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/TransportManageController.java" timestamp="1551667940030">
         <mark key="'" line="33" column="39" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="/tpc-h.nation [@120.79.22.44]" timestamp="1545665965550">
         <mark key="[" line="0" column="0" />
@@ -721,10 +721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="6" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" />
-      <jump line="168" column="27" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" />
-      <jump line="59" column="12" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" />
-      <jump line="51" column="8" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/ProductServiceImpl.java" />
       <jump line="187" column="24" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/ProductMapper.xml" />
       <jump line="4" column="17" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/dao/ProductMapper.java" />
       <jump line="107" column="11" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/ProductServiceImpl.java" />
@@ -736,7 +732,6 @@
       <jump line="38" column="63" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" />
       <jump line="49" column="110" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" />
       <jump line="75" column="8" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" />
-      <jump line="32" column="37" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" />
       <jump line="121" column="12" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" />
       <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" />
       <jump line="23" column="13" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/ProductServiceImpl.java" />
@@ -821,49 +816,54 @@
       <jump line="15" column="4" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/QRCodeUtil.java" />
       <jump line="33" column="39" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/TransportManageController.java" />
       <jump line="96" column="8" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/TransportServiceImpl.java" />
+      <jump line="115" column="59" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" />
+      <jump line="67" column="4" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" />
+      <jump line="25" column="13" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/ProductServiceImpl.java" />
+      <jump line="32" column="12" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" />
+      <jump line="51" column="8" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/ProductServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>败</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTZXJ2ZXJSZXNwb25zZSBhZGRUcmFuc3BvcnQoSW50ZWdlciBwcm9kdWN0SWQsIFN0cmluZyBsb2NhdGlvbiwgU3RyaW5nIGxvbmdpdHVkZSwgU3RyaW5nIGxhdGl0dWRlLCBJbnRlZ2VyIHN0YXR1cykgewogICAgICAgIGlmIChwcm9kdWN0SWQgPT0gbnVsbCB8fCBTdHJpbmdVdGlscy5pc0JsYW5rKGxvY2F0aW9uKSB8fAogICAgICAgICAgICAgICAgU3RyaW5nVXRpbHMuaXNCbGFuayhsYXRpdHVkZSkgfHwgU3RyaW5nVXRpbHMuaXNCbGFuayhsb25naXR1ZGUpKSB7CiAgICAgICAgICAgIHJldHVybiBTZXJ2ZXJSZXNwb25zZS5jcmVhdGVCeUVycm9yQ29kZU1lc3NhZ2UoUmVzcG9uc2VDb2RlLklMTEVHQUxfQVJHVU1FTlQuZ2V0Q29kZSgpLCBSZXNwb25zZUNvZGUuSUxMRUdBTF9BUkdVTUVOVC5nZXREZXNjKCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSAoVXNlcikgc2Vzc2lvbi5nZXRBdHRyaWJ1dGUoQ29uc3QuQ1VSUkVOVF9VU0VSKTsKICAgICAgICBpZih1c2VyID09IG51bGwpewogICAgICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2UuY3JlYXRlQnlFcnJvckNvZGVNZXNzYWdlKFJlc3BvbnNlQ29kZS5ORUVEX0xPR0lOLmdldENvZGUoKSwgIueUqOaIt+acqueZu+W9le+8jOivt+eZu+W9leeuoeeQhuWRmCIpOwogICAgICAgIH0KICAgICAgICBpZihpVXNlclNlcnZpY2UuY2hlY2tBZG1pblJvbGUodXNlcikuaXNTdWNjZXNzKCkpewogICAgICAgICAgICAvL+Whq+WFheS4muWKoQogICAgICAgICAgICByZXR1cm4gaVByb2R1Y3RTZXJ2aWNlLmdldFByb2R1Y3REZXRhaWwocHJvZHVjdElkKTsKICAgICAgICB9ZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBTZXJ2ZXJSZXNwb25zZS5jcmVhdGVCeUVycm9yTWVzc2FnZSgi5peg5p2D6ZmQ5pON5L2cIik7CiAgICAgICAgfQogICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTZXJ2ZXJSZXNwb25zZSBnZXRRUmNvZGUoSHR0cFNlc3Npb24gc2Vzc2lvbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgicHJvZHVjdElkIikgSW50ZWdlciBwcm9kdWN0SWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0oImxvY2F0aW9uIikgU3RyaW5nIGxvY2F0aW9uLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKCJsb25naXR1ZGUiKSBTdHJpbmcgbG9uZ2l0dWRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKCJsYXRpdHVkZSIpIFN0cmluZyBsYXRpdHVkZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJzdGF0dXMiLCBkZWZhdWx0VmFsdWUgPSAiMiIpIEludGVnZXIgc3RhdHVzKSB7CiAgICAgICAgVXNlciB1c2VyID0gKFVzZXIpIHNlc3Npb24uZ2V0QXR0cmlidXRlKENvbnN0LkNVUlJFTlRfVVNFUik7CiAgICAgICAgaWYgKHVzZXIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2UuY3JlYXRlQnlFcnJvckNvZGVNZXNzYWdlKFJlc3BvbnNlQ29kZS5ORUVEX0xPR0lOLmdldENvZGUoKSwgIueUqOaIt+acqueZu+mZhu+8jOivt+eZu+W9lSIpOwogICAgICAgIH0KICAgICAgICBpZiAoaVVzZXJTZXJ2aWNlLmNoZWNrQWRtaW5Sb2xlKHVzZXIpLmlzU3VjY2VzcygpKSB7CiAgICAgICAgICAgIHJldHVybiBpVHJhbnNwb3J0U2VydmljZS4KICAgICAgICB9CiAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3JNZXNzYWdlKCLnlKjmiLfml6Dmk43kvZzmnYPpmZAiKTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3JDb2RlTWVzc2FnZShSZXNwb25zZUNvZGUuSUxMRUdBTF9BUkdVTUVOVC5nZXRDb2RlKCksIFJlc3BvbnNlQ29kZS5JTExFR0FMX0FSR1VNRU5ULmdldERlc2MoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIFNlcnZlclJlc3BvbnNlIGdldFFSY29kZShIdHRwU2Vzc2lvbiBzZXNzaW9uLCApCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTZXJ2ZXJSZXNwb25zZSBnZXRRUmNvZGUoSHR0cFNlc3Npb24gc2Vzc2lvbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSgicHJvZHVjdElkIikgSW50ZWdlciBwcm9kdWN0SWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBSZXF1ZXN0UGFyYW0oImxvY2F0aW9uIikgU3RyaW5nIGxvY2F0aW9uLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKCJsb25naXR1ZGUiKSBTdHJpbmcgbG9uZ2l0dWRlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAUmVxdWVzdFBhcmFtKCJsYXRpdHVkZSIpIFN0cmluZyBsYXRpdHVkZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJzdGF0dXMiLCBkZWZhdWx0VmFsdWUgPSAiMiIpIEludGVnZXIgc3RhdHVzKSB7CiAgICAgICAgVXNlciB1c2VyID0gKFVzZXIpIHNlc3Npb24uZ2V0QXR0cmlidXRlKENvbnN0LkNVUlJFTlRfVVNFUik7CiAgICAgICAgaWYgKHVzZXIgPT0gbnVsbCkgewogICAgICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2UuY3JlYXRlQnlFcnJvckNvZGVNZXNzYWdlKFJlc3BvbnNlQ29kZS5ORUVEX0xPR0lOLmdldENvZGUoKSwgIueUqOaIt+acqueZu+mZhu+8jOivt+eZu+W9lSIpOwogICAgICAgIH0KICAgICAgICBpZiAoaVVzZXJTZXJ2aWNlLmNoZWNrQWRtaW5Sb2xlKHVzZXIpLmlzU3VjY2VzcygpKSB7CiAgICAgICAgICAgIHJldHVybiBpVHJhbnNwb3J0U2VydmljZS4KICAgICAgICB9CiAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3JNZXNzYWdlKCLnlKjmiLfml6Dmk43kvZzmnYPpmZAiKTsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBoaW50cy5wdXQoRGVjb2RlSGludFR5cGUuUE9TU0lCTEVfRk9STUFUUywgQmFyY29kZUZvcm1hdC5RUl9DT0RFKTsK</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIAo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
