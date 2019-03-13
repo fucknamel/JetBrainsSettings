@@ -228,11 +228,11 @@
         <mark key="^" line="24" column="69" />
         <mark key="." line="24" column="69" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/QRCodeUtil.java" timestamp="1551614890508">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="47" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/QRCodeUtil.java" timestamp="1551676421740">
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="40" column="43" />
+        <mark key="." line="40" column="43" />
+        <mark key="^" line="40" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/TPCH/src/main/webapp/views/jsp/part_add.jsp" timestamp="1545721115769">
         <mark key="'" line="0" column="0" />
@@ -392,11 +392,11 @@
         <mark key="^" line="13" column="59" />
         <mark key="." line="13" column="59" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/test/java/com/cordyceps/util/QRCodeUtilTest.java" timestamp="1551674991238">
-        <mark key="[" line="16" column="37" />
-        <mark key="]" line="16" column="37" />
-        <mark key="." line="16" column="37" />
-        <mark key="^" line="16" column="37" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/test/java/com/cordyceps/util/QRCodeUtilTest.java" timestamp="1551676611969">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+        <mark key="^" line="16" column="99" />
       </file>
       <file name="/fragment.js" timestamp="1543853502534">
         <mark key="[" line="0" column="0" />
@@ -653,7 +653,7 @@
       <file name="/newshub.user [@120.79.22.44]" timestamp="1545203816030">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550114039392">
+      <file name="/Dummy.txt" timestamp="1552446190914">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/UserServiceImpl.java" timestamp="1549462216695">
@@ -831,10 +831,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>.getMsg()</text>
+        <text>http://localhost:8080</text>
       </register>
       <register name="-" type="4">
-        <text>.getMsg()</text>
+        <text>http://localhost:8080</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
