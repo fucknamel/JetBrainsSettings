@@ -81,7 +81,7 @@
       <file name="/cordyceps_transport [@47.244.141.24]" timestamp="1552540004188">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/cordyceps_user [@47.244.141.24]" timestamp="1552540003153">
+      <file name="/cordyceps_user [@47.244.141.24]" timestamp="1553097139617">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/CordycepsHub/.gitignore" timestamp="1552554872687">
@@ -130,6 +130,7 @@
       <file name="/Cucumber Java 8 Step Definition.txt.ft" timestamp="1543321246856">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/src/UI/GameStart.java" timestamp="1553098146449" />
       <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/QRCodeUtil.java" timestamp="1551676421740">
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="43" />
@@ -403,12 +404,18 @@
       <file name="/cordycepshub.cordyceps_transport [@47.244.141.24]" timestamp="1552534264173">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/.gitignore" timestamp="1553097952092">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="31" column="3" />
+        <mark key="^" line="31" column="3" />
+        <mark key="." line="31" column="3" />
+      </file>
       <file name="/fragment.java" timestamp="1552534039699">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="28" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/ProductServiceImpl.java" />
       <jump line="90" column="4" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/CategoryServiceImpl.java" />
       <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/pojo/Category.java" />
       <jump line="44" column="8" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/CategoryServiceImpl.java" />
@@ -508,6 +515,7 @@
       <jump line="39" column="0" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/ProductController.java" />
       <jump line="101" column="11" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/TransportServiceImpl.java" />
       <jump line="17" column="47" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/test/java/com/cordyceps/service/impl/TransportServiceImplTest.java" />
+      <jump line="1" column="6" filename="$USER_HOME$/IdeaProjects/phtomgo_ui/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -517,7 +525,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/CordycepsHub</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -529,7 +537,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2lnbm9yZSBpZGVhIGZpbGVzCi5pZGVhLwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -538,19 +546,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGIuZHJpdmVyTG9jYXRpb249L1VzZXJzL2xraC8ubTIvcmVwb3NpdG9yeS9teXNxbC9teXNxbC1jb25uZWN0b3ItamF2YS81LjEuNi9teXNxbC1jb25uZWN0b3ItamF2YS01LjEuNi5qYXIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ki5wcm9wZXJ0aWVzCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGIuZHJpdmVyTG9jYXRpb249L1VzZXJzL2xraC8ubTIvcmVwb3NpdG9yeS9teXNxbC9teXNxbC1jb25uZWN0b3ItamF2YS81LjEuNi9teXNxbC1jb25uZWN0b3ItamF2YS01LjEuNi5qYXIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ki5wcm9wZXJ0aWVzCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">cm9vdAo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
