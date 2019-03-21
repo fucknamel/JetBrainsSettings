@@ -24,6 +24,7 @@
       <file name="/cordycepshub.cordyceps_product [@47.244.141.24]" timestamp="1552560354168">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/src/UI/ChessUI.java" timestamp="1553141754199" />
       <file name="/cordycepshub.cordyceps_category [@47.244.141.24]" timestamp="1552560356583">
         <mark key="[" line="0" column="0" />
       </file>
@@ -84,13 +85,6 @@
       <file name="/cordyceps_user [@47.244.141.24]" timestamp="1553097139617">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/.gitignore" timestamp="1552554872687">
-        <mark key="'" line="33" column="8" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="33" column="8" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="/tpc-h.customer [@120.79.22.44]" timestamp="1545665864161">
         <mark key="[" line="0" column="0" />
       </file>
@@ -130,7 +124,6 @@
       <file name="/Cucumber Java 8 Step Definition.txt.ft" timestamp="1543321246856">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/src/UI/GameStart.java" timestamp="1553098146449" />
       <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/util/QRCodeUtil.java" timestamp="1551676421740">
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="43" />
@@ -404,14 +397,14 @@
       <file name="/cordycepshub.cordyceps_transport [@47.244.141.24]" timestamp="1552534264173">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/.gitignore" timestamp="1553097952092">
+      <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/.gitignore" timestamp="1553140806943">
         <mark key="'" line="0" column="6" />
-        <mark key="[" line="30" column="6" />
-        <mark key="]" line="31" column="3" />
-        <mark key="^" line="31" column="3" />
-        <mark key="." line="31" column="3" />
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="27" column="5" />
+        <mark key="^" line="29" column="2" />
+        <mark key="." line="27" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1552534039699">
+      <file name="/fragment.java" timestamp="1553141720857">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -521,8 +514,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
