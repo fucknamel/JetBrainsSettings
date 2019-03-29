@@ -15,7 +15,7 @@
       <file name="/Activity.txt.ft" timestamp="1543321279520">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1550122098521">
+      <file name="/a.dummy" timestamp="1553867835563">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/cordycepshub.cordyceps_product [@47.244.141.24]" timestamp="1552560354168">
@@ -55,6 +55,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="114" column="33" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49e31018-f574-4880-9225-7be0ec688628/console_2.sql" timestamp="1545640552144">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/tpc-h.supplier [@120.79.22.44]" timestamp="1545630499554">
         <mark key="[" line="0" column="0" />
@@ -175,11 +178,11 @@
       <file name="/JavaScript Console" timestamp="1543853814387">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/src/main/java/UI/GameStart.java" timestamp="1553179106087">
-        <mark key="[" line="312" column="38" />
-        <mark key="]" line="312" column="38" />
-        <mark key="^" line="312" column="38" />
-        <mark key="." line="312" column="38" />
+      <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/src/main/java/UI/GameStart.java" timestamp="1553869229548">
+        <mark key="[" line="45" column="68" />
+        <mark key="]" line="45" column="67" />
+        <mark key="." line="45" column="67" />
+        <mark key="^" line="45" column="67" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1543321509823">
         <mark key="[" line="0" column="0" />
@@ -202,7 +205,7 @@
       <file name="/cordyceps.cordyceps_product [@120.79.22.44]" timestamp="1550481851011">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49e31018-f574-4880-9225-7be0ec688628/console_2.sql" timestamp="1545640552144">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9dfbcad7-0423-403c-985e-d001f8c7742c/console.sql" timestamp="1552555981126">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mmall_learning.mmall_cart [@localhost]" timestamp="1543986462028">
@@ -214,9 +217,6 @@
         <mark key="]" line="26" column="37" />
         <mark key="^" line="26" column="37" />
         <mark key="." line="26" column="37" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9dfbcad7-0423-403c-985e-d001f8c7742c/console.sql" timestamp="1552555981126">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/webapp/index.jsp" timestamp="1553158573758">
         <mark key="[" line="6" column="26" />
@@ -377,43 +377,43 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>valueOf</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>valueOf</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImh1bnRlcuiOt+iDnOasoeaVsO+8miIgKyBHYW1lU3RhcnQuaHVudGVyV2luKTsK</text>
+      <register name="0" type="4">
+        <text>//对手下的棋子数字</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5NYXA7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnNlcnZsZXQuaHR0cC5IdHRwU2VydmxldFJlcXVlc3Q7Cg==</text>
+        <text encoding="base64">ICAgIC8q6KOB5YikKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLm11bHRpcGFydC5NdWx0aXBhcnRGaWxlOwo=</text>
+        <text encoding="base64">ICAgIC8qKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXF1ZXN0UGFyYW07Cg==</text>
+        <text encoding="base64">ICAgIC8qKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jb3JkeWNlcHMudXRpbC5Qcm9wZXJ0aWVzVXRpbDsKaW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmNvbGxlY3QuTWFwczsK</text>
+        <text encoding="base64">Ly8gICAgICAgIOS8mui+k+WHuuWIsGZpbmFsLm91dOaWh+S7tu+8jOWwseayoeW/heimgeS9v+eUqEZpbGXkuoYKLy8gICAgICAgIFN0cmluZyByZXN1bHQgPSAi5oiQ5LqG77yBXG7mnIDnu4jojrfog5xcbmh1bnRlcuiOt+iDnOasoeaVsDogIiArIEdhbWVTdGFydC5odW50ZXJXaW4KLy8gICAgICAgICAgICAgICAgKyAiXG5wbGF5ZXLojrfog5zmrKHmlbA6ICIgKyBHYW1lU3RhcnQucGxheWVyV2luICsgIlxuIjsKLy8gICAgICAgIEZpbGVVdGlscy53cml0ZVRvRmlsZShyZXN1bHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jb3JkeWNlcHMuY29tbW9uLlJlc3BvbnNlQ29kZTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAvL2ZyYW1lLmdldENvbnRlbnRQYW5lKCkuc2V0TGF5b3V0KG51bGwpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3JNZXNzYWdlKCLml6Dmk43kvZzmnYPpmZAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBmaW5pc2hHYW1lKCk7IC8v5ri45oiP57uT5p2fCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaVVzZXJTZXJ2aWNlLmNoZWNrQWRtaW5Sb2xlKHVzZXIpLmlzU3VjY2VzcygpKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
