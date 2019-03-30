@@ -83,8 +83,11 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1543321245271">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1553946733501">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1553952271530">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/src/ISMCTS/State.java" timestamp="1553145354587">
         <mark key="[" line="141" column="0" />
@@ -204,7 +207,7 @@
       <file name="/newshub.user [@120.79.22.44]" timestamp="1545203816030">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1553946673658">
+      <file name="/dummy.sql" timestamp="1553952333416">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1552555557729">
