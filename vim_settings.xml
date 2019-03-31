@@ -33,7 +33,7 @@
       <file name="/cordycepshub.cordyceps_category [@47.244.141.24]" timestamp="1553946634782">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/cordyceps_product [@47.244.141.24]" timestamp="1553958445283">
+      <file name="/cordyceps_product [@47.244.141.24]" timestamp="1554035415318">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/src/main/java/util/FileUtils.java" timestamp="1553153516096">
@@ -51,6 +51,12 @@
         <mark key="]" line="58" column="36" />
         <mark key="." line="58" column="36" />
         <mark key="^" line="58" column="36" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/src/main/java/ISMCTS/ISMCTS.java" timestamp="1554036500845">
+        <mark key="[" line="121" column="8" />
+        <mark key="]" line="121" column="11" />
+        <mark key="." line="121" column="11" />
+        <mark key="^" line="121" column="11" />
       </file>
       <file name="/tpc-h.part [@120.79.22.44]" timestamp="1545666035423">
         <mark key="[" line="0" column="0" />
@@ -108,6 +114,12 @@
       </file>
       <file name="/history [@120.79.22.44]" timestamp="1544762761336">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/src/main/java/ISMCTS/History.java" timestamp="1554035683143">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1543321246330">
         <mark key="[" line="0" column="0" />
@@ -227,6 +239,12 @@
       <file name="/dummy.sql" timestamp="1554024537386">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/src/main/java/ISMCTS/Node.java" timestamp="1554036883977">
+        <mark key="[" line="38" column="44" />
+        <mark key="]" line="38" column="44" />
+        <mark key="^" line="11" column="3" />
+        <mark key="." line="38" column="44" />
+      </file>
       <file name="/Dummy.txt" timestamp="1552555557729">
         <mark key="[" line="0" column="0" />
       </file>
@@ -295,6 +313,12 @@
       </file>
       <file name="/cordycepshub.cordyceps_transport [@47.244.141.24]" timestamp="1552534264173">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/src/main/java/ISMCTS/State.java" timestamp="1554036209882">
+        <mark key="[" line="126" column="20" />
+        <mark key="]" line="126" column="72" />
+        <mark key="." line="126" column="72" />
+        <mark key="^" line="126" column="72" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/.gitignore" timestamp="1553152569694">
         <mark key="'" line="0" column="6" />
@@ -427,11 +451,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkodmEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Action</text>
       </register>
       <register name="-" type="4">
-        <text>07e3a80a-4472-42c8-812e-8d0c5a0bc68d.jpg</text>
+        <text>Action</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -440,28 +464,28 @@
         <text>//对手下的棋子数字</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkodmEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKCLnu5nogIHlrZDlhrIiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9TeXN0ZW0ub3V0LnByaW50bG4oImdldGFjdGlvbiBmaW5pc2giKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbih0aGlzLnZpc2l0cyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSAoVXNlcikgaVVzZXJTZXJ2aWNlLmdldERpZ2dlckluZm9ybWF0aW9uKGRpZ2dlcklkKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL2NoaWxkcmVuID0gbnVsbDsKCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLnNldFJvbGUoQ29uc3QpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHdpbnM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IEdhbWUuQ2hlc3NCb2FyZDsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
