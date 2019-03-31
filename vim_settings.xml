@@ -24,7 +24,7 @@
       <file name="/a.dummy" timestamp="1553867835563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/cordycepshub.cordyceps_product [@47.244.141.24]" timestamp="1554020124376">
+      <file name="/cordycepshub.cordyceps_product [@47.244.141.24]" timestamp="1554024536326">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mmall_learning.mmall_product [@localhost]" timestamp="1548128214537">
@@ -55,12 +55,12 @@
       <file name="/tpc-h.part [@120.79.22.44]" timestamp="1545666035423">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/UserController.java" timestamp="1553158256977">
-        <mark key="'" line="111" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="114" column="33" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/UserController.java" timestamp="1554023997060">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="61" column="45" />
+        <mark key="]" line="61" column="46" />
+        <mark key="^" line="62" column="16" />
+        <mark key="." line="61" column="46" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/49e31018-f574-4880-9225-7be0ec688628/console_2.sql" timestamp="1545640552144">
         <mark key="[" line="0" column="0" />
@@ -83,7 +83,7 @@
       <file name="/cordyceps_user [@120.79.22.44]" timestamp="1549699965680">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/cordycepshub.cordyceps_user [@47.244.141.24]" timestamp="1553946668375">
+      <file name="/cordycepshub.cordyceps_user [@47.244.141.24]" timestamp="1554023720292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1543321245271">
@@ -224,11 +224,16 @@
       <file name="/newshub.user [@120.79.22.44]" timestamp="1545203816030">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1554020127424">
+      <file name="/dummy.sql" timestamp="1554024537386">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1552555557729">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/UserServiceImpl.java" timestamp="1554023791058">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/phtomgo/src/main/java/com/bot/ISMCTbot.java" timestamp="1553151128690">
         <mark key="[" line="6" column="7" />
@@ -422,8 +427,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>07e3a80a-4472-42c8-812e-8d0c5a0bc68d.jpg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkodmEpCg==</text>
       </register>
       <register name="-" type="4">
         <text>07e3a80a-4472-42c8-812e-8d0c5a0bc68d.jpg</text>
@@ -435,29 +440,28 @@
         <text>//对手下的棋子数字</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkodmEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbigi6KaB5re75Yqg55qE5L2N572u5pyJ5Yeg5Liq77yaIit1cGRhdGVjb29yZC5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKCJwbGF5ZXI6Iit0aGlzLnBsYXllcisiICB4OiIrdGVtcCAvIDEwKyIgIHk6Iit0ZW1wJTEwKTsK</text>
+        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSAoVXNlcikgaVVzZXJTZXJ2aWNlLmdldERpZ2dlckluZm9ybWF0aW9uKGRpZ2dlcklkKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInBsYXllcjoiK3RoaXMucGxheWVyKyIgICBjb3VudDoiK0dhbWVTdGFydC5jb3VudCsiICAgS25vd25PcHBvbmVudENoZXNzQ291bnQ6IitLbm93bk9wcG9uZW50Q2hlc3NDb3VudCk7CiAgICAgICAgZm9yIChpbnQgaSA9IDE7IGkgPD0gOTsgaSsrKSB7CiAgICAgICAgICAgIGZvciAoaW50IGogPSAxOyBqIDw9IDk7IGorKykgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCh0aGlzLmtub3duTGlzdFtpXVtqXSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7CiAgICAgICAgfQogICAgICAgICov</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbigiIOW9k+WJjemcgOimgeaji+WtkOaVsO+8miIrbmVlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLnNldFJvbGUoQ29uc3QpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>;
-        int</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDaGVzc0JvYXJkIGJvYXJkID0gbmV3IENoZXNzQm9hcmQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
