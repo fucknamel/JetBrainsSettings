@@ -284,12 +284,12 @@
         <mark key="." line="11" column="14" />
         <mark key="^" line="81" column="64" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/ProductServiceImpl.java" timestamp="1554289576340">
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/service/impl/ProductServiceImpl.java" timestamp="1554294215477">
         <mark key="'" line="118" column="8" />
-        <mark key="[" line="198" column="11" />
-        <mark key="]" line="198" column="94" />
-        <mark key="^" line="203" column="80" />
-        <mark key="." line="206" column="0" />
+        <mark key="[" line="211" column="27" />
+        <mark key="]" line="211" column="45" />
+        <mark key="^" line="211" column="45" />
+        <mark key="." line="211" column="45" />
       </file>
       <file name="/newshub.user [@120.79.22.44]" timestamp="1545203816030">
         <mark key="[" line="0" column="0" />
@@ -477,10 +477,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>用户权限不够，无法查看</text>
+        <text>productListVoList</text>
       </register>
       <register name="-" type="4">
-        <text>用户权限不够，无法查看</text>
+        <text>productListVoList</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -489,34 +489,34 @@
         <text>ServerResponse getProductListByDiggerId(Integer diggerId, int pageNum, int pageSize)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJkaWdnZXJJZCIsIHJlcXVpcmVkID0gZmFsc2UpIEludGVnZXIgZGlnZ2VySWQsCg==</text>
+        <text encoding="base64">ICAgICAgICBQYWdlSW5mbyBwYWdlUmVzdWx0ID0gbmV3IFBhZ2VJbmZvKHByb2R1Y3RMaXN0KTsK</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlUmVzdWx0LnNldExpc3QocHJvZHVjdExpc3RWb0xpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJkaWdnZXJJZCIsIHJlcXVpcmVkID0gZmFsc2UpIEludGVnZXIgZGlnZ2VySWQsCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwYWdlUmVzdWx0LnNldExpc3QocHJvZHVjdExpc3RWb0xpc3QpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">TGlzdDxQcm9kdWN0TGlzdFZvPiBwcm9kdWN0TGlzdFZvTGlzdCA9IExpc3RzLm5ld0FycmF5TGlzdCgpOwogICAgICAgIGZvciAoUHJvZHVjdCBwcm9kdWN0SXRlbSA6IHByb2R1Y3RMaXN0KXsKICAgICAgICAgICAgUHJvZHVjdExpc3RWbyBwcm9kdWN0TGlzdFZvID0gYXNzZW1ibGVQcm9kdWN0TGlzdFZvKHByb2R1Y3RJdGVtKTsKICAgICAgICAgICAgcHJvZHVjdExpc3RWb0xpc3QuYWRkKHByb2R1Y3RMaXN0Vm8pOwogICAgICAgIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CiAgICAgICAgLy8g5oyJ54Wn5pu05paw5pe26Ze05LuO5aSn5Yiw5bCP5o6S5bqPCiAgICAgICAgdHJhbnNwb3J0TGlzdFZvTGlzdC5zb3J0KChUcmFuc3BvcnRMaXN0Vm8gbzEsIFRyYW5zcG9ydExpc3RWbyBvMiktPm8yLmdldFVwZGF0ZVRpbWUoKS5jb21wYXJlVG8obzEuZ2V0VXBkYXRlVGltZSgpKSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5RXJyb3JNZXNzYWdlKCLkvKDlhaXlj4LmlbDplJnor68iKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdFRpdGxlID0gbmV3IFN0cmluZ0J1aWxkZXIoKS5hcHBlbmQoIiUiKS5hcHBlbmQocHJvZHVjdFRpdGxlKS5hcHBlbmQoIiUiKS50b1N0cmluZygpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
