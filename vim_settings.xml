@@ -275,12 +275,12 @@
       <file name="/mmall_learning.mmall_cart [@localhost]" timestamp="1543986462028">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/ProductController.java" timestamp="1554018028093">
-        <mark key="'" line="28" column="4" />
-        <mark key="[" line="28" column="68" />
-        <mark key="]" line="28" column="70" />
-        <mark key="^" line="28" column="70" />
-        <mark key="." line="28" column="70" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/portal/ProductController.java" timestamp="1554287856120">
+        <mark key="'" line="31" column="4" />
+        <mark key="[" line="47" column="39" />
+        <mark key="]" line="47" column="51" />
+        <mark key="^" line="47" column="51" />
+        <mark key="." line="47" column="51" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/webapp/index.jsp" timestamp="1553158573758">
         <mark key="[" line="6" column="26" />
@@ -472,27 +472,49 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>GET</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>GET</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>@RequestParam(value = &quot;keyword&quot;, required = false) String keyword,
+                                  @RequestParam(value = &quot;categoryId&quot;, required = false) Integer categoryId,
+                                  @RequestParam(value = &quot;pageNum&quot;, defaultValue = &quot;1&quot;) int pageNum,
+                                  @RequestParam(value = &quot;pageSize&quot;, defaultValue = &quot;10&quot;) int pageSize,
+                                  @RequestParam(value = &quot;orderBy&quot;, defaultValue = &quot;&quot;) String orderBy</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQFJlcXVlc3RQYXJhbSh2YWx1ZSA9ICJjYXRlZ29yeUlkIiwgcmVxdWlyZWQgPSBmYWxzZSkgSW50ZWdlciBjYXRlZ29yeUlkLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gaVVzZXJTZXJ2aWNlLmdldERpZ2dlckluZm9ybWF0aW9uKGRpZ2dlcklkKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>public Date getUpdateTime() {
         return updateTime;
     }
@@ -500,24 +522,6 @@
     public void setUpdateTime(Date updateTime) {
         this.updateTime = updateTime;
     }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">Q29sbGVjdGlvbnMuc29ydCh0cmFuc3BvcnRMaXN0Vm9MaXN0LCBuZXcgQ29tcGFyYXRvcjxUcmFuc3BvcnRMaXN0Vm8+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIGludCBjb21wYXJlKFRyYW5zcG9ydExpc3RWbyBvMSwgVHJhbnNwb3J0TGlzdFZvIG8yKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbzIuZ2V0VXBkYXRlVGltZSgpLmNvbXBhcmVUbyhvMS5nZXRVcGRhdGVUaW1lKCkpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9TeXN0ZW0ub3V0LnByaW50bG4oIuaJqeWxleWujOavlSIpOwogICAgICAgICAgICAvL3NpbXVsYXRlCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
