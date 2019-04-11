@@ -81,11 +81,11 @@
       <file name="/cordyceps_transport [@47.244.141.24]" timestamp="1552540004188">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" timestamp="1554997716552">
-        <mark key="[" line="60" column="51" />
-        <mark key="]" line="60" column="56" />
-        <mark key="." line="60" column="56" />
-        <mark key="^" line="60" column="56" />
+      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/java/com/cordyceps/controller/backend/ProductManageController.java" timestamp="1554999465053">
+        <mark key="[" line="56" column="44" />
+        <mark key="]" line="57" column="40" />
+        <mark key="." line="57" column="40" />
+        <mark key="^" line="57" column="40" />
       </file>
       <file name="/cordyceps_user [@47.244.141.24]" timestamp="1553097139617">
         <mark key="[" line="0" column="0" />
@@ -513,7 +513,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmkK</text>
       </register>
       <register name="-" type="4">
         <text>file</text>
@@ -525,36 +525,36 @@
         <text>ServerResponse getProductListByDiggerId(Integer diggerId, int pageNum, int pageSize)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmkK</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUocGF0aCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUocGF0aCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="4">
         <text>File file = new File(path);
 
             String targetFileName = iFileService.upload(file, path);</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBmaWxlU2VydmljZS51cGxvYWRMb2NhbEZpbGUoZmlsZSwgcGF0aCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy/mlofku7blt7Lnu4/kuIrkvKDmiJDlip/kuoYKICAgICAgICAgICAgZmlsZS50cmFuc2ZlclRvKHRhcmdldEZpbGUpOwoK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBGaWxlIHRhcmdldEZpbGUgPSBmaWxlLnJlbmFtZVRvKCk7Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogICAgcHVibGljIHN0YXRpYyB2b2lkIHJlbmFtZUZpbGUoU3RyaW5nIHBhdGgsIFN0cmluZyBvbGRuYW1lLCBTdHJpbmcgbmV3bmFtZSkgewogICAgICAgIGlmICghb2xkbmFtZS5lcXVhbHMobmV3bmFtZSkpIHsKICAgICAgICAgICAgLy/mlrDnmoTmlofku7blkI3lkozku6XliY3mlofku7blkI3kuI3lkIzml7Ys5omN5pyJ5b+F6KaB6L+b6KGM6YeN5ZG95ZCNIAogICAgICAgICAgICBGaWxlIG9sZGZpbGUgPSBuZXcgRmlsZShwYXRoICsgIi8iICsgb2xkbmFtZSk7CiAgICAgICAgICAgIEZpbGUgbmV3ZmlsZSA9IG5ldyBGaWxlKHBhdGggKyAiLyIgKyBuZXduYW1lKTsKICAgICAgICAgICAgaWYgKCFvbGRmaWxlLmV4aXN0cygpKSB7CiAgICAgICAgICAgICAgICAvL+mHjeWRveWQjeaWh+S7tuS4jeWtmOWcqAogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChuZXdmaWxlLmV4aXN0cygpKSB7CiAgICAgICAgICAgICAgICAvL+iLpeWcqOivpeebruW9leS4i+W3sue7j+acieS4gOS4quaWh+S7tuWSjOaWsOaWh+S7tuWQjeebuOWQjO+8jOWImeS4jeWFgeiuuOmHjeWRveWQjSAKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXduYW1lICsgIuW3sue7j+WtmOWcqO+8gSIpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgb2xkZmlsZS5yZW5hbWVUbyhuZXdmaWxlKTsKICAgICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigi5paw5paH5Lu25ZCN5ZKM5pen5paH5Lu25ZCN55u45ZCMLi4uIik7CiAgICAgICAgfQogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
