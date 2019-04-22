@@ -15,7 +15,7 @@
       <file name="/a.dummy" timestamp="1554038548044">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/cordycepshub.cordyceps_product [@47.244.141.24]" timestamp="1554994084866">
+      <file name="/cordycepshub.cordyceps_product [@47.244.141.24]" timestamp="1555029513778">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/cordycepshub.cordyceps_category [@47.244.141.24]" timestamp="1554123835892">
@@ -54,11 +54,8 @@
       <file name="/cordycepshub.cordyceps_user [@47.244.141.24]" timestamp="1554290137617">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1554290011098">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1555029996330">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="39" />
-        <mark key="^" line="0" column="39" />
-        <mark key="." line="0" column="39" />
       </file>
       <file name="/project_grass.chongcao_file [project_grass@localhost]" timestamp="1543157433427">
         <mark key="[" line="0" column="0" />
@@ -191,7 +188,6 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CordycepsHub/src/test/java/com/cordyceps/util/QRCodeUtilTest.java" timestamp="1554996315828" />
       <file name="/fragment.js" timestamp="1543853502534">
         <mark key="[" line="0" column="0" />
       </file>
@@ -318,7 +314,7 @@
       <file name="/newshub.user [@120.79.22.44]" timestamp="1545203816030">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1554994812513">
+      <file name="/dummy.sql" timestamp="1555029517325">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/src/main/java/ISMCTS/Node.java" timestamp="1554038031326">
@@ -513,7 +509,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmkK</text>
+        <text encoding="base64">IQo=</text>
       </register>
       <register name="-" type="4">
         <text>file</text>
@@ -525,36 +521,36 @@
         <text>ServerResponse getProductListByDiggerId(Integer diggerId, int pageNum, int pageSize)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmkK</text>
+        <text encoding="base64">IQo=</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">MzEyMwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUocGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUocGF0aCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="4">
         <text>File file = new File(path);
 
             String targetFileName = iFileService.upload(file, path);</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBmaWxlU2VydmljZS51cGxvYWRMb2NhbEZpbGUoZmlsZSwgcGF0aCk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/mlofku7blt7Lnu4/kuIrkvKDmiJDlip/kuoYKICAgICAgICAgICAgZmlsZS50cmFuc2ZlclRvKHRhcmdldEZpbGUpOwoK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIHRhcmdldEZpbGUgPSBmaWxlLnJlbmFtZVRvKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>

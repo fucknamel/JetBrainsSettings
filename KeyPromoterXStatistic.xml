@@ -102,7 +102,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'⌘⌫'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>16</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -110,7 +110,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'⌘⌫'</ShortCut>
           <Description>Delete Rows</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -542,7 +542,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>64</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
