@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
+      <mapping ext="c-" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
