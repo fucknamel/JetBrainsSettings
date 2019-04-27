@@ -18,11 +18,11 @@
       <file name="/cordycepshub.cordyceps_product [@47.244.141.24]" timestamp="1555029513778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Scan.java" timestamp="1556348334812">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="39" />
-        <mark key="." line="7" column="42" />
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Scan.java" timestamp="1556349742784">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="11" />
+        <mark key="^" line="10" column="23" />
+        <mark key="." line="6" column="11" />
       </file>
       <file name="/cordycepshub.cordyceps_category [@47.244.141.24]" timestamp="1554123835892">
         <mark key="[" line="0" column="0" />
@@ -532,11 +532,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>char</text>
       </register>
       <register name="-" type="4">
-        <text>Const.sourceFile.length()</text>
+        <text>char</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -551,28 +551,28 @@
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBjaGFyIGdldE5leHRDaGFyKCl7CiAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNoYXIgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyBjaGFyIGdldE5leHRDaGFyKCl7CiAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNoYXIgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IENvbW1vbjsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IQo=</text>
+        <text encoding="base64">aW1wb3J0IENvbW1vbjsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
