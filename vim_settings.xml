@@ -18,11 +18,11 @@
       <file name="/cordycepshub.cordyceps_product [@47.244.141.24]" timestamp="1555029513778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Scan.java" timestamp="1556352593059">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="30" />
-        <mark key="^" line="10" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Scan.java" timestamp="1556353216536">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="27" />
+        <mark key="." line="22" column="27" />
+        <mark key="^" line="22" column="27" />
       </file>
       <file name="/cordycepshub.cordyceps_category [@47.244.141.24]" timestamp="1554123835892">
         <mark key="[" line="0" column="0" />
@@ -539,7 +539,9 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>temp</text>
+        <text>finally {
+                return (char)-1;
+            }</text>
       </register>
       <register name="-" type="4">
         <text>temp</text>
@@ -550,35 +552,37 @@
       <register name="0" type="4">
         <text>ServerResponse getProductListByDiggerId(Integer diggerId, int pageNum, int pageSize)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAoY2hhciktMTsK</text>
+      <register name="1" type="4">
+        <text>finally {
+                return (char)-1;
+            }</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHgK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBpbnQgbGluZU51bSA9IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAoY2hhciktMTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRlbXAgPSBudWxsOwogICAgICAgICAgICBpZiAoKHRlbXAgPSBVdGlsLmJ1ZmZlcmVkUmVhZGVyLnJlYWRMaW5lKCkpICE9IG51bGwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRlbXAgPSBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRlbXAgPSBudWxsOwogICAgICAgICAgICBpZiAoKHRlbXAgPSBVdGlsLmJ1ZmZlcmVkUmVhZGVyLnJlYWRMaW5lKCkpICE9IG51bGwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICB9ZWxzZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRlbXAgPSBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
