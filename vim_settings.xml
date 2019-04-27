@@ -18,11 +18,11 @@
       <file name="/cordycepshub.cordyceps_product [@47.244.141.24]" timestamp="1555029513778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Scan.java" timestamp="1556347278361">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="10" />
-        <mark key="^" line="2" column="10" />
-        <mark key="." line="2" column="10" />
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Scan.java" timestamp="1556348334812">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="7" column="42" />
       </file>
       <file name="/cordycepshub.cordyceps_category [@47.244.141.24]" timestamp="1554123835892">
         <mark key="[" line="0" column="0" />
@@ -203,12 +203,12 @@
       <file name="/fragment.js" timestamp="1543853502534">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Const.java" timestamp="1556113842074">
-        <mark key="'" line="15" column="52" />
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="15" column="52" />
-        <mark key="." line="15" column="52" />
-        <mark key="^" line="15" column="52" />
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Const.java" timestamp="1556348145260">
+        <mark key="'" line="20" column="52" />
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="/mmall_learning.mmall_product [@localhost]" timestamp="1548128214537">
         <mark key="[" line="0" column="0" />
@@ -533,10 +533,10 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>Const.TokenType</text>
+        <text>Const.sourceFile.length()</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -545,34 +545,34 @@
         <text>ServerResponse getProductListByDiggerId(Integer diggerId, int pageNum, int pageSize)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IENvbW1vbjsKCg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBjaGFyIGdldE5leHRDaGFyKCl7CiAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IQo=</text>
+        <text encoding="base64">ICAgIGNoYXIgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MzEyMwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUocGF0aCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IENvbW1vbjsKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IQo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
