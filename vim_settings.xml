@@ -18,8 +18,11 @@
       <file name="/cordycepshub.cordyceps_product [@47.244.141.24]" timestamp="1555029513778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Scan.java" timestamp="1556113589082">
-        <mark key="[" line="0" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Scan.java" timestamp="1556347278361">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+        <mark key="." line="2" column="10" />
       </file>
       <file name="/cordycepshub.cordyceps_category [@47.244.141.24]" timestamp="1554123835892">
         <mark key="[" line="0" column="0" />
@@ -529,11 +532,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IFdSSVRFLA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFdSSVRFLA==</text>
+        <text>Const.TokenType</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -542,36 +545,34 @@
         <text>ServerResponse getProductListByDiggerId(Integer diggerId, int pageNum, int pageSize)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IENvbW1vbjsKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MzEyMwo=</text>
+        <text encoding="base64">aW1wb3J0IENvbW1vbjsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmkK</text>
+        <text encoding="base64">IQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">MzEyMwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUocGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>File file = new File(path);
-
-            String targetFileName = iFileService.upload(file, path);</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUocGF0aCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlU2VydmljZS51cGxvYWRMb2NhbEZpbGUoZmlsZSwgcGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
