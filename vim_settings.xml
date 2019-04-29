@@ -245,11 +245,11 @@
       <file name="/Arquillian JUnit Test Class.txt.ft" timestamp="1543321246719">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Main.java" timestamp="1556441866596">
-        <mark key="[" line="12" column="48" />
-        <mark key="]" line="12" column="46" />
-        <mark key="." line="12" column="46" />
-        <mark key="^" line="12" column="46" />
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Main.java" timestamp="1556528422747">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1543321245271">
         <mark key="[" line="0" column="0" />
@@ -553,7 +553,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Lyog5omT5Y2w5Lik5Liq5pW05pWw55qE5pyA5aSn5YWs5Zug5a2QICovCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>sourcePath</text>
@@ -565,34 +565,34 @@
         <text encoding="base64">Lyog5omT5Y2w5Lik5Liq5pW05pWw55qE5pyA5aSn5YWs5Zug5a2QICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Lyog5omT5Y2w5Lik5Liq5pW05pWw55qE5pyA5aSn5YWs5Zug5a2QICovCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgVXRpbC5nZXRGaWxlKCIvVXNlcnMvbGtoL0lkZWFQcm9qZWN0cy9DTWludXNDb21waWxlci9zcmMvU0FNUExFLkMtIik7CiAgICAgICAgICAgIGZsYWdFT0YgPSBmYWxzZTsKICAgICAgICAgICAgbGluZVBvcy0tOwogICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Lyog5omT5Y2w5Lik5Liq5pW05pWw55qE5pyA5aSn5YWs5Zug5a2QICovCgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgVXRpbC5nZXRGaWxlKCIvVXNlcnMvbGtoL0lkZWFQcm9qZWN0cy9DTWludXNDb21waWxlci9zcmMvU0FNUExFLkMtIik7CiAgICAgICAgICAgIGZsYWdFT0YgPSBmYWxzZTsKICAgICAgICAgICAgbGluZVBvcy0tOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgZmxhZ0VPRiA9IGZhbHNlOwogICAgICAgICAgICBsaW5lUG9zLS07CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgZmxhZ0VPRiA9IGZhbHNlOwogICAgICAgICAgICBsaW5lUG9zLS07CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmxhZ0VPRilyZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
