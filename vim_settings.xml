@@ -18,12 +18,12 @@
       <file name="/cordycepshub.cordyceps_product [@47.244.141.24]" timestamp="1555029513778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Scan.java" timestamp="1556439389329">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="14" column="53" />
-        <mark key="]" line="14" column="53" />
-        <mark key="." line="14" column="53" />
-        <mark key="^" line="14" column="53" />
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Scan.java" timestamp="1556527710008">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="171" column="86" />
+        <mark key="]" line="172" column="38" />
+        <mark key="." line="172" column="38" />
+        <mark key="^" line="172" column="38" />
       </file>
       <file name="/cordycepshub.cordyceps_category [@47.244.141.24]" timestamp="1554123835892">
         <mark key="[" line="0" column="0" />
@@ -245,11 +245,11 @@
       <file name="/Arquillian JUnit Test Class.txt.ft" timestamp="1543321246719">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Main.java" timestamp="1556435752687">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="26" />
-        <mark key="." line="10" column="26" />
-        <mark key="^" line="10" column="26" />
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Main.java" timestamp="1556441866596">
+        <mark key="[" line="12" column="48" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="46" />
+        <mark key="^" line="12" column="46" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1543321245271">
         <mark key="[" line="0" column="0" />
@@ -257,7 +257,7 @@
       <file name="/history [@120.79.22.44]" timestamp="1544762761336">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Util.java" timestamp="1556439676702">
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Util.java" timestamp="1556441760760">
         <mark key="[" line="68" column="53" />
         <mark key="]" line="68" column="55" />
         <mark key="." line="68" column="55" />
@@ -435,18 +435,18 @@
         <mark key="^" line="124" column="28" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/SAMPLE.C-" timestamp="1556439782547">
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/SAMPLE.C-" timestamp="1556442234978">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
       </file>
       <file name="/fragment.java" timestamp="1554996295958">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="10" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
       <jump line="53" column="16" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
       <jump line="54" column="8" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
       <jump line="61" column="6" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
@@ -546,56 +546,53 @@
       <jump line="36" column="43" filename="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Scan.java" />
       <jump line="209" column="0" filename="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Scan.java" />
       <jump line="32" column="0" filename="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Scan.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/CMinusCompiler/src/SAMPLE.C-" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>Unknown token</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Lyog5omT5Y2w5Lik5Liq5pW05pWw55qE5pyA5aSn5YWs5Zug5a2QICovCgoK</text>
       </register>
       <register name="-" type="4">
-        <text>Unknown token</text>
+        <text>sourcePath</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlV3JpdGVyLndyaXRlKCIgICIgKyBudW0gKyAiOiBVbmtub3duIHRva2VuXG4iKTsK</text>
+        <text encoding="base64">Lyog5omT5Y2w5Lik5Liq5pW05pWw55qE5pyA5aSn5YWs5Zug5a2QICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxlV3JpdGVyLndyaXRlKCIgICIgKyBudW0gKyAiOiBFUlJPUiwgIiArIHRva2VuU3RyaW5nICsgIlxuIik7Cg==</text>
+        <text encoding="base64">Lyog5omT5Y2w5Lik5Liq5pW05pWw55qE5pyA5aSn5YWs5Zug5a2QICovCgoK</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgVXRpbC5nZXRGaWxlKCIvVXNlcnMvbGtoL0lkZWFQcm9qZWN0cy9DTWludXNDb21waWxlci9zcmMvU0FNUExFLkMtIik7CiAgICAgICAgICAgIGZsYWdFT0YgPSBmYWxzZTsKICAgICAgICAgICAgbGluZVBvcy0tOwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaW5lTnVtKys7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>if (Scan.flagEOF) {
-                            isSave = false;
-                            currentToken = Const.TokenType.ENDFILE;
-                            break;
-                        }</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgZmxhZ0VPRiA9IGZhbHNlOwogICAgICAgICAgICBsaW5lUG9zLS07CiAgICAgICAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlsLmZpbGVXcml0ZXIuY2xvc2UoKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZmxhZ0VPRilyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
