@@ -454,7 +454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="16" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
       <jump line="54" column="8" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
       <jump line="61" column="6" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
       <jump line="76" column="16" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/CategoryMapper.xml" />
@@ -554,6 +553,7 @@
       <jump line="209" column="0" filename="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Scan.java" />
       <jump line="32" column="0" filename="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Scan.java" />
       <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/CMinusCompiler/src/SAMPLE.C-" />
+      <jump line="12" column="26" filename="$USER_HOME$/IdeaProjects/PlantomWheel-master/src/main/java/sample/Main.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
