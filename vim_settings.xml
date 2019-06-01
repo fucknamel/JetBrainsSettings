@@ -229,12 +229,12 @@
       <file name="/fragment.js" timestamp="1543853502534">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Const.java" timestamp="1559377127653">
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Const.java" timestamp="1559381145944">
         <mark key="'" line="21" column="52" />
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="25" column="25" />
-        <mark key="." line="25" column="25" />
-        <mark key="^" line="25" column="25" />
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+        <mark key="^" line="30" column="18" />
       </file>
       <file name="/mmall_learning.mmall_product [@localhost]" timestamp="1548128214537">
         <mark key="[" line="0" column="0" />
@@ -583,11 +583,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>getStepBtn</text>
@@ -596,34 +596,34 @@
         <text encoding="base64">Lyog5omT5Y2w5Lik5Liq5pW05pWw55qE5pyA5aSn5YWs5Zug5a2QICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ucGxhbnRvbS1nbzsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBlbnVtIERlY2xhS2luZHsKICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgPCEtLWphdmFmeC0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcub3BlbmpmeDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+amF2YWZ4LWNvbnRyb2xzPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xMTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5vcGVuamZ4PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qYXZhZngtZnhtbDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MTE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20ucGxhbnRvbS1nbzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Lyog5omT5Y2w5Lik5Liq5pW05pWw55qE5pyA5aSn5YWs5Zug5a2QICovCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIHsKICAgICAgICAgICAgVXRpbC5nZXRGaWxlKCIvVXNlcnMvbGtoL0lkZWFQcm9qZWN0cy9DTWludXNDb21waWxlci9zcmMvU0FNUExFLkMtIik7CiAgICAgICAgICAgIGZsYWdFT0YgPSBmYWxzZTsKICAgICAgICAgICAgbGluZVBvcy0tOwogICAgICAgIH0K</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgPCEtLWphdmFmeC0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcub3BlbmpmeDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+amF2YWZ4LWNvbnRyb2xzPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xMTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5vcGVuamZ4PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qYXZhZngtZnhtbDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MTE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
