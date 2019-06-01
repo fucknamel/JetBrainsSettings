@@ -147,12 +147,12 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559397985247">
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559404229970">
         <mark key="'" line="22" column="8" />
-        <mark key="[" line="50" column="30" />
-        <mark key="]" line="50" column="28" />
-        <mark key="." line="50" column="28" />
-        <mark key="^" line="50" column="28" />
+        <mark key="[" line="49" column="16" />
+        <mark key="]" line="49" column="40" />
+        <mark key="." line="49" column="40" />
+        <mark key="^" line="49" column="40" />
       </file>
       <file name="/Jspx File.txt.ft" timestamp="1543321332703">
         <mark key="[" line="0" column="0" />
@@ -590,8 +590,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>ExpStmt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGNoKENvbnN0LlRva2VuVHlwZS5JRCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ExpStmt</text>
@@ -609,34 +609,34 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGNoKENvbnN0LlRva2VuVHlwZS5JRCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNjYW4uZ2V0VG9rZW4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0b2tlbiA9PSBDb25zdC5Ub2tlblR5cGUuVk9JRCB8fCB0b2tlbiA9PSBDb25zdC5Ub2tlblR5cGUuSU5UKXsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZih0b2tlbiA9PSBDb25zdC5Ub2tlblR5cGUuVk9JRCB8fCB0b2tlbiA9PSBDb25zdC5Ub2tlblR5cGUuSU5UKXsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0LnNpYmxpbmcgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
