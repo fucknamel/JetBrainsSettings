@@ -87,10 +87,11 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/TreeNode.java" timestamp="1559393566950">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/TreeNode.java" timestamp="1559397815098">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/phtomgo_ui/src/main/java/ISMCTS/InformationSet.java" timestamp="1553960507682">
         <mark key="[" line="2" column="0" />
@@ -146,12 +147,12 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559395846700">
-        <mark key="'" line="20" column="8" />
-        <mark key="[" line="44" column="13" />
-        <mark key="]" line="44" column="12" />
-        <mark key="." line="44" column="12" />
-        <mark key="^" line="44" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559397985247">
+        <mark key="'" line="22" column="8" />
+        <mark key="[" line="50" column="30" />
+        <mark key="]" line="50" column="28" />
+        <mark key="." line="50" column="28" />
+        <mark key="^" line="50" column="28" />
       </file>
       <file name="/Jspx File.txt.ft" timestamp="1543321332703">
         <mark key="[" line="0" column="0" />
@@ -235,12 +236,12 @@
       <file name="/fragment.js" timestamp="1543853502534">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Const.java" timestamp="1559391991332">
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Const.java" timestamp="1559397708027">
         <mark key="'" line="21" column="52" />
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="42" column="29" />
-        <mark key="." line="42" column="29" />
-        <mark key="^" line="42" column="29" />
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="37" column="22" />
+        <mark key="." line="37" column="22" />
+        <mark key="^" line="37" column="22" />
       </file>
       <file name="/mmall_learning.mmall_product [@localhost]" timestamp="1548128214537">
         <mark key="[" line="0" column="0" />
@@ -590,43 +591,49 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>statement</text>
+        <text>ExpStmt</text>
       </register>
       <register name="-" type="4">
-        <text>statement</text>
+        <text>ExpStmt</text>
       </register>
       <register name="/" type="4">
         <text>flagEOF</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Lyog5omT5Y2w5Lik5Liq5pW05pWw55qE5pyA5aSn5YWs5Zug5a2QICovCg==</text>
+      <register name="0" type="4">
+        <text>if (t == null) {
+            try {
+                Util.fileWriter.write(&quot;Out of memory error at line &quot; + Scan.lineNum + &quot; \n&quot;);
+            } catch (Exception e) {
+                System.out.println(e);
+            }
+        }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFRyZWVOb2RlIHN0YXRlbWVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZih0b2tlbiA9PSBDb25zdC5Ub2tlblR5cGUuVk9JRCB8fCB0b2tlbiA9PSBDb25zdC5Ub2tlblR5cGUuSU5UKXsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXRpbC5maWxlV3JpdGVyLndyaXRlKCIgICAgICIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlsLmZpbGVXcml0ZXIud3JpdGUoIlN5bnRheCBlcnJvciBhdCBsaW5lICIgKyBTY2FuLmxpbmVOdW0gKyAiOiAiICsgc3RyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlsLmZpbGVXcml0ZXIud3JpdGUoIlN5bnRheCBlcnJvciBhdCBsaW5lICIgKyBTY2FuLmxpbmVOdW0gKyAiOiAiICsgc3RyKTsK</text>
+        <text encoding="base64">ICAgICAgICB0LnNpYmxpbmcgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
