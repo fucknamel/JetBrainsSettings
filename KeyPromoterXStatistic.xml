@@ -358,7 +358,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Main'</Description>
-          <Count>8</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Test'">
@@ -502,7 +502,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌥S'</ShortCut>
           <Description>Stop 'Main'</Description>
-          <Count>3</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'NewsDaoTest.selectFrequency'">
