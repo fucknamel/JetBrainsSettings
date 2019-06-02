@@ -124,9 +124,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/SAMPLE.C--" timestamp="1559476589019">
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="18" />
-        <mark key="." line="16" column="18" />
+        <mark key="[" line="27248" column="18" />
+        <mark key="]" line="27248" column="18" />
+        <mark key="." line="27248" column="18" />
       </file>
       <file name="/tpc-h.partsupp [@120.79.22.44]" timestamp="1545640623574">
         <mark key="[" line="0" column="0" />
@@ -147,13 +147,13 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559478083502">
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559481374931">
         <mark key="'" line="402" column="21" />
         <mark key="k" line="343" column="0" />
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="0" />
-        <mark key="^" line="220" column="36" />
-        <mark key="." line="221" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="53" />
+        <mark key="^" line="355" column="22" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="/Jspx File.txt.ft" timestamp="1543321332703">
         <mark key="[" line="0" column="0" />
@@ -592,10 +592,10 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcSA9IHN0YXRlbWVudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF0Y2goImRlY2xhcmF0aW9uIiwgQ29uc3QuVG9rZW5UeXBlLklEKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>null;</text>
+        <text>simpleExpression</text>
       </register>
       <register name="/" type="4">
         <text>ArrayList</text>
@@ -604,38 +604,38 @@
         <text encoding="base64">ICAgICAgICBUcmVlTm9kZSB0ID0gbnVsbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcSA9IHN0YXRlbWVudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF0Y2goImRlY2xhcmF0aW9uIiwgQ29uc3QuVG9rZW5UeXBlLklEKTsK</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXRpbC5wcmludFRva2VuKFNjYW4ubGluZU51bSwgdG9rZW4sIFNjYW4udG9rZW5TdHJpbmcudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF0Y2goImRlY2xhcmF0aW9uIiwgQ29uc3QuVG9rZW5UeXBlLklEKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcSA9IHN0YXRlbWVudCgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVXRpbC5wcmludFRva2VuKFNjYW4ubGluZU51bSwgdG9rZW4sIFNjYW4udG9rZW5TdHJpbmcudG9TdHJpbmcoKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>try {
                 Util.fileWriter.write(&quot;     &quot;);
             } catch (Exception e) {
                 System.out.println(e);
             }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Lyog5omT5Y2w5Lik5Liq5pW05pWw55qE5pyA5aSn5YWs5Zug5a2QICovCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBBc3NpZ25LOgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHAK</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>

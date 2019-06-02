@@ -81,6 +81,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Main'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'Main'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'tomcat'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -297,6 +305,14 @@
           <Count>21</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Main'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Main'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'NewsServiceImpl.getRecommendTitle'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -358,7 +374,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'Main'</Description>
-          <Count>22</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Test'">
@@ -454,7 +470,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>4</Count>
+          <Count>300</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -462,7 +478,7 @@
           <IdeaActionID>StepOut</IdeaActionID>
           <ShortCut>'⇧F8'</ShortCut>
           <Description>Step Out</Description>
-          <Count>2</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Over">
@@ -470,7 +486,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>15</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'CordycepsHub [org.mybatis.generator:mybatis-generator-maven-plugin:1.3.2:generate]'">
@@ -502,7 +518,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌥S'</ShortCut>
           <Description>Stop 'Main'</Description>
-          <Count>17</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'NewsDaoTest.selectFrequency'">
@@ -606,7 +622,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>41</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'tomcat9' application">
