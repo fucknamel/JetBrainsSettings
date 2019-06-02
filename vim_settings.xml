@@ -147,12 +147,13 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559464179011">
-        <mark key="'" line="235" column="22" />
-        <mark key="[" line="219" column="33" />
-        <mark key="]" line="219" column="30" />
-        <mark key="." line="219" column="30" />
-        <mark key="^" line="219" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559465617836">
+        <mark key="'" line="355" column="22" />
+        <mark key="[" line="332" column="21" />
+        <mark key="k" line="343" column="0" />
+        <mark key="]" line="332" column="20" />
+        <mark key="." line="332" column="20" />
+        <mark key="^" line="332" column="20" />
       </file>
       <file name="/Jspx File.txt.ft" timestamp="1543321332703">
         <mark key="[" line="0" column="0" />
@@ -236,12 +237,12 @@
       <file name="/fragment.js" timestamp="1543853502534">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Const.java" timestamp="1559457908337">
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Const.java" timestamp="1559465545388">
         <mark key="'" line="21" column="52" />
-        <mark key="[" line="30" column="11" />
-        <mark key="]" line="30" column="10" />
-        <mark key="." line="30" column="10" />
-        <mark key="^" line="30" column="10" />
+        <mark key="[" line="38" column="24" />
+        <mark key="]" line="38" column="32" />
+        <mark key="." line="38" column="32" />
+        <mark key="^" line="38" column="32" />
       </file>
       <file name="/mmall_learning.mmall_product [@localhost]" timestamp="1548128214537">
         <mark key="[" line="0" column="0" />
@@ -591,7 +592,15 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>var();
+        if (t == null) {
+            t = simpleExpression();
+        }else {
+            TreeNode p = null;
+            if (token == Const.TokenType.ASSIGN) {
+                p = newExpNode(Const.ExpKind.AssignK);
+                p.name = new String(Scan.tokenString.toString());
+                match(Const.TokenType.ASSIGN);</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -602,41 +611,49 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBUcmVlTm9kZSB0ID0gbnVsbDsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text>var();
+        if (t == null) {
+            t = simpleExpression();
+        }else {
+            TreeNode p = null;
+            if (token == Const.TokenType.ASSIGN) {
+                p = newExpNode(Const.ExpKind.AssignK);
+                p.name = new String(Scan.tokenString.toString());
+                match(Const.TokenType.ASSIGN);</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
         <text>if (t == null)t = q = p;
                 else {
                     q.sibling = p;
                     q = p;
                 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBUcmVlTm9kZSBxID0gbnVsbDsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>else {
                     match(S);
                 }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUcmVlTm9kZSB0ZW1wID0gbmV3RGVjbGFOb2RlKENvbnN0LkRlY2xhS2luZC5WYXJEZWNsSyk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUcmVlTm9kZSB0ZW1wID0gbmV3RGVjbGFOb2RlKENvbnN0LkRlY2xhS2luZC5WYXJEZWNsSyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
