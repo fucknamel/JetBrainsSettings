@@ -147,12 +147,12 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559462451474">
-        <mark key="'" line="233" column="22" />
-        <mark key="[" line="219" column="9" />
-        <mark key="]" line="220" column="16" />
-        <mark key="." line="220" column="16" />
-        <mark key="^" line="220" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559464179011">
+        <mark key="'" line="235" column="22" />
+        <mark key="[" line="219" column="33" />
+        <mark key="]" line="219" column="30" />
+        <mark key="." line="219" column="30" />
+        <mark key="^" line="219" column="36" />
       </file>
       <file name="/Jspx File.txt.ft" timestamp="1543321332703">
         <mark key="[" line="0" column="0" />
@@ -591,10 +591,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>ArrayList</text>
@@ -602,37 +602,41 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBUcmVlTm9kZSB0ID0gbnVsbDsK</text>
       </register>
-      <register name="1" type="4">
-        <text>else {
-                    match(S);
-                }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUcmVlTm9kZSB0ZW1wID0gbmV3RGVjbGFOb2RlKENvbnN0LkRlY2xhS2luZC5WYXJEZWNsSyk7Cg==</text>
+      <register name="2" type="4">
+        <text>if (t == null)t = q = p;
+                else {
+                    q.sibling = p;
+                    q = p;
+                }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBUcmVlTm9kZSBxID0gbnVsbDsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>else {
+                    match(S);
+                }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUcmVlTm9kZSB0ZW1wID0gbmV3RGVjbGFOb2RlKENvbnN0LkRlY2xhS2luZC5WYXJEZWNsSyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dG9rZW4gIT0gQ29uc3QuVG9rZW5UeXBlLkVOREZJTEUgJiYgdG9rZW4gIT0gQ29uc3QuVG9rZW5UeXBlLlZPSUQKICAgICAgICAgICAgICAgICYmIHRva2VuICE9IENvbnN0LlRva2VuVHlwZS5JTlQ=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
