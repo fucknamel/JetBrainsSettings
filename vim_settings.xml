@@ -147,12 +147,12 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559443553833">
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559445179626">
         <mark key="'" line="22" column="8" />
-        <mark key="[" line="68" column="16" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="67" column="58" />
-        <mark key="^" line="70" column="15" />
+        <mark key="[" line="114" column="8" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="113" column="42" />
+        <mark key="^" line="115" column="7" />
       </file>
       <file name="/Jspx File.txt.ft" timestamp="1543321332703">
         <mark key="[" line="0" column="0" />
@@ -236,12 +236,12 @@
       <file name="/fragment.js" timestamp="1543853502534">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Const.java" timestamp="1559397708027">
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Const.java" timestamp="1559444068985">
         <mark key="'" line="21" column="52" />
-        <mark key="[" line="37" column="16" />
-        <mark key="]" line="37" column="22" />
-        <mark key="." line="37" column="22" />
-        <mark key="^" line="37" column="22" />
+        <mark key="[" line="30" column="37" />
+        <mark key="]" line="30" column="47" />
+        <mark key="." line="30" column="47" />
+        <mark key="^" line="30" column="47" />
       </file>
       <file name="/mmall_learning.mmall_product [@localhost]" timestamp="1548128214537">
         <mark key="[" line="0" column="0" />
@@ -591,10 +591,10 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>else if ()</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>flagEOF</text>
@@ -603,34 +603,34 @@
         <text encoding="base64">ICAgIHN0YXRpYyBUcmVlTm9kZSBuZXdFeHBOb2RlKENvbnN0LkV4cEtpbmQga2luZCkgewogICAgICAgIFRyZWVOb2RlIHQgPSBuZXcgVHJlZU5vZGUoKTsKICAgICAgICBpZiAodCA9PSBudWxsKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBVdGlsLmZpbGVXcml0ZXIud3JpdGUoIk91dCBvZiBtZW1vcnkgZXJyb3IgYXQgbGluZSAiICsgU2Nhbi5saW5lTnVtICsgIiBcbiIpOwogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGUpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHQubm9kZUtpbmQgPSBDb25zdC5Ob2RlS2luZC5FeHBLOwogICAgICAgIHQuY2hpbGQgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICB0LmV4cCA9IGtpbmQ7CiAgICAgICAgdC5saW5lTnVtID0gU2Nhbi5saW5lTnVtOwoKICAgICAgICByZXR1cm4gdDsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHQuY2hpbGQuYWRkKHEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdC5jaGlsZC5nZXQodC5jaGlsZC5zaXplKCkgLSAxKS5uYW1lID0gU2Nhbi50b2tlblN0cmluZy50b1N0cmluZygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHQuZGVjbGEgPSBDb25zdC5EZWNsYUtpbmQuVmFyX0RlY2xLOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHJlZU5vZGUgcSA9IG5ld0RlY2xhTm9kZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHQubm9kZUtpbmQgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdC5jaGlsZC5hZGQobmV3RXhwTm9kZShDb25zdC5FeHBLaW5kLklkSykpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
