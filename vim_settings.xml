@@ -147,12 +147,12 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559442960079">
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559443553833">
         <mark key="'" line="22" column="8" />
-        <mark key="[" line="58" column="12" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="57" column="54" />
-        <mark key="^" line="59" column="11" />
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="67" column="58" />
+        <mark key="^" line="70" column="15" />
       </file>
       <file name="/Jspx File.txt.ft" timestamp="1543321332703">
         <mark key="[" line="0" column="0" />
@@ -485,7 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="2" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
       <jump line="10" column="19" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
       <jump line="30" column="27" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
       <jump line="33" column="69" filename="$USER_HOME$/IdeaProjects/CordycepsHub/src/main/resources/mappers/TransportMapper.xml" />
@@ -585,70 +584,53 @@
       <jump line="18" column="8" filename="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" />
       <jump line="20" column="8" filename="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" />
       <jump line="63" column="20" filename="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Util.java" />
+      <jump line="65" column="43" filename="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>funDeclaration</text>
+        <text>else if ()</text>
       </register>
       <register name="/" type="4">
         <text>flagEOF</text>
       </register>
       <register name="0" type="4">
-        <text>if (t == null) {
-            try {
-                Util.fileWriter.write(&quot;Out of memory error at line &quot; + Scan.lineNum + &quot; \n&quot;);
-            } catch (Exception e) {
-                System.out.println(e);
-            }
-        }</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBUcmVlTm9kZSBuZXdFeHBOb2RlKENvbnN0LkV4cEtpbmQga2luZCkgewogICAgICAgIFRyZWVOb2RlIHQgPSBuZXcgVHJlZU5vZGUoKTsKICAgICAgICBpZiAodCA9PSBudWxsKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBVdGlsLmZpbGVXcml0ZXIud3JpdGUoIk91dCBvZiBtZW1vcnkgZXJyb3IgYXQgbGluZSAiICsgU2Nhbi5saW5lTnVtICsgIiBcbiIpOwogICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGUpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHQubm9kZUtpbmQgPSBDb25zdC5Ob2RlS2luZC5FeHBLOwogICAgICAgIHQuY2hpbGQgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICB0LmV4cCA9IGtpbmQ7CiAgICAgICAgdC5saW5lTnVtID0gU2Nhbi5saW5lTnVtOwoKICAgICAgICByZXR1cm4gdDsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHN0YXRpYyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>switch (token) {
-            case INT:
-                t.child.add(newDeclaNode(Const.DeclaKind.IntK));
-                match(Const.TokenType.INT);
-                t.child.add(newExpNode(Const.ExpKind.IdK));
-                t.child.get(1).name = Scan.tokenString.toString();
-                break;
-            case VOID:
-                t.child.add(newDeclaNode(Const.DeclaKind.VoidK));
-                break;
-
-            default:
-        }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGNoKENvbnN0LlRva2VuVHlwZS5JRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHQuZGVjbGEgPSBDb25zdC5EZWNsYUtpbmQuVmFyX0RlY2xLOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNjYW4uZ2V0VG9rZW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHQubm9kZUtpbmQgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
