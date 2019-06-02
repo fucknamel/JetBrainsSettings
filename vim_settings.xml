@@ -147,12 +147,12 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559404229970">
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559442960079">
         <mark key="'" line="22" column="8" />
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="49" column="40" />
-        <mark key="." line="49" column="40" />
-        <mark key="^" line="49" column="40" />
+        <mark key="[" line="58" column="12" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="57" column="54" />
+        <mark key="^" line="59" column="11" />
       </file>
       <file name="/Jspx File.txt.ft" timestamp="1543321332703">
         <mark key="[" line="0" column="0" />
@@ -480,7 +480,7 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1556709781393">
+      <file name="/fragment.java" timestamp="1559442350732">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -591,10 +591,10 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGNoKENvbnN0LlRva2VuVHlwZS5JRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ExpStmt</text>
+        <text>funDeclaration</text>
       </register>
       <register name="/" type="4">
         <text>flagEOF</text>
@@ -609,34 +609,46 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGNoKENvbnN0LlRva2VuVHlwZS5JRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNjYW4uZ2V0VG9rZW4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
+      <register name="4" type="4">
+        <text>switch (token) {
+            case INT:
+                t.child.add(newDeclaNode(Const.DeclaKind.IntK));
+                match(Const.TokenType.INT);
+                t.child.add(newExpNode(Const.ExpKind.IdK));
+                t.child.get(1).name = Scan.tokenString.toString();
+                break;
+            case VOID:
+                t.child.add(newDeclaNode(Const.DeclaKind.VoidK));
+                break;
+
+            default:
+        }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hdGNoKENvbnN0LlRva2VuVHlwZS5JRCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0b2tlbiA9PSBDb25zdC5Ub2tlblR5cGUuVk9JRCB8fCB0b2tlbiA9PSBDb25zdC5Ub2tlblR5cGUuSU5UKXsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNjYW4uZ2V0VG9rZW4oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpCg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
