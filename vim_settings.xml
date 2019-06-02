@@ -147,13 +147,12 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559469063133">
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559473972442">
         <mark key="'" line="438" column="7" />
         <mark key="k" line="349" column="0" />
-        <mark key="[" line="490" column="21" />
-        <mark key="]" line="492" column="29" />
-        <mark key="." line="492" column="29" />
-        <mark key="^" line="492" column="29" />
+        <mark key="[" line="503" column="0" />
+        <mark key="]" line="503" column="0" />
+        <mark key="." line="503" column="0" />
       </file>
       <file name="/Jspx File.txt.ft" timestamp="1543321332703">
         <mark key="[" line="0" column="0" />
@@ -284,12 +283,12 @@
       <file name="/history [@120.79.22.44]" timestamp="1544762761336">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Util.java" timestamp="1559394947066">
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Util.java" timestamp="1559474241039">
         <mark key="'" line="63" column="20" />
-        <mark key="[" line="68" column="53" />
-        <mark key="]" line="68" column="55" />
-        <mark key="." line="68" column="55" />
-        <mark key="^" line="68" column="55" />
+        <mark key="[" line="89" column="8" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="88" column="41" />
+        <mark key="^" line="90" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ISMCTS/src/main/java/com/plantomGo/Const.java" timestamp="1559216192458">
         <mark key="[" line="6" column="26" />
@@ -592,7 +591,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgCg==</text>
       </register>
       <register name="-" type="4">
         <text>K</text>
@@ -604,34 +603,34 @@
         <text encoding="base64">ICAgICAgICBUcmVlTm9kZSB0ID0gbnVsbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgCg==</text>
       </register>
       <register name="q" type="4">
         <text>BBB</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IoaW50ICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
