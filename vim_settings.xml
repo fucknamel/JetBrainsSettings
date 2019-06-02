@@ -147,13 +147,13 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559481374931">
+      <file name="$USER_HOME$/IdeaProjects/CMinusCompiler/src/Parse.java" timestamp="1559481891163">
         <mark key="'" line="402" column="21" />
         <mark key="k" line="343" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="53" />
+        <mark key="[" line="182" column="22" />
+        <mark key="]" line="182" column="22" />
         <mark key="^" line="355" column="22" />
-        <mark key="." line="58" column="0" />
+        <mark key="." line="182" column="22" />
       </file>
       <file name="/Jspx File.txt.ft" timestamp="1543321332703">
         <mark key="[" line="0" column="0" />
@@ -591,11 +591,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF0Y2goImRlY2xhcmF0aW9uIiwgQ29uc3QuVG9rZW5UeXBlLklEKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>simpleExpression</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ArrayList</text>
