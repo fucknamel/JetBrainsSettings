@@ -89,11 +89,11 @@
         <mark key="." line="51" column="20" />
         <mark key="^" line="51" column="20" />
       </file>
-      <file name="/hello.ipynb" timestamp="1559810433890">
+      <file name="/hello.ipynb" timestamp="1559810795647">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-        <mark key="." line="1" column="10" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Arquillian JUnit Test Class.txt.ft" timestamp="1543321246719">
         <mark key="[" line="0" column="0" />
@@ -191,7 +191,7 @@
         <mark key="^" line="151" column="43" />
         <mark key="." line="151" column="43" />
       </file>
-      <file name="/Python Console" timestamp="1559800571184">
+      <file name="/Python Console" timestamp="1559810738676">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Tag Library Descriptor.txt.ft" timestamp="1543321323625">
@@ -512,7 +512,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>ServerResponse getCommentList(int pageNum, int pageSize)</text>
+        <text encoding="base64">IyUlCg==</text>
       </register>
       <register name="-" type="4">
         <text>newsList</text>
@@ -523,32 +523,32 @@
       <register name="0" type="4">
         <text>ServerResponse getCommentList(int pageNum, int pageSize)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0Q291bnQgPSBuZXdzTWFwcGVyLmNoZWNrQnlUaXRsZShuZXdzLmdldE5ld3N0aXRsZSgpKTsKICAgICAgICBpZihyZXN1bHRDb3VudCA+IDApewogICAgICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2UuY3JlYXRlQnlFcnJvck1lc3NhZ2UoIueUqOaIt+WQjeW3suWtmOWcqCIpOwogICAgICAgIH0KCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IyUlCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBub3coKSwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">MAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGFyZyBjb2x1bW49Im5ld3NUaW1lIiBqZGJjVHlwZT0iVElNRVNUQU1QIiBqYXZhVHlwZT0iamF2YS51dGlsLkRhdGUiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0Q291bnQgPSBuZXdzTWFwcGVyLmNoZWNrQnlUaXRsZShuZXdzLmdldE5ld3N0aXRsZSgpKTsKICAgICAgICBpZihyZXN1bHRDb3VudCA+IDApewogICAgICAgICAgICByZXR1cm4gU2VydmVyUmVzcG9uc2UuY3JlYXRlQnlFcnJvck1lc3NhZ2UoIueUqOaIt+WQjeW3suWtmOWcqCIpOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBub3coKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTZXJ2ZXJSZXNwb25zZSBkZWxldGVOZXcoSW50ZWdlciApCg==</text>
+        <text encoding="base64">ICAgICAgPGFyZyBjb2x1bW49Im5ld3NUaW1lIiBqZGJjVHlwZT0iVElNRVNUQU1QIiBqYXZhVHlwZT0iamF2YS51dGlsLkRhdGUiIC8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTZXJ2ZXJSZXNwb25zZSBkZWxldGVOZXcoSW50ZWdlciBpZCl7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5U3VjY2VzcygpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTZXJ2ZXJSZXNwb25zZSBkZWxldGVOZXcoSW50ZWdlciApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTZXJ2ZXJSZXNwb25zZSBkZWxldGVOZXcoSW50ZWdlciBpZCl7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlcnZlclJlc3BvbnNlLmNyZWF0ZUJ5U3VjY2VzcygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>actionlist</text>
