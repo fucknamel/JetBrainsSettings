@@ -89,6 +89,12 @@
         <mark key="." line="51" column="20" />
         <mark key="^" line="51" column="20" />
       </file>
+      <file name="/hello.ipynb" timestamp="1559810433890">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
       <file name="/Arquillian JUnit Test Class.txt.ft" timestamp="1543321246719">
         <mark key="[" line="0" column="0" />
       </file>
@@ -296,7 +302,7 @@
         <mark key="^" line="24" column="29" />
         <mark key="." line="24" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559800571380">
+      <file name="/Dummy.txt" timestamp="1559810073112">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/newshub/src/main/resources/mappers/UserMapper.xml" timestamp="1544344490094">
