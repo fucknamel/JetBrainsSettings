@@ -397,7 +397,7 @@
       <file name="/newshub.user [@120.79.22.44]" timestamp="1545203816030">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1561472013439">
+      <file name="/dummy.sql" timestamp="1561473692625">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -408,7 +408,7 @@
         <mark key="^" line="97" column="11" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561472013432">
+      <file name="/Dummy.txt" timestamp="1561473825398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -608,10 +608,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>construction_</text>
+        <text>start_</text>
       </register>
       <register name="-" type="4">
-        <text>construction_</text>
+        <text>start_</text>
       </register>
       <register name="/" type="4">
         <text>ArrayList</text>
